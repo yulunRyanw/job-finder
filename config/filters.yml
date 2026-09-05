@@ -80,6 +80,10 @@ categories:
       - platform
       - portfolio
       - deal
+      - vc              # "VC Fellowship Program", "VC Analyst"
+      - fellow
+      - fellows
+      - fellowship
     exclude:           # engineering/IT roles that happen to be at a VC firm
       - software engineer
       - staff engineer
