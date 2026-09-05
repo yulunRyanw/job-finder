@@ -1,0 +1,103 @@
+[
+ {
+  "title": "2027 Summer Analyst, Venture Capital",
+  "company": "Bessemer Venture Partners",
+  "url": "https://www.bvp.com/analyst-program",
+  "location": "San Francisco, CA; New York, NY",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "description": "Bessemer's 2027 Summer Analyst application is open to undergraduate or five-year master's students graduating between spring and summer 2028 who are interested in venture capital, startups and technology. One of the few brand-name VC firms running a structured undergraduate summer analyst programme. Confirm exact dates on the programme page."
+ },
+ {
+  "title": "Venture Capital Fellowship 2026-2027",
+  "company": "Halogen Ventures",
+  "url": "https://halogenvc.com/fellowship",
+  "location": "Los Angeles, CA",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "description": "DEADLINE 13 SEPTEMBER 2026, 11:59pm PT. Halogen Ventures' in-semester fellowship trains undergraduate and graduate students in venture capital. This is the nearest-term VC deadline found in this sweep - apply first if it fits."
+ },
+ {
+  "title": "Threshold Venture Fellows 2027",
+  "company": "Stanford Technology Ventures Program",
+  "url": "https://stvp.stanford.edu/tvf",
+  "location": "Stanford, CA",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "description": "ELIGIBILITY: Stanford master's students only. Application for the 2027 cohort is open with a deadline of Sunday 25 October. Twelve fellows work on entrepreneurship and venture creation. Listed for completeness - skip unless you are at Stanford."
+ },
+ {
+  "title": "VC Fellowship Program",
+  "company": "Vencapital",
+  "url": "https://www.vencapital.org/fellowship-application",
+  "location": "Remote",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "remote": true,
+  "description": "Vencapital runs a fellowship aimed at people breaking into venture capital without a traditional finance background. Application form is open on the linked page."
+ },
+ {
+  "title": "Pear VC Fellows Program",
+  "company": "Pear VC",
+  "url": "https://pear.vc/programs/dorm/fellows/",
+  "location": "Menlo Park, CA",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "description": "Immersive VC apprenticeship for undergraduate, MBA and PhD students. The 2026-2027 cohort deadline was 9 August 2026, so this cycle has likely closed - the page is the place to watch for the next intake, which typically opens in summer."
+ },
+ {
+  "title": "Venture Fellow Program 2026-2027",
+  "company": "Carolina Angel Network",
+  "url": "https://www.carolinaangelnetwork.com/venture-fellow-program",
+  "location": "Chapel Hill, NC",
+  "via": "web",
+  "tags": ["vc"],
+  "posted_at": "2026-09-05",
+  "description": "ELIGIBILITY: current UNC-Chapel Hill students. Applications open for the 2026/2027 school year. Real deal-screening experience with an angel network."
+ },
+ {
+  "title": "Summer 2027 Intern - Associate Product Manager (APM)",
+  "company": "Salesforce",
+  "url": "https://www.salesforce.com/company/careers/jobs/JR348039/summer-2027-intern-associate-product-manager-apm/",
+  "location": "San Francisco, CA",
+  "via": "web",
+  "tags": ["bigco"],
+  "posted_at": "2026-09-05",
+  "description": "Salesforce's Associate Product Manager summer internship for 2027. Salesforce runs on Workday rather than a public job-board API, so this role does not appear in the automated feed."
+ },
+ {
+  "title": "AI Product Manager Intern - 2027 Summer",
+  "company": "TikTok",
+  "url": "https://lifeattiktok.com/search",
+  "location": "San Jose, CA",
+  "via": "web",
+  "tags": ["bigco"],
+  "posted_at": "2026-09-05",
+  "description": "TikTok is running multiple 2027 summer PM internships including AI Product Manager (TikTok-Product-Social) and Content & Service Ads PM. Search the TikTok careers site for '2027 product manager intern'. Surfaced via the jobright-ai PM internship list."
+ },
+ {
+  "title": "Product Design Intern (Summer 2027)",
+  "company": "Roblox",
+  "url": "https://careers.roblox.com/jobs/8143984",
+  "location": "San Mateo, CA",
+  "via": "web",
+  "tags": ["bigco"],
+  "posted_at": "2026-09-05",
+  "description": "DEADLINE 30 OCTOBER 2026, 5pm PST. Open to students pursuing an undergraduate or graduate degree in Design (UX/UI, interaction, motion, graphics, typography, web or product) or a related field. One of the clearest product-design internship deadlines currently published."
+ },
+ {
+  "title": "Campus Graduate Summer Internship 2027 - Product Development",
+  "company": "American Express",
+  "url": "https://aexp.eightfold.ai/careers",
+  "location": "New York, NY",
+  "via": "web",
+  "tags": ["bigco"],
+  "posted_at": "2026-09-05",
+  "description": "Amex runs a 2027 campus product development summer internship. Their careers site is Eightfold-based and not in the automated feed; search 'Campus Graduate 2027 product'. Surfaced via the jobright-ai PM internship list."
+ }
+]
