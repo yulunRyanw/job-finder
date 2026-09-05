@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-09-05T07:27:02Z",
+ "generated_at": "2026-09-05T07:30:07Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7753,
+   "raw": 7837,
    "error": "",
-   "detail": "47/47 boards live"
+   "detail": "49/49 boards live"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3574,
+   "raw": 3609,
    "error": "",
-   "detail": "33/33 boards live"
+   "detail": "36/36 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1167,
+   "raw": 1171,
    "error": "",
-   "detail": "6/6 boards live"
+   "detail": "7/7 boards live"
   },
   {
    "source": "hn_hiring",
@@ -46,6 +46,186 @@
  ],
  "jobs": [
   {
+   "title": "Portfolio Management Internship",
+   "company": "Wavemaker Partners 2",
+   "url": "https://venturecapitalcareers.com/companies/wavemaker-partners-2/jobs/portfolio-management-internship",
+   "location": "On-site",
+   "description": "Wavemaker is Southeast Asia's leading VC firm investing in Enterprise, Deep Tech, and\n\n Sustainability startups. Since 2012, we have backed over 200 companies across multiple funds, guided by our thesis:\n\n • ﻿We invest in trustworthy & curious founders who have built conviction through experience and industry insights, and identified large opportunities because they see the world diﬀerently.\n• We invest in scalable, capital-eﬃcient, defensible businesses that solve meaningful problems 10x better than existing options.\n \n With a large portfolio of early-stage companies, we are building our Portfolio Management team to put our founders at the center of our universe and ensure our startups are optimally supported in their early-stage journey as they build their business\n\n How you make an impact \n\n You play an important role in supporting the database management requirements and data needs of Wavemaker internal teams, while getting a front-row seat to how a VC firm operates – from portfolio tracking to how investment teams use data to make decisions.\n\n • You will diligently support the Portfolio Management Team in auditing our core relational databases across portfolio companies, entities, and ecosystem contacts – mapping where data points are sourced, surfacing redundancies, and coordinating with other teams to establish the process, platform, and timing behind their data.\n• You will help build end-to-end systems for internal teams and external partners, from populating and structuring Airtable bases to designing user interfaces, setting up automations, and preparing databases for AI-powered use.\n• You will also help clean, organize, and enrich existing CRM data so it can be used reliably downstream.\n• You are numerically strong and have a knack for numbers.\n• You're comfortable working with large data sets and drawing insights from analysis of data.\n• You are curious about new tools and pick them up quickly.\n• You consistently work in a meticulous manner and with a high degree of attention to detail.\n \n What we look for \n\n You put people first!\n\n Motivation \n\n You love early-stage tech startups, innovation and venture capital. You want to make a move to immerse yourself into this world.\n\n Background \n\n • You're currently studying towards a Bachelor's or Master's degree. We're open to diﬀerent fields of study!\n• You have had at least 1-2 other internships\n \n Skillset \n\n • ﻿﻿ You are highly process-oriented and methodical in your approach.\n• You can switch easily between working meticulously with a high degree of attention to detail, and looking at the big picture and thinking strategically while being laser-focused on your task at hand, you have no problems juggling multiple balls at the same time.\n• You are thoughtful, possessing strong analytical skills and critical thinking skills.\n• You are extremely service-oriented and have the ability to build trust and forge long-term relationships with people of all backgrounds\n• You are articulate and eloquent both in written and verbal communication\n \n Mindset \n\n • You are intellectually curious and have an unquenchable thirst for knowledge.\n• You're not afraid to say, \"I don't know\", but you pick things up quickly and roll up your sleeves.\n• While remaining flexible and adaptable, you are able to uphold your integrity and conduct yourself in an ethical manner.\n• You are a self-starter with tons of initiative. You don't need to wait around for instructions and you proactively propose solutions.\n• You are independent and self-managed, with a bias for continuous contribution to the team.\n \n Why work with us? \n\n We put people first!\n\n Founders \n\n We know how much you admire entrepreneurs - their innovation, their grit, and their courage. So do we! Our motivations are aligned to invest in and support these entrepreneurs who have the courage to solve meaningful problems.\n\n Community \n\n We build and nurture a trusted community of successful and inspiring entrepreneurs, advisors and industry experts, visionary and progressive investors, and supportive vendor partners.\n\n You \n\n This opportunity will immerse you deep into the world of startups, innovation and venture capital! You will gain valuable experience and skills in the investment process as well as value creation for startups to help them scale.\n\n We view wellbeing holistically so for us, it includes physical and mental wellbeing, environmental and social wellbeing, and intellectual and spiritual wellbeing. We run initiatives that ensure all aspects of wellbeing are considered.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "248914612790e0a5",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Associate, Venture Creation (Fintech)",
+   "company": "Diagram",
+   "url": "https://venturecapitalcareers.com/companies/diagram/jobs/associate-venture-creation-fintech",
+   "location": "Canada or Remote (United States)",
+   "description": "Job Location: Toronto, ON or Montreal, QC\n Who we are :\n Diagram is a venture builder and early-stage investor that conceives, launches, and invests in transformative companies in the Fintech and ClimateTech sectors. Since 2016, we’ve raised over $480M and launched or invested in around 50 companies.\n We work hand-in-hand with experienced founders, combining access to capital, hands-on support, and a deep ecosystem of partners to launch and scale businesses. Our ecosystem includes 200+ investors, including 60+ entrepreneurs with exits exceeding $15B, as well as a global network of corporate partners.\n Diagram is part of Sagard, a global multi-strategy alternative investment platform with over US$46B in AUM\n What we are looking for :\n We are looking for an Associate, Venture Creation to help launch new Diagram ventures, reporting to Diagram’s Fintech Venture Creation Principal.\n The successful candidate will bring a highly entrepreneurial mindset and strong desire to build the next generation of technology companies.\n This person will work directly with Diagram Partners, potential founders and expert advisors to lead the development, evaluation, de-risking and building of new Fintech/Insuretech ventures. The Associate will play a key role in turning ideas into companies, and shaping Diagram’s portfolio.\n Your responsibilities will include: \n • Identifying opportunities for new ventures to build and developing in-depth theses and perspectives on opportunity areas;\n• Conducting user and market research, assessing business models and unit economics, assessing moat/defensibility to evaluate potential ideas;\n• Generating and pitching new venture ideas, including developing pitch decks and investment memos\n• Building prototype leveraging AI tools, leading build of MVP in collaboration with engineering, AI experts and other technical expert;\n• Owning the work plan and leading the venture during pre-seed (E.g., leading partnerships with early design partners, securing pilot customers);\n• Pitching ideas to potential founders, participating in the vetting and team x idea matching process, and building close relationships with founders\n• Contributing to building Diagram's culture and brand in the community (e.g. attending startup community events, conferences, etc)\n You should have: \n • A track record of outstanding performance\n• A proven entrepreneurial mindset, high degree of ownership and a self-starter mentality\n• Intellectual curiosity and rigor\n• Strong communication skills (verbal and written) - be comfortable pitching ideas, and be able to produce high-quality deliverables\n• Demonstrated ability to use AI technologies to create/build and leverage to assist in day to day work/activites\n• 1-3 years of work experience in relevant fields such as:\n• Early stage venture capital investing (Seed or Series A)\n• Early-stage tech incl. product management, design-thinking / human-centered design, engineering, or other experience within tech startups\n• Consulting or advisory focused on tech products / businesses\n• Venture building at a venture studio\n• Analytical skills and the ability to build financial models\n• A technical (Engineering, Computer Science, Economics) or business degree\n• Knowledge, experience or network in FinTech or InsureTech are a plus\n What we offer: \n • A unique opportunity to learn how to build a VC-backed company 0-1;\n• An essential role in something big, meaningful and different;\n• The opportunity to push yourself, have ownership and impact;\n• A team of accomplished, ambitious and supportive individuals that will help you grow;\n• An ecosystem with many stretch opportunities including the potential to join a Diagram portfolio company;\n• Competitive compensation, including upside in the companies Diagram creates;\n• Beautiful offices in great locations (Montreal, Toronto);\n• Generous benefits including a telemedicine service for you and your family.\n How to apply: \n In order to be considered for the role, please apply to the role and attach: \n • Your resume\n• One thematic analysis - show us an example of how YOU think like a founder/entrepreneur by sharing with us an area you see opportunities for innovation\n• Tell us how have you meaningfully used AI in the last 12 months\n Guidance for the thematic idea: Create a max 2 page (word) memo or 10-slide presentation around a Fintech or Insuretech theme of your choice, addressing the following questions:\n • Pain Points: What are big problems to be solved in the theme?\n• Market Timing: What makes this area ripe for disruption today? What are the market headwinds and/or tailwinds?\n• Market Sizing : How big is the market today? What’s the market size projected in 2040?\n• Competition : Who are a few venture backed companies in the space?\n• Interesting Angles : What are a few ideas you’d be interested in exploring?\n We are less interested in exhaustive research and more interested in how you think. Approach this as if you are pitching a new venture theme internally at Diagram. We’re looking for sharp insight, strong judgment, and clear venture angles - not a consulting-style industry report.\n We encourage you to focus on a clearly defined theme within Fintech or Insurtech rather than covering the sector broadly. For example, instead of writing about “AI in Fintech,” you might explore a focused theme such as agentic payments infrastructure. Depth within a well-defined wedge is stronger than a high-level overview of an entire category.\n Note: we will select the top applicants to present their thematic analysis to us. Interviews will start following the close of applications.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "7c82be54fea659dc",
+   "category": "vc",
+   "level": "open",
+   "region": "other_us",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Venture Scout",
+   "company": "Cvx Ventures",
+   "url": "https://venturecapitalcareers.com/companies/cvx-ventures/jobs/98879f5d02744439ac01e9b25ad83b73-venture-scout",
+   "location": "Berlin, DE or Remote (Germany)",
+   "description": "CVX Venture Scout Programme \n\n Do you have a passion for sourcing investments and making a difference for growth companies? Do you want to assist an extraordinary team of talented, motivated, driven individuals who all share a deep passion for entrepreneurship? If so, you may be our new Venture Scout. Please note, this is not a full time role, but we will provide remuneration based on success criteria. \n\n Introduction \n\n The CVX Venture Scout Programme is building a network of highly talented VC scouts, to assist us in sourcing attractive investment opportunities, in their specialist fields. You will learn and develop some of the most important skills required to be in VC, and meet with some of the most interesting and entrepreneurial founders in your market, and help shape the future.\n\n As part of your role as a CVX Venture Scout, the Investment Team will look to you to identify exciting startups, speak with them and conduct research on them, including their teams, markets, and competition. Based on your findings, you will write a 1-2 page proposal memo summarising your investment thesis, and may be asked to present it in-person or online to the CVX Investment Team.\n\n Expectations \n\n We aim to use our Venture Scout Programme not only to discover exceptional investment opportunities but also to gain a deeper understanding of you and your vision. If you are interested in joining the CVX Investment Team, this is an excellent first step towards not only gaining an introduction to the VC ecosystem and learning essential VC skills, but also demonstrating how you think about investments, analyse them, and present your insights to us. As we grow our Investment Team, the Venture Scout Programme will be the first pool of resource we look to hire from.\n\n Compensation \n\n We want to remunerate good work and give credit to your role in the investment process, where successful. We will therefore compensate you when a deal that you take forward to the investment team receives funding from our network of investors, with an opportunity for you to benefit from the upside too.\n\n Our Mission \n\n CVX is one of Europe's fastest-growing venture investors, and we help ambitious and promising growth companies reach their full potential by investing capital, knowledge, time, skills, and network. We are driven by our conviction that the best investors are often those who, in addition to capital, provide founders with the right knowledge and experiences, skills, and networks in relation to the stage and industry in which the company operates. CVX always invests together with the best business angels for the respective founder, and today we have over 700 partners in our network who invest in companies and bring their skills into play where they can really add value.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "f3b0c4e4c511094f",
+   "category": "vc",
+   "level": "open",
+   "region": "other_us",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Investment Scout",
+   "company": "Cvx Ventures",
+   "url": "https://venturecapitalcareers.com/companies/cvx-ventures/jobs/investment-scout",
+   "location": "Berlin, DE or Remote (Germany)",
+   "description": "CVX Venture Scout Programme \n\n Do you have a passion for sourcing investments and making a difference for growth companies? Do you want to assist an extraordinary team of talented, motivated, driven individuals who all share a deep passion for entrepreneurship? If so, you may be our new Venture Scout. Please note, this is not a full time role, but we will provide remuneration based on success criteria. \n\n Introduction \n\n The CVX Venture Scout Programme is building a network of highly talented VC scouts, to assist us in sourcing attractive investment opportunities, in their specialist fields. You will learn and develop some of the most important skills required to be in VC, and meet with some of the most interesting and entrepreneurial founders in your market, and help shape the future.\n\n As part of your role as a CVX Venture Scout, the Investment Team will look to you to identify exciting startups, speak with them and conduct research on them, including their teams, markets, and competition. Based on your findings, you will write a 1-2 page proposal memo summarising your investment thesis, and may be asked to present it in-person or online to the CVX Investment Team.\n\n Expectations \n\n We aim to use our Venture Scout Programme not only to discover exceptional investment opportunities but also to gain a deeper understanding of you and your vision. If you are interested in joining the CVX Investment Team, this is an excellent first step towards not only gaining an introduction to the VC ecosystem and learning essential VC skills, but also demonstrating how you think about investments, analyse them, and present your insights to us. As we grow our Investment Team, the Venture Scout Programme will be the first pool of resource we look to hire from.\n\n Compensation \n\n We want to remunerate good work and give credit to your role in the investment process, where successful. We will therefore compensate you when a deal that you take forward to the investment team receives funding from our network of investors, with an opportunity for you to benefit from the upside too.\n\n Our Mission \n\n CVX is one of Europe's fastest-growing venture investors, and we help ambitious and promising growth companies reach their full potential by investing capital, knowledge, time, skills, and network. We are driven by our conviction that the best investors are often those who, in addition to capital, provide founders with the right knowledge and experiences, skills, and networks in relation to the stage and industry in which the company operates. CVX always invests together with the best business angels for the respective founder, and today we have over 700 partners in our network who invest in companies and bring their skills into play where they can really add value.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "def3e756a9b81a4e",
+   "category": "vc",
+   "level": "open",
+   "region": "other_us",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Venture Scout",
+   "company": "Athleteiq Ventures",
+   "url": "https://venturecapitalcareers.com/companies/athleteiq-ventures/jobs/venture-scout-5",
+   "location": "Texas, United States or Remote (United States)",
+   "description": "AthleteIQ Ventures invests in early-stage companies building the future of human performance infrastructure and sports commerce. Through direct access to operators and performance environments, we help founders validate, refine, and accelerate category-defining products earlier than traditional investors.\n The Film Room is AthleteIQ Ventures' bi-monthly showcase for sports technology founders. Hosted by former NFL All-Pro and Pro Bowler, Adrian Phillips, each session brings up to five companies into a live business breakdown with athletes, operators, and venture investors who challenge the product, pressure test the market, and help founders understand what it takes to earn trust, adoption, and momentum in sports.\n Help us find the next generation of sports technology companies!\n AthleteIQ Ventures is building a national network of Scouts to help identify exceptional pre-seed and seed-stage companies at the intersection of sports, technology, and human performance.\n We're looking for highly connected, curious students and athletes who naturally hear about interesting companies, products, and technologies before they reach the broader market.\n What You'll Do \n As an AthleteIQ Scout, you'll help us:\n • Identify promising pre-seed and seed-stage startups in sports technology, athlete performance, wellness, fan engagement, sports commerce, and related areas\n• Introduce companies that you believe AthleteIQ should know about\n• Stay connected to emerging founders, entrepreneurs, and innovators within your network\n• Share insights on products and technologies you see gaining traction\n• Help us identify the companies that could shape the future of sports and human performance\n You are not expected to conduct formal diligence or make investment decisions. Your job is simple: find interesting companies and help us get to know them early.\n What You'll Get \n Being an AthleteIQ Scout gives you a front-row seat to the sports innovation ecosystem, including:\n • Access to The Film Room: See founders pitch alongside professional athletes and investors and get a behind-the-scenes look at how companies are evaluated\n• Founder & Investor Network: Build relationships with entrepreneurs, investors, athletes, and sports industry leaders\n• Early Access to Emerging Companies: Get exposure to startups before they become widely known\n• Venture & Startup Experience: Learn how investors evaluate early-stage companies and what makes a compelling investment opportunity\n• AthleteIQ Community: Become part of a growing network focused on the future of sports and human performance\n Who We're Looking For \n You don't need to be an investor. We're looking for people who:\n • Have a strong network across sports, technology, entrepreneurship, or investing\n• Are naturally curious about new products and companies\n• Have a strong understanding of sports or the athlete experience\n• Are plugged into what's happening on campus and beyond\n• Enjoy making introductions and connecting people\n• Want hands-on exposure to startups, venture capital, and sports innovation\n Student-athletes, graduate students, entrepreneurs, and students involved in business, technology, or entrepreneurship are all encouraged to apply.\n Interested?\n We're looking for exceptional people at leading universities across the country to join the first cohort of the AthleteIQ Scout Network.\n If you're interested in becoming an AthleteIQ Scout, complete this application. \n https://forms.gle/BxgJqyStR1z5DwFk6\n Questions? Email our team at team@aiqvc.com.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "c30a3314bca5ea98",
+   "category": "vc",
+   "level": "open",
+   "region": "other_us",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Product Manager (AI Hardware)",
+   "company": "Artificialanalysis",
+   "url": "https://jobs.ashbyhq.com/artificialanalysis/98f5bce9-bb32-4c58-ab2e-a48de02cce30",
+   "location": "San Francisco (On-site)",
+   "description": "Job Description – Product Manager (AI Hardware)\n\nLocation: San Francisco (on-site at our offices)\n\nAbout Artificial Analysis\n\nArtificial Analysis is the leading independent AI benchmarking company. We support labs, engineers and enterprises to understand AI capabilities and make critical decisions about their AI strategies. We are the go-to authority for understanding AI, from AI labs and enterprises to media, investors, and policymakers. Our benchmarks don’t just measure the cutting edge of AI, they are actively shaping the frontier.\n\nOur benchmarks and analysis are trusted by hundreds of thousands of users and are the go-to reference for leading AI labs including OpenAI, Google, Meta, NVIDIA and Anthropic, and major publications including the Wall Street Journal, Bloomberg, the Financial Times and The Economist.\n\nWe are a team of 40+, on track to double by end of year, backed by Nat Friedman (GitHub, Meta), Daniel Gross (SSI, Meta), Andrew Ng (Google Brain, DeepLearning.ai http://DeepLearning.ai, Amazon), Adam D’Angelo (Quora, Poe, OpenAI), Clem Delangue (Hugging Face) and other industry leaders.\n\nThe Opportunity\n\nAI hardware is where the next decade of AI economics will be decided, and our hardware benchmarks are becoming the reference point for how the industry measures accelerators. We’re hiring into our hardware pillar to drive that coverage: benchmarking the GPUs, TPUs and custom silicon the AI industry runs on, and building the analysis that helps the industry understand them.\n\nYou’ll design and run performance benchmarks across accelerators and inference configurations, extend our hardware benchmarking stack, including AA-AgentPerf and our performance benchmarking suite, build cost and throughput models, and work directly with the leading chipmakers to benchmark their latest silicon. This is a technical, hands-on role at the intersection of silicon and AI, working directly with our founders and hardware pillar lead.\n\nWhat You’ll Do\n\n• Benchmark AI Accelerators: Design and execute performance benchmarking across GPUs, TPUs and custom inference silicon, measuring throughput, latency and price-performance the way the industry actually deploys\n\n• Build Evaluation Methodology: Develop and maintain the frameworks that define how AI hardware performance and efficiency are measured, extending products like AA-AgentPerf, from tokens per second and time-to-first-token to total cost of ownership\n\n• Analyze Inference Economics: Deeply understand how cost-per-token, utilization and hardware choice interact, and translate that into analysis the industry relies on for deployment and procurement decisions\n\n• Partner with Chipmakers: Work with the top hardware companies in the world, from NVIDIA, AMD and Google to the leading new accelerator companies, at a deep technical level: benchmarking their latest silicon, shaping methodology together, and setting the standards the industry measures by\n\n• Drive Strategic Analysis: Produce reports and data visualizations that communicate hardware performance and economics to technical and non-technical audiences\n\n• Become AI-Native: Embrace an AI-native workflow, using cutting-edge AI tools to generate leverage in a fast-changing industry and maintain our competitive edge in AI benchmarking\n\nWhat We’re Looking For\n\nYou should come from the world of AI accelerators.\n\nBackgrounds include: engineering, product, performance or technical roles at AI accelerator and inference hardware companies (e.g. Cerebras, Groq, SambaNova, d-Matrix, Etched, MatX, Tenstorrent or similar), GPU and accelerator teams at larger players (NVIDIA, AMD, Google, Amazon, Qualcomm), or inference infrastructure companies working close to the silicon.\n\nRequired:\n\n• 3+ years of professional experience, including at least 2 years at an AI chip company (e.g. NVIDIA, Cerebras, SambaNova, Groq or similar)\n\n• Strong analytical and critical thinking skills\n\n• Proficiency in Python and data analysis\n\n• Deep familiarity with AI accelerators and the inference software stack (e.g. CUDA, TensorRT, vLLM or similar serving frameworks)\n\n• Understanding of inference economics: cost-per-token, utilization, and the trade-offs that drive real deployment decisions\n\n• Genuine, demonstrable interest and knowledge of Frontier AI. We want people who have informed opinions about where AI is heading, not just people who use AI tools\n\nWhy Artificial Analysis?\n\n• Shape how AI gets built: The leading AI labs track our benchmarks and use them to guide their development priorities. Your work will directly influence the direction of AI.\n\n• Become a world expert in AI: You will evaluate every major model, across every major capability, as they are released. Very few roles offer this breadth of exposure to frontier AI.\n\n• Work with the most important players in AI: You’ll manage relationships with teams at the leading AI labs and major enterprises as a trusted, independent voice.\n\n• Join at a defining moment: We’re 40+ people, on track to double by end of year, backed by some of the most connected investors in AI. The people who join now will shape the product, the team, and the strategy as we scale.\n\n• Competitive compensation including equity\n\n1",
+   "source": "ashby",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-07-29",
+   "remote": false,
+   "id": "58ea726a22d20d09",
+   "category": "pm",
+   "level": "open",
+   "region": "sf_bay",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Product Manager (AI Speech)",
+   "company": "Artificialanalysis",
+   "url": "https://jobs.ashbyhq.com/artificialanalysis/c5437ebc-ae37-43a8-9e8f-21e70249cbf5",
+   "location": "San Francisco (On-site)",
+   "description": "Job Description – Product Manager (AI Speech)\n\nLocation: San Francisco (on-site at our offices)\n\nAbout Artificial Analysis\n\nArtificial Analysis is the leading independent AI benchmarking company. We support labs, engineers and enterprises to understand AI capabilities and make critical decisions about their AI strategies. We are the go-to authority for understanding AI, from AI labs and enterprises to media, investors, and policymakers. Our benchmarks don’t just measure the cutting edge of AI, they are actively shaping the frontier.\n\nOur benchmarks and analysis are trusted by hundreds of thousands of users and are the go-to reference for leading AI labs including OpenAI, Google, Meta, NVIDIA and Anthropic, and major publications including the Wall Street Journal, Bloomberg, the Financial Times and The Economist.\n\nWe are a team of 40+, on track to double by end of year, backed by Nat Friedman (GitHub, Meta), Daniel Gross (SSI, Meta), Andrew Ng (Google Brain, DeepLearning.ai http://DeepLearning.ai, Amazon), Adam D’Angelo (Quora, Poe, OpenAI), Clem Delangue (Hugging Face) and other industry leaders.\n\nThe Opportunity\n\nSpeech is becoming AI’s next interface: text to speech, speech to text, voice cloning and real-time voice agents are moving from demos into infrastructure, and our speech benchmarks are how the industry tracks who is winning. We’re hiring into our speech pillar to drive that coverage.\n\nYou’ll build and extend our speech evaluations and arenas, from streaming speech to text and voice cloning to next-generation speech-to-speech intelligence with benchmarks like AgentTalk, and work at a deep technical level with the leading speech AI companies to benchmark their latest models as they launch.\n\nWhat You’ll Do\n\n• Benchmark the Speech Frontier: Own coverage across text to speech, speech to text and speech to speech, benchmarking new models and providers as they launch\n\n• Design Speech Evaluations: Build and extend the evaluation frameworks, prompt libraries and arenas that reflect how developers and creators actually use speech models, including agentic voice through AgentTalk\n\n• Partner with Speech Leaders: Work with the top speech AI companies in the world at a deep technical level to benchmark their models and shape how the industry measures voice\n\n• Publish Influential Analysis: Produce the leaderboards, reports and analysis that shape how the industry understands speech AI progress\n\n• Drive Product Direction: Shape the roadmap of our speech benchmarking platform together with our engineers and pillar lead\n\n• Become AI-Native: Embrace an AI-native workflow, using cutting-edge AI tools to generate leverage in a fast-changing industry and maintain our competitive edge in AI benchmarking\n\nWhat We’re Looking For\n\nYou should know speech AI from the inside.\n\nBackgrounds include: product, research or engineering roles at speech AI companies (e.g. ElevenLabs, Cartesia, Inworld, Sesame, Deepgram, AssemblyAI, Rime or similar), voice teams at larger platforms (e.g. OpenAI, Google, Microsoft), or teams building products on text to speech, speech to text or real-time voice.\n\nRequired:\n\n• 3+ years of professional experience, including at least 1 year working hands-on with speech AI\n\n• Strong analytical and critical thinking skills\n\n• Proficiency in Python and data analysis\n\n• Hands-on familiarity with modern speech models and their evaluation: quality assessment, word error rate and latency measurement, and preference testing\n\n• Genuine, demonstrable interest and knowledge of Frontier AI. We want people who have informed opinions about where AI is heading, not just people who use AI tools\n\nWhy Artificial Analysis?\n\n• Shape how AI gets built: The leading AI labs track our benchmarks and use them to guide their development priorities. Your work will directly influence the direction of AI.\n\n• Become a world expert in AI: You will evaluate every major model, across every major capability, as they are released. Very few roles offer this breadth of exposure to frontier AI.\n\n• Work with the most important players in AI: You’ll manage relationships with teams at the leading AI labs and major enterprises as a trusted, independent voice.\n\n• Join at a defining moment: We’re 40+ people, on track to double by end of year, backed by some of the most connected investors in AI. The people who join now will shape the product, the team, and the strategy as we scale.\n\n• Competitive compensation including equity\n\n1",
+   "source": "ashby",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-07-29",
+   "remote": false,
+   "id": "9f894e685c5c5e08",
+   "category": "pm",
+   "level": "open",
+   "region": "sf_bay",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Product Manager (Media Generation - Image & Video)",
+   "company": "Artificialanalysis",
+   "url": "https://jobs.ashbyhq.com/artificialanalysis/34992bbd-ce65-44c9-b68a-27a4d3921d64",
+   "location": "San Francisco (On-site)",
+   "description": "Job Description – Product Manager (Media Generation – Image & Video)\n\nLocation: San Francisco (on-site at our offices)\n\nAbout Artificial Analysis\n\nArtificial Analysis is the leading independent AI benchmarking company. We support labs, engineers and enterprises to understand AI capabilities and make critical decisions about their AI strategies. We are the go-to authority for understanding AI, from AI labs and enterprises to media, investors, and policymakers. Our benchmarks don’t just measure the cutting edge of AI, they are actively shaping the frontier.\n\nOur benchmarks and analysis are trusted by hundreds of thousands of users and are the go-to reference for leading AI labs including OpenAI, Google, Meta, NVIDIA and Anthropic, and major publications including the Wall Street Journal, Bloomberg, the Financial Times and The Economist.\n\nWe are a team of 40+, on track to double by end of year, backed by Nat Friedman (GitHub, Meta), Daniel Gross (SSI, Meta), Andrew Ng (Google Brain, DeepLearning.ai http://DeepLearning.ai, Amazon), Adam D’Angelo (Quora, Poe, OpenAI), Clem Delangue (Hugging Face) and other industry leaders.\n\nThe Opportunity\n\nWe’re hiring Product Managers focused on AI image and video generation. You’ll work closely with us to develop and enhance our media arenas and leaderboards, contributing to product strategy and execution at the frontier of generative media.\n\nThis is a hands-on, technical product role: you’ll drive day-to-day operations for our image and video offerings and be a key contributor to product development, collaborating closely with engineering and analysis colleagues, as well as our founders. You’ll run human preference studies, curate prompt sets and categories, and work with the leading media generation companies to benchmark their latest models.\n\nWe are open to a wide range of experience levels for this role and will shape the seat to the person.\n\nWhat You’ll Do\n\n• Product Development for Media Benchmarking: Contribute to image and video product strategy and help execute the roadmap for our arenas and leaderboards, including video editing, reference-to-image and reference-to-video capabilities\n\n• Curate and Develop Evaluation Frameworks: Build prompt libraries, categories and evaluation techniques that reflect how creators and developers actually use image and video models, today and in the coming years\n\n• Media Operations: Keep coverage up to date by benchmarking new models and providers as they launch, managing generation pipelines and human preference studies\n\n• Quality and Use Case Analysis: Deeply understand how creators and developers push these models, and translate those insights into evaluation frameworks that help users understand capability differences\n\n• Strategic Marketing Support and Community Engagement: Help amplify the impact of our media benchmarks, collaborating with our team to maximize impact of our content across platforms and audiences\n\n• Industry Engagement: Work with leading image and video companies to benchmark their models, understanding their capabilities and helping shape industry standards for how media generation is evaluated\n\n• Become AI-Native: Embrace an AI-native workflow, using cutting-edge AI tools to generate leverage in a fast-changing industry and maintain our competitive edge in AI benchmarking\n\nWhat We’re Looking For\n\nRequired:\n\n• 3+ years of professional experience\n\n• Strong analytical and critical thinking skills\n\n• Excitement about AI and eagerness to work at the forefront of technological innovation\n\n• Demonstrated excellence, both academically and professionally\n\n• Real interest in AI image and video generation\n\nBeyond that, this opportunity could potentially suit a wide range of backgrounds. We believe that the following skills and experience would likely be helpful for success in this role. We’re not expecting any single candidate to tick off the entire list, but these are some things that we think would be valuable:\n\n• Experience at an AI image or video generation company (e.g. Midjourney, Runway, Black Forest Labs, Luma, Higgsfield, Ideogram, Krea, Recraft or similar) or a media generation team at a larger lab (e.g. OpenAI, Google), especially in product, operations or research roles\n\n• Experience building products leveraging image or video generation models\n\n• Familiarity with human preference evaluation methodologies or arena-style ranking systems\n\n• Experience in strategy consulting\n\n• Strong writing skills, especially in relation to explaining technical topics to both technical and non-technical audiences\n\n• Visual communication skills (e.g. making slides, visualizing data)\n\n• Proficiency in Python and data analysis libraries (e.g. pandas, numpy, matplotlib); experience with AI/ML frameworks (e.g. PyTorch, TensorFlow)\n\nWhy Artificial Analysis?\n\n• Shape how AI gets built: The leading AI labs track our benchmarks and use them to guide their development priorities. Your work will directly influence the direction of AI.\n\n• Become a world expert in AI: You will evaluate every major model, across every major capability, as they are released. Very few roles offer this breadth of exposure to frontier AI.\n\n• Work with the most important players in AI: You’ll manage relationships with teams at the leading AI labs and major enterprises as a trusted, independent voice.\n\n• Join at a defining moment: We’re 40+ people, on track to double by end of year, backed by some of the most connected investors in AI. The people who join now will shape the product, the team, and the strategy as we scale.\n\n• Competitive compensation including equity\n\n1",
+   "source": "ashby",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-07-29",
+   "remote": false,
+   "id": "98a1e2f33fdc3563",
+   "category": "pm",
+   "level": "open",
+   "region": "sf_bay",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Fellow (Tech & AI)",
+   "company": "1752Vc",
+   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-tech-ai",
+   "location": "Boston, Massachusetts, United States or Remote (United States)",
+   "description": "About the Fellowship \n Join 1752vc's Venture Capital Fellowship and gain hands-on experience sourcing, evaluating, and supporting investments in early-stage startups across AI, Enterprise Software, Fintech, Frontier Technology, Healthcare, and PropTech.\n This fellowship provides direct exposure to how venture capital funds operate while contributing to live deal flow, investment diligence, and portfolio support. 1752vc invests up to $100,000 per company through a structured three-month program focused on identifying and supporting exceptional founders.\n What You'll Do \n As a Venture Capital Fellow, you will:\n • Source and evaluate venture-backed startup opportunities\n• Learn how to do market research and investment diligence\n• Develop founder outreach and relationship skills\n• Analyze companies, markets, and emerging technology trends\n• Contribute to investment discussions and deal evaluation\n• Learn venture capital frameworks used in real-world investing\n Who This Fellowship Is For \n This program is designed for:\n • Professionals seeking to build or advance a career in venture capital or private equity\n• Startup operators interested in transitioning into investing\n• Emerging fund managers establishing or scaling their first funds\n• Angels and family offices seeking to strengthen their investment processes\n• Individuals interested in joining or launching venture funds, accelerators, or startup studios\n• Founders who want to learn how to position themselves to investors\n What You'll Gain \n • Hands-on venture capital experience\n• Exposure to live investment opportunities and diligence processes\n• Direct interaction with investors\n• Practical training in sourcing, evaluation, and investment decision-making\n• Access to a growing network within the startup ecosystem\n Location \n The program operates remotely, with select optional in-person opportunities in Los Angeles and other ecosystem events when available.\n Compensation \n This is not a traditional salaried role. Compensation is performance-based and tied to contributions and outcomes, with opportunities for participants to share in the fund's upside.\n Equal Opportunity \n 1752vc is committed to fostering diversity, equity, and inclusion across all programs.",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "12674ec0128c8c02",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "other_us",
+   "first_seen": "2026-09-05T07:30:07Z",
+   "last_seen": "2026-09-05T07:30:07Z",
+   "active": true
+  },
+  {
    "title": "Investment Associate & Product Engineer",
    "company": "Y Combinator",
    "url": "https://venturecapitalcareers.com/companies/y-combinator/jobs/investment-associate-product-engineer",
@@ -62,7 +242,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -82,7 +262,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -102,7 +282,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -122,7 +302,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -142,7 +322,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -163,7 +343,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Associate / Portfolio Manager",
@@ -182,7 +362,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -202,7 +382,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -222,7 +402,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -242,7 +422,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -262,7 +442,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -282,7 +462,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -302,7 +482,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -322,7 +502,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -342,7 +522,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -362,7 +542,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -382,7 +562,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -402,7 +582,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -422,7 +602,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -442,7 +622,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -462,7 +642,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -482,7 +662,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -502,7 +682,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -522,7 +702,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -542,7 +722,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -562,7 +742,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -582,7 +762,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -602,7 +782,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -622,7 +802,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -642,7 +822,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -662,7 +842,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -682,7 +862,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -702,7 +882,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -722,7 +902,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -742,7 +922,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -762,7 +942,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -782,7 +962,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -802,7 +982,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -822,7 +1002,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -842,7 +1022,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -862,7 +1042,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -882,7 +1062,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -902,7 +1082,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -922,7 +1102,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -942,7 +1122,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -962,7 +1142,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -982,7 +1162,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1002,7 +1182,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1022,7 +1202,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1042,7 +1222,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1062,7 +1242,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1082,7 +1262,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1102,7 +1282,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1122,7 +1302,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1142,7 +1322,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1162,7 +1342,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1182,7 +1362,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1202,7 +1382,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1222,7 +1402,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1242,7 +1422,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1262,7 +1442,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1282,7 +1462,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1302,7 +1482,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1322,7 +1502,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1342,7 +1522,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1362,7 +1542,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1382,7 +1562,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1402,7 +1582,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1422,7 +1602,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1442,7 +1622,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1462,7 +1642,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1482,7 +1662,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1502,7 +1682,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1522,7 +1702,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1542,7 +1722,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1562,7 +1742,7 @@
    "level": "entry",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1582,7 +1762,7 @@
    "level": "entry",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1602,7 +1782,7 @@
    "level": "entry",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1622,7 +1802,7 @@
    "level": "entry",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1642,7 +1822,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1662,7 +1842,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1682,7 +1862,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1702,7 +1882,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1722,7 +1902,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1742,7 +1922,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1762,7 +1942,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1782,7 +1962,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1802,7 +1982,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1822,7 +2002,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1842,7 +2022,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1862,7 +2042,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1882,7 +2062,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1902,7 +2082,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1922,7 +2102,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1942,7 +2122,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1962,7 +2142,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -1982,7 +2162,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2002,7 +2182,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2022,7 +2202,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2042,7 +2222,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2062,7 +2242,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2082,7 +2262,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2102,7 +2282,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2122,7 +2302,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2142,7 +2322,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2162,7 +2342,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2182,7 +2362,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2202,7 +2382,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2222,7 +2402,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2242,7 +2422,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2262,7 +2442,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2282,7 +2462,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2302,7 +2482,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2322,7 +2502,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2342,7 +2522,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2363,7 +2543,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2383,7 +2563,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2403,7 +2583,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2423,7 +2603,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2443,7 +2623,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2463,7 +2643,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2483,7 +2663,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2503,7 +2683,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2523,7 +2703,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2543,7 +2723,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2563,7 +2743,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2583,7 +2763,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2603,7 +2783,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2623,7 +2803,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2643,7 +2823,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2663,7 +2843,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2683,7 +2863,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2703,7 +2883,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2724,7 +2904,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2745,7 +2925,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2766,7 +2946,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2786,7 +2966,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2806,7 +2986,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2826,7 +3006,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2846,7 +3026,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2866,7 +3046,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2886,7 +3066,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2906,7 +3086,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2927,7 +3107,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Management Intern",
@@ -2946,7 +3126,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2966,7 +3146,7 @@
    "level": "entry",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -2986,7 +3166,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3006,7 +3186,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3027,7 +3207,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Scout",
@@ -3047,7 +3227,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Design Engineer",
@@ -3066,7 +3246,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3086,7 +3266,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3106,7 +3286,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3126,7 +3306,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3146,7 +3326,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3166,7 +3346,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3186,7 +3366,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3206,7 +3386,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3226,7 +3406,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3246,7 +3426,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3266,7 +3446,7 @@
    "level": "open",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3286,7 +3466,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3306,7 +3486,7 @@
    "level": "entry",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3326,7 +3506,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3346,7 +3526,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3366,7 +3546,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3386,7 +3566,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3406,7 +3586,7 @@
    "level": "entry",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3426,7 +3606,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3446,7 +3626,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3466,7 +3646,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3486,7 +3666,7 @@
    "level": "open",
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3506,7 +3686,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3527,7 +3707,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "AI Analyst",
@@ -3546,7 +3726,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3566,7 +3746,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3586,7 +3766,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3606,7 +3786,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3626,7 +3806,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3646,7 +3826,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3666,7 +3846,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3686,7 +3866,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3706,7 +3886,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3726,7 +3906,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3746,7 +3926,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3766,7 +3946,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3786,7 +3966,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3806,7 +3986,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3826,7 +4006,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3846,7 +4026,7 @@
    "level": "open",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3866,7 +4046,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3886,7 +4066,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3906,7 +4086,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3926,7 +4106,7 @@
    "level": "open",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3946,7 +4126,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3966,7 +4146,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -3986,7 +4166,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -4006,7 +4186,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   },
   {
@@ -4027,7 +4207,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T07:27:02Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Analyst",
@@ -4046,7 +4226,7 @@
    "level": "open",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T07:27:02Z",
+   "last_seen": "2026-09-05T07:30:07Z",
    "active": true
   }
  ]

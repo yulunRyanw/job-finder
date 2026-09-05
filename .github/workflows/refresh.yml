@@ -50,11 +50,15 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -s data/digest.md ]; then
-            gh issue create \
-              --title "New early-career roles — $(date -u +%Y-%m-%d)" \
-              --body-file data/digest.md \
-              --label "new-jobs" || echo "Issue creation skipped (label may not exist yet)."
-          else
+          if [ ! -s data/digest.md ]; then
             echo "No new early-career postings this run."
+            exit 0
           fi
+          # Ensure the label exists; without it the issue create would fail and
+          # the notification would be lost silently.
+          gh label create new-jobs --color 0E8A16 \
+            --description "Automated digest of new early-career postings" 2>/dev/null || true
+          gh issue create \
+            --title "New early-career roles — $(date -u +%Y-%m-%d)" \
+            --body-file data/digest.md \
+            --label "new-jobs"

@@ -26,6 +26,22 @@ def _pretty(slug: str) -> str:
     return re.sub(r"[-_]+", " ", slug).title()
 
 
+def _clean_location(raw: str, company_slug: str) -> str:
+    """Cards repeat the company name and location after the location itself.
+    Cut at whichever repetition appears first."""
+    loc = raw.strip(" ·-,")
+    # 1. the company name (as slug words) restarts the repeated block
+    words = [w for w in re.split(r"[-_]+", company_slug) if len(w) > 2]
+    if words:
+        pat = re.compile(r"\s+" + r"[\s-]*".join(re.escape(w) for w in words), re.I)
+        loc = pat.split(loc)[0].strip(" ·-,")
+    # 2. otherwise the location string simply repeats itself
+    half = len(loc) // 2
+    if half > 8 and loc[:half].strip(" ·-,").lower() == loc[half:].strip(" ·-,").lower():
+        loc = loc[:half].strip(" ·-,")
+    return re.split(r"\s*\((?:On-site|Hybrid|Remote)\)", loc, flags=re.I)[0].strip(" ·-,")
+
+
 def _parse_page(html: str) -> list[Posting]:
     soup = BeautifulSoup(html, "lxml")
     out: list[Posting] = []
@@ -52,9 +68,7 @@ def _parse_page(html: str) -> list[Posting]:
         location = ""
         lm = _LOC.search(text)
         if lm:
-            location = lm.group(1).strip(" ·-")
-            # The card repeats the company after the location; cut it off.
-            location = re.split(r"\s*\((?:On-site|Hybrid|Remote)\)", location, flags=re.I)[0].strip(" ·-,")
+            location = _clean_location(lm.group(1), m.group(1))
             if lm.group(2):
                 location = f"{location} ({lm.group(2)})"
         out.append(Posting(
