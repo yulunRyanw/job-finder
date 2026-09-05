@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T08:15:24Z",
+ "generated_at": "2026-09-05T08:23:56Z",
  "health": [
   {
    "source": "greenhouse",
@@ -62,7 +62,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -83,7 +83,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Pear VC Fellows Program",
@@ -102,7 +102,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -122,7 +122,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -142,7 +142,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -162,7 +162,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -182,7 +182,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -199,10 +199,10 @@
    "remote": false,
    "id": "6c015840db13fd13",
    "category": "vc",
-   "level": "open",
+   "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -222,7 +222,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -242,7 +242,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -262,7 +262,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -282,7 +282,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -302,7 +302,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -322,7 +322,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -342,7 +342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-05T07:30:07Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -363,7 +363,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Scout",
@@ -383,7 +383,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Scout",
@@ -403,7 +403,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Scout",
@@ -423,7 +423,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager (AI Hardware)",
@@ -443,7 +443,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager (AI Speech)",
@@ -463,7 +463,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager (Media Generation - Image & Video)",
@@ -483,7 +483,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Fellow (Tech & AI)",
@@ -502,7 +502,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -523,7 +523,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Associate",
@@ -543,7 +543,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -563,7 +563,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -583,7 +583,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Funds Operations Associate",
@@ -603,7 +603,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Portfolio Management Internship",
@@ -643,7 +643,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -663,7 +663,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Marketplace",
@@ -683,7 +683,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Community Associate (Remote)",
@@ -703,7 +703,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Associate (Remote)",
@@ -723,7 +723,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Intern",
@@ -742,7 +742,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -762,7 +762,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -783,7 +783,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "VC Associate",
@@ -803,7 +803,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Operations Associate, Washington, D.C.",
@@ -823,7 +823,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Design",
@@ -843,7 +843,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Brand Designer",
@@ -863,7 +863,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -883,7 +883,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor Relations",
@@ -903,7 +903,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Manager, Solution Architecture Platforms",
@@ -923,7 +923,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Manager, Solutions Architecture- Enterprise Hunter",
@@ -943,7 +943,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Partner Development Manager, Strategic Partnerships",
@@ -963,7 +963,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Growth",
@@ -983,7 +983,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Sail Core",
@@ -1003,7 +1003,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Solutions Architect, SMB (Presales)",
@@ -1023,7 +1023,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "2027 Venture Capital Summer Associate",
@@ -1042,7 +1042,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1062,7 +1062,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1082,7 +1082,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1102,7 +1102,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1123,7 +1123,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst",
@@ -1142,7 +1142,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1163,7 +1163,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Chief Of Staff",
@@ -1183,7 +1183,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -1203,7 +1203,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -1223,7 +1223,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Associate",
@@ -1243,7 +1243,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Voice",
@@ -1263,7 +1263,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Agent Studio",
@@ -1283,7 +1283,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Ghostwriter",
@@ -1303,7 +1303,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Agent Development - Flagship Deployment",
@@ -1323,7 +1323,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -1343,7 +1343,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "AI Product Manager (Coding/Multimodal)",
@@ -1363,7 +1363,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Chief of Staff, Public Sector Engineering & Security",
@@ -1383,7 +1383,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Operations Associate",
@@ -1403,7 +1403,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Chief of Staff",
@@ -1423,7 +1423,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Analyst",
@@ -1443,7 +1443,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Web Engineer",
@@ -1463,7 +1463,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Analyst",
@@ -1483,7 +1483,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate - Venture Capital",
@@ -1503,7 +1503,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Financial Analyst",
@@ -1523,7 +1523,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment & Ecosystem Development Manager - Ethiopia",
@@ -1543,7 +1543,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Ventures Associate - Cedars-Sinai",
@@ -1563,7 +1563,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Backend Software Engineer, PDP Experience",
@@ -1583,7 +1583,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Developer Ecosystem",
@@ -1603,7 +1603,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Associate - Healthcare or Life Sciences",
@@ -1623,7 +1623,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -1643,7 +1643,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Design Engineer",
@@ -1663,7 +1663,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager | International",
@@ -1683,7 +1683,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Quantitative Research and Strategy, Healthcare AI Associate",
@@ -1703,7 +1703,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Tech Atlas Healthcare Associate",
@@ -1723,7 +1723,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Incubation Associate, Compute",
@@ -1743,7 +1743,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -1763,7 +1763,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Program Associate",
@@ -1783,7 +1783,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "SMB Program Associate",
@@ -1803,7 +1803,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Ventures Associate - Enterprise & AI",
@@ -1823,7 +1823,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Ventures Analyst/ Associate - Enterprise & AI Ventures",
@@ -1843,7 +1843,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Design Manager - Dashboard",
@@ -1863,7 +1863,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Design Engineer, Growth & Marketing",
@@ -1883,7 +1883,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Growth",
@@ -1903,7 +1903,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, SMB Growth",
@@ -1923,7 +1923,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Internship",
@@ -1942,7 +1942,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1962,7 +1962,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -1982,7 +1982,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -2002,7 +2002,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -2023,7 +2023,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, New Grad - US Government",
@@ -2043,7 +2043,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, New Grad - US Government",
@@ -2063,7 +2063,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, New Grad - US Government",
@@ -2083,7 +2083,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Analyst, MENA",
@@ -2103,7 +2103,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Sensitive Deployments",
@@ -2123,7 +2123,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, API Infrastructure",
@@ -2143,7 +2143,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "RTL Design Engineer – Interconnect & Network Datapath",
@@ -2163,7 +2163,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Core Models",
@@ -2183,7 +2183,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Codex Security Controls & Partner Interfaces",
@@ -2203,7 +2203,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Cyber Defense and Blue Team",
@@ -2223,7 +2223,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Legal",
@@ -2243,7 +2243,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Payments",
@@ -2263,7 +2263,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Identity",
@@ -2283,7 +2283,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Engineering Acceleration",
@@ -2303,7 +2303,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Design Systems",
@@ -2323,7 +2323,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, ChatGPT and Codex App Ecosystem",
@@ -2343,7 +2343,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Statsig",
@@ -2363,7 +2363,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Rapid User Researcher",
@@ -2383,7 +2383,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate, Direct Investments",
@@ -2403,7 +2403,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Marketing Associate",
@@ -2423,7 +2423,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Software Engineer 3",
@@ -2443,7 +2443,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate M12",
@@ -2463,7 +2463,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Partner",
@@ -2483,7 +2483,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate",
@@ -2503,7 +2503,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Partner",
@@ -2523,7 +2523,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Design Manager, Design Systems",
@@ -2543,7 +2543,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -2563,7 +2563,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -2583,7 +2583,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Mobile Product Designer",
@@ -2603,7 +2603,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate",
@@ -2623,7 +2623,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "National Accounts Associate, Broker Dealer Development",
@@ -2643,7 +2643,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate",
@@ -2663,7 +2663,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Fellow",
@@ -2682,7 +2682,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -2703,7 +2703,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Primary Investments",
@@ -2723,7 +2723,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Design Manager, Payroll",
@@ -2743,7 +2743,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate – Healthcare Impact VC",
@@ -2763,7 +2763,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "University VC Scout",
@@ -2783,7 +2783,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Capital Markets",
@@ -2803,7 +2803,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Client Service Associate, GC Wealth",
@@ -2824,7 +2824,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Life Sciences",
@@ -2844,7 +2844,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Growth Acceleration",
@@ -2864,7 +2864,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate",
@@ -2884,7 +2884,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Support & Marketing Associate for Startup Accelerator",
@@ -2904,7 +2904,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager - Integrations",
@@ -2924,7 +2924,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager - Integrations",
@@ -2944,7 +2944,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Visiting Associate (Munich or Remote) - 6-12 months from October 2026",
@@ -2964,7 +2964,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Scout (Remote in Europe)",
@@ -2984,7 +2984,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Brand Designer, Product Launches",
@@ -3004,7 +3004,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Manager, Product Design",
@@ -3024,7 +3024,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Manager, Product Management - Roundtripping",
@@ -3044,7 +3044,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, AI Models",
@@ -3064,7 +3064,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Design, Dev, & AI Tools",
@@ -3084,7 +3084,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Growth & Monetization",
@@ -3104,7 +3104,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate, Jordan",
@@ -3124,7 +3124,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate",
@@ -3144,7 +3144,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Energy Demand - Research & Innovation",
@@ -3164,7 +3164,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "FP&A & Strategic Finance – Analyst",
@@ -3185,7 +3185,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Analyst",
@@ -3205,7 +3205,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -3226,7 +3226,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -3247,7 +3247,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -3267,7 +3267,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Enterprise Deployment - Chief of Staff",
@@ -3287,7 +3287,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor / Partner â USA Deal Team (Growth)",
@@ -3307,7 +3307,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor / Partner — USA Deal Team (Early-Stage)",
@@ -3327,7 +3327,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Growth",
@@ -3347,7 +3347,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Accounting Systems & Operations Analyst",
@@ -3367,7 +3367,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Venture Creation (Fintech)",
@@ -3406,7 +3406,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -3427,7 +3427,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Deployment Strategist",
@@ -3447,7 +3447,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Management Intern (Summer 2027)",
@@ -3466,7 +3466,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -3527,7 +3527,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Analyst",
@@ -3547,7 +3547,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Student Venture Partner",
@@ -3567,7 +3567,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor Relations",
@@ -3587,7 +3587,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Design",
@@ -3607,7 +3607,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -3627,7 +3627,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Analyst Intern/Freelance - Secondary Market",
@@ -3646,7 +3646,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -3667,7 +3667,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Lending",
@@ -3687,7 +3687,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -3707,7 +3707,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -3727,7 +3727,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate",
@@ -3747,7 +3747,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Finance and Equity Analyst - Rotational Program",
@@ -3767,7 +3767,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor Relations Associate",
@@ -3787,7 +3787,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Management",
@@ -3807,7 +3807,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Booz Allen Ventures Associate",
@@ -3827,7 +3827,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate Product Owner | FinTech / Wealth Management / SaaS / Agile",
@@ -3847,7 +3847,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Client Success Analyst | Entry-Level / New Grad -Investment Operations / Finance",
@@ -3867,7 +3867,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate Product Owner | 1-3 Years - FinTech / SaaS / Multi-Platform / AI",
@@ -3887,7 +3887,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Developer Platform",
@@ -3907,7 +3907,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -3927,7 +3927,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Apm",
@@ -3947,7 +3947,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Chief of Staff",
@@ -3967,7 +3967,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Scout",
@@ -4007,7 +4007,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer, Evals & Prompts",
@@ -4027,7 +4027,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Business Technology",
@@ -4047,7 +4047,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Claude Code Model Performance",
@@ -4067,7 +4067,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Business Development, Healthcare",
@@ -4087,7 +4087,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Chief of Staff",
@@ -4107,7 +4107,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Portfolio Services Partner",
@@ -4127,7 +4127,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Business Development, Healthcare",
@@ -4147,7 +4147,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Events Associate, Crypto",
@@ -4167,7 +4167,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Client Services Associate",
@@ -4187,7 +4187,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor Relations Associate",
@@ -4207,7 +4207,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investor Relations Associate",
@@ -4227,7 +4227,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Client Services Associate",
@@ -4247,7 +4247,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate Community Manager",
@@ -4267,7 +4267,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate Community Manager",
@@ -4287,7 +4287,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Healthcare",
@@ -4307,7 +4307,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Identity",
@@ -4327,7 +4327,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager, Relevance and Personalization",
@@ -4347,7 +4347,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Fellow",
@@ -4366,7 +4366,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -4387,7 +4387,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Primary",
@@ -4407,7 +4407,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Manager, 3M Ventures",
@@ -4427,7 +4427,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Fellow",
@@ -4446,7 +4446,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -4466,7 +4466,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-05T08:15:24Z",
+   "last_seen": "2026-09-05T08:23:56Z",
    "active": true
   },
   {
@@ -4507,7 +4507,7 @@
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-05T08:15:24Z",
-   "active": true
+   "active": false
   }
  ]
 }

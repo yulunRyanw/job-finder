@@ -21,6 +21,19 @@ CATEGORY_PRIORITY = ["vc", "design", "pm", "generalist"]
 # req-numbering convention, not a seniority level. Strip it before classifying.
 _REQ_PREFIX = re.compile(r"^\s*partner\s+\d+\s*[,\-:]\s*", re.I)
 
+# Only these phrases may set a level from description text.
+_DESC_LEVEL = [
+    (re.compile(r"(?<![a-z])(?:summer|winter|fall|spring)\s+internship(?![a-z])", re.I), "intern"),
+    (re.compile(r"(?<![a-z])internship\s+program(?![a-z])", re.I), "intern"),
+    (re.compile(r"(?<![a-z])this\s+internship(?![a-z])", re.I), "intern"),
+    (re.compile(r"(?<![a-z])as\s+an?\s+intern(?![a-z])", re.I), "intern"),
+    (re.compile(r"(?<![a-z])co-?op\s+(?:program|student|position)(?![a-z])", re.I), "intern"),
+    (re.compile(r"(?<![a-z])fellowship\s+program(?![a-z])", re.I), "fellowship"),
+    (re.compile(r"(?<![a-z])part[\s-]?time(?![a-z])", re.I), "part_time"),
+    (re.compile(r"(?<![a-z])working\s+student(?![a-z])", re.I), "part_time"),
+    (re.compile(r"(?<![a-z])new\s+grad(?:uate)?(?![a-z])", re.I), "entry"),
+]
+
 _YEARS = re.compile(
     r"(\d{1,2})\s*(?:\+|-\s*\d{1,2})?\s*(?:or more\s*)?year[s]?\b(?![^.]{0,40}\bold\b)",
     re.I,
@@ -99,6 +112,14 @@ def load_rules() -> dict:
     rules["seniority_exclude"] = [_phrase_re(p) for p in raw.get("seniority_exclude") or []]
     rules["seniority_allow"] = [_phrase_re(p) for p in raw.get("seniority_allow") or []]
     rules["max_years"] = int(raw.get("max_years_for_unspecified", 3))
+    rules["keep_levels"] = set(raw.get("keep_levels") or []) or None
+    ind = raw.get("industry_exclude") or {}
+    rules["industry"] = {
+        "applies_to": set(ind.get("applies_to") or []),
+        "name_or_title": [_phrase_re(p) for p in ind.get("name_or_title") or []],
+        "companies": [_phrase_re(p) for p in ind.get("companies") or []],
+        "description": [_phrase_re(p) for p in ind.get("description") or []],
+    }
     return rules
 
 
@@ -122,9 +143,12 @@ def detect_level(title: str, description: str) -> str:
     for name in ("intern", "fellowship", "part_time", "entry"):
         if _any(rules["levels"][name]["patterns"], title):
             return name
-    head = (description or "")[:1500]
-    for name in ("intern", "fellowship", "part_time", "entry"):
-        if _any(rules["levels"][name]["patterns"], head):
+    # Descriptions are only trusted for unambiguous multi-word phrases: single
+    # words like "resident" or "fellow" appear in ordinary prose and were
+    # promoting senior engineering roles into the internship list.
+    head = (description or "")[:1200]
+    for pat, name in _DESC_LEVEL:
+        if pat.search(head):
             return name
     return "unspecified"
 
@@ -140,7 +164,6 @@ def detect_category(title: str, description: str, company_tags: list[str]) -> tu
     """Return (category, score). Empty category means 'not relevant'."""
     rules = load_rules()
     is_vc_firm = "vc" in (company_tags or [])
-    head = (description or "")[:1200]
     scores: dict[str, int] = {}
 
     for name, spec in rules["categories"].items():
@@ -155,10 +178,8 @@ def detect_category(title: str, description: str, company_tags: list[str]) -> tu
                 score = 6 if is_vc_firm else 0
             else:
                 score = 4 if detect_level(title, "") != "unspecified" else 0
-        elif name != "vc" and _any(spec["strong"], head):
-            # A description mention is weak evidence and never qualifies VC:
-            # plenty of fintech roles discuss "venture capital" in passing.
-            score = 2
+        # Deliberately no description fallback: a job description that merely
+        # mentions "design" or "venture capital" is not evidence of the role.
         if score:
             scores[name] = score
 
@@ -214,6 +235,19 @@ def classify(posting) -> tuple[bool, str]:
         if years is not None and years > load_rules()["max_years"]:
             return False, f"requires {years}y"
         level = "open"
+
+    rules = load_rules()
+    keep = rules["keep_levels"]
+    if keep and level not in keep:
+        return False, f"level {level} not wanted"
+
+    ind = rules["industry"]
+    if category in ind["applies_to"]:
+        blob = f"{posting.company} {title}"
+        if _any(ind["name_or_title"], blob) or _any(ind["companies"], posting.company):
+            return False, "excluded industry"
+        if _any(ind["description"], (posting.description or "")[:2500]):
+            return False, "excluded industry (desc)"
 
     region = derive_region(posting.location, posting.remote)
     if region == "international":

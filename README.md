@@ -23,9 +23,17 @@ These need judgement and cannot run unattended, so Claude sweeps them and writes
 JSON into `signals/inbox/`, which the same pipeline merges.
 See [`signals/SWEEP.md`](signals/SWEEP.md).
 
-Everything then goes through one filter: category (PM / design / VC /
-generalist), level (internship / fellowship / part-time / new grad / open),
-and region, with senior roles and non-US postings dropped.
+Everything then goes through one filter:
+
+- **Internships only.** `keep_levels` in `config/filters.yml` admits
+  `intern`, `fellowship` and `part_time`. Full-time roles are dropped,
+  including full-time new-grad postings.
+- **Category**: PM / product design / VC / startup generalist, decided from the
+  job title alone.
+- **Industry**: medtech, pharma, health insurance and several non-tech sectors
+  are excluded from PM and design results. VC is exempt on purpose - a
+  healthcare-focused fund is still venture experience.
+- **Region**: non-US postings dropped.
 
 ## Layout
 
@@ -78,5 +86,11 @@ and roles with no seniority signal are kept only for startups and VC firms.
 - **Keyword classification misfires** on a small share of postings, VC most of
   all, because VC job titles are idiosyncratic (a16z prefixes every listing
   with `Partner NN,`).
+- **The internship-only filter makes the board small in early autumn.** Most
+  Summer 2027 PM and design internships have not been posted yet; the count
+  should climb steadily through October and November.
+- **Big tech is largely invisible to the automated feed.** Google, Meta,
+  Microsoft, Salesforce, TikTok and Amex run on Workday or Eightfold, neither
+  of which exposes a public board API. Those arrive through the sweep instead.
 - **GitHub disables scheduled workflows after ~60 days of repo inactivity.**
   If the cron stops, re-enable it from the Actions tab.

@@ -137,12 +137,16 @@ categories:
 levels:
   intern:
     label: Internship
-    patterns: [intern, internship, co-op, coop, summer analyst, summer associate,
-               industrial placement, placement student, summer program]
+    patterns: [intern, interns, internship, internships, co-op, coop,
+               summer analyst, summer associate, industrial placement,
+               placement student, summer program]
   fellowship:
     label: Fellowship
-    patterns: [fellow, fellowship, scout program, residency, resident, apprentice,
-               apprenticeship, campus program, ambassador]
+    # Plurals matter: "Pear VC Fellows", "Bessemer Fellows", "Neo Scholars"
+    # are how these programmes are actually named.
+    patterns: [fellow, fellows, fellowship, fellowships, scholar, scholars,
+               scout program, residency, apprentice, apprenticeship,
+               campus program, trainee]
   part_time:
     label: Part-time
     patterns: [part-time, part time, working student, werkstudent, student worker,
@@ -192,3 +196,137 @@ seniority_allow:
 # A role with no level signal is only kept when it needs fewer than this many
 # years of experience. Surfaced under the "unspecified" chip, off by default.
 max_years_for_unspecified: 3
+
+# Only these levels reach the board. Internships, fellowships and part-time
+# work only -- no full-time roles, including full-time new-grad postings.
+keep_levels:
+  - intern
+  - fellowship
+  - part_time
+
+# Industries excluded from PM and design results. VC is deliberately exempt:
+# a healthcare-focused fund is still venture experience.
+industry_exclude:
+  applies_to: [pm, design]
+
+  # Matched against company name and job title only. Single words are safe
+  # here but NOT in descriptions, where "medical" and "wellness" show up in
+  # every benefits section.
+  name_or_title:
+    - medtech
+    - medical
+    - health
+    - healthcare
+    - healthtech
+    - clinical
+    - clinic
+    - patient
+    - hospital
+    - pharma
+    - pharmaceutical
+    - pharmaceuticals
+    - biotech
+    - biopharma
+    - therapeutics
+    - diagnostics
+    - dental
+    - nursing
+    - nurse
+    - physician
+    - oncology
+    - radiology
+    - cardiology
+    - genomics
+    - telehealth
+    - ehr
+    - emr
+    - life sciences
+    - medicare
+    - medicaid
+    # non-tech industries
+    - insurance
+    - grocery
+    - restaurant
+    - hotel
+    - hospitality
+    - manufacturing
+    - rail
+    - agriculture
+    - construction
+    - accounting
+    - audit
+    - tax
+    - staffing
+    - apparel
+
+  # Named medtech / pharma / health-insurance employers whose names contain
+  # none of the keywords above. Matched against the company name.
+  companies:
+    - medtronic
+    - stryker
+    - boston scientific
+    - abbott
+    - baxter
+    - becton dickinson
+    - edwards lifesciences
+    - zimmer biomet
+    - intuitive surgical
+    - danaher
+    - thermo fisher
+    - illumina
+    - moderna
+    - pfizer
+    - merck
+    - genentech
+    - roche
+    - novartis
+    - astrazeneca
+    - novo nordisk
+    - eli lilly
+    - bristol myers
+    - amgen
+    - gilead
+    - regeneron
+    - vertex pharmaceuticals
+    - biogen
+    - sanofi
+    - gsk
+    - johnson & johnson
+    - teladoc
+    - oscar health
+    - cedars-sinai
+    - kaiser permanente
+    - unitedhealth
+    - optum
+    - cigna
+    - elevance
+    - humana
+    - anthem
+    - cvs
+    - walgreens
+    - pomelo care
+    - modern health
+    - redesign health
+    - komodo health
+    - flatiron health
+    - tempus
+    - 23andme
+    - grail
+    - guardant
+
+  # High-specificity phrases that are safe to match inside a description.
+  description:
+    - medical device
+    - medical devices
+    - clinical trial
+    - clinical trials
+    - patient care
+    - patient outcomes
+    - electronic health record
+    - drug discovery
+    - health system
+    - health systems
+    - digital health
+    - life sciences
+    - healthcare provider
+    - care delivery
