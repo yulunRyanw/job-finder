@@ -89,3 +89,9 @@ companies:
   - {name: "Spotify", ats: lever, slug: "spotify", tags: [bigco]}
   - {name: "Squarespace", ats: greenhouse, slug: "squarespace", tags: [bigco]}
   - {name: "Twilio", ats: greenhouse, slug: "twilio", tags: [bigco]}
+  - {name: "Wikimedia", ats: greenhouse, slug: "wikimedia", tags: [startup]}  # auto-discovered
+  - {name: "Blackcanyonconsulting", ats: greenhouse, slug: "blackcanyonconsulting", tags: [startup]}  # auto-discovered
+  - {name: "Smarkets", ats: ashby, slug: "smarkets", tags: [startup]}  # auto-discovered
+  - {name: "Artificialanalysis", ats: ashby, slug: "artificialanalysis", tags: [startup]}  # auto-discovered
+  - {name: "Checkly", ats: ashby, slug: "checkly", tags: [startup]}  # auto-discovered
+  - {name: "Rai", ats: lever, slug: "rai", tags: [startup]}  # auto-discovered
