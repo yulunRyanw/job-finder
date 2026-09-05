@@ -1,0 +1,190 @@
+# Role taxonomy. Phrases are matched with word boundaries, so "product" will not
+# match "production" and "co-op" will not match "cooperate".
+
+categories:
+  pm:
+    label: Product Management
+    strong:            # match on title alone
+      - product manager
+      - product management
+      - associate product manager
+      - apm
+      - product owner
+      - technical product manager
+      - product analyst
+      - product strategy
+    weak:              # only counts with a level signal or startup context
+      - product
+    exclude:           # adjacent roles that are not PM
+      - product marketing
+      - product engineer
+      - product support
+      - product specialist
+      - product designer
+      - product design
+
+  design:
+    label: Product Design
+    strong:
+      - product designer
+      - product design
+      - ux designer
+      - ui designer
+      - ux/ui
+      - user experience designer
+      - interaction designer
+      - visual designer
+      - design intern
+      - ux research
+      - ux researcher
+      - user researcher
+      - design engineer
+      - brand designer
+      - communication designer
+      - graphic designer
+    weak:
+      - designer
+      - design
+    exclude:
+      - design verification
+      - chip design
+      - hardware design
+      - circuit design
+      - mechanical design
+
+  vc:
+    label: Venture Capital
+    strong:
+      - venture capital
+      - venture fellow
+      - venture partner
+      - venture analyst
+      - venture associate
+      - investment analyst
+      - investment associate
+      - investment intern
+      - investment team
+      - vc analyst
+      - vc associate
+      - vc intern
+      - deal team
+      - investor relations
+      - portfolio operations
+      - venture scout
+    weak:              # only counts when the employer is tagged `vc`
+      - analyst
+      - associate
+      - investment
+      - venture
+      - scout
+      - platform
+      - portfolio
+      - deal
+    exclude:           # engineering/IT roles that happen to be at a VC firm
+      - software engineer
+      - staff engineer
+      - security engineer
+      - infrastructure
+      - it engineer
+      - data engineer
+      - devops
+      - site reliability
+
+  generalist:
+    label: Startup Generalist
+    strong:
+      - founder's associate
+      - founders associate
+      - chief of staff
+      - business operations
+      - bizops
+      - biz ops
+      - strategy and operations
+      - strategy & operations
+      - growth associate
+      - special projects
+      - venture operations
+      - rotational program
+    weak: []
+    # Inherently junior titles: allowed through without an explicit level signal.
+    open_ok:
+      - founder's associate
+      - founders associate
+      - chief of staff
+      - special projects
+      - venture operations
+      - rotational program
+    exclude:            # ops-heavy roles that are not startup-generalist work
+      - manager
+      - fraud
+      - loan
+      - warehouse
+      - driver
+      - fleet
+      - logistics
+      - supply chain
+      - clinical
+      - facilities
+      - site operations
+      - store operations
+      - field operations
+      - restaurant
+
+levels:
+  intern:
+    label: Internship
+    patterns: [intern, internship, co-op, coop, summer analyst, summer associate,
+               industrial placement, placement student, summer program]
+  fellowship:
+    label: Fellowship
+    patterns: [fellow, fellowship, scout program, residency, resident, apprentice,
+               apprenticeship, campus program, ambassador]
+  part_time:
+    label: Part-time
+    patterns: [part-time, part time, working student, werkstudent, student worker,
+               student assistant, contract student]
+  entry:
+    label: Entry-level / New grad
+    patterns: [new grad, new graduate, university graduate, university grad,
+               entry level, entry-level, campus hire, graduate program, grad program,
+               early career, junior, rotational]
+
+# Titles that are unambiguously too senior for a college student.
+seniority_exclude:
+  - senior
+  - sr
+  - staff
+  - principal
+  - director
+  - head of
+  - vp
+  - vice president
+  - executive
+  - lead
+  - manager of
+  - group manager
+  - president
+  - founder
+  - founding
+  - cto
+  - ceo
+  - cfo
+  - coo
+  - general partner
+  - managing director
+  - distinguished
+  - fellow engineer
+  - ii
+  - iii
+  - iv
+  - group
+
+# Phrases that survive the seniority filter despite containing a banned word.
+seniority_allow:
+  - chief of staff
+  - design lead intern
+  - lead generation
+
+# A role with no level signal is only kept when it needs fewer than this many
+# years of experience. Surfaced under the "unspecified" chip, off by default.
+max_years_for_unspecified: 3

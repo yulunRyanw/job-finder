@@ -1,0 +1,18 @@
+[
+ {"name":"Andreessen Horowitz","ats":"greenhouse","slug":"a16z","domain":"a16z.com"},
+ {"name":"General Catalyst","ats":"greenhouse","slug":"generalcatalyst","domain":"generalcatalyst.com"},
+ {"name":"Bessemer Venture Partners","ats":"greenhouse","slug":"bessemerventurepartners","domain":"bvp.com"},
+ {"name":"Thrive Capital","ats":"greenhouse","slug":"thrive","domain":"thrivecap.com"},
+ {"name":"Wing VC","ats":"greenhouse","slug":"wing","domain":"wing.vc"},
+ {"name":"Sequoia Capital","ats":"ashby","slug":"sequoia","domain":"sequoiacap.com"},
+ {"name":"First Round Capital","ats":"ashby","slug":"firstround","domain":"firstround.com"},
+ {"name":"8VC","ats":"ashby","slug":"8vc","domain":"8vc.com"},
+ {"name":"M13","ats":"ashby","slug":"m13","domain":"m13.co"},
+ {"name":"Lightspeed","ats":"ashby","slug":"lightspeed","domain":"lsvp.com"},
+ {"name":"Forerunner","ats":"ashby","slug":"forerunner","domain":"forerunnerventures.com"},
+ {"name":"Emergence Capital","ats":"ashby","slug":"emergence","domain":"emcap.com"},
+ {"name":"Amplify Partners","ats":"ashby","slug":"amplify","domain":"amplifypartners.com"},
+ {"name":"Menlo Ventures","ats":"lever","slug":"menlovc","domain":"menlovc.com"},
+ {"name":"Unusual Ventures","ats":"lever","slug":"unusual","domain":"unusual.vc"},
+ {"name":"Matrix Partners","ats":"lever","slug":"matrixpartners","domain":"matrixpartners.com"}
+]

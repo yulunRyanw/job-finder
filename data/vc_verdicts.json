@@ -1,0 +1,203 @@
+[
+ {
+  "name": "Andreessen Horowitz",
+  "ats": "greenhouse",
+  "slug": "a16z",
+  "domain": "a16z.com",
+  "verdict": "vc_firm",
+  "why": "domain match a16z.com",
+  "sample": [
+   "Contractor, GTM Coordinator",
+   "Partner 18, Associate, Business Development, Healthcare",
+   "Partner 18, Events Associate, Crypto"
+  ]
+ },
+ {
+  "name": "General Catalyst",
+  "ats": "greenhouse",
+  "slug": "generalcatalyst",
+  "domain": "generalcatalyst.com",
+  "verdict": "portfolio",
+  "why": "0/1 investment titles",
+  "sample": [
+   "Client Service Associate, GC Wealth"
+  ]
+ },
+ {
+  "name": "Bessemer Venture Partners",
+  "ats": "greenhouse",
+  "slug": "bessemerventurepartners",
+  "domain": "bvp.com",
+  "verdict": "portfolio",
+  "why": "0/4 investment titles",
+  "sample": [
+   "Associate, AI & Data Infrastructure",
+   "Associate or Senior Associate ",
+   "Associate or Senior Associate - AI"
+  ]
+ },
+ {
+  "name": "Thrive Capital",
+  "ats": "greenhouse",
+  "slug": "thrive",
+  "domain": "thrivecap.com",
+  "verdict": "portfolio",
+  "why": "0/3 investment titles",
+  "sample": [
+   "Join Our Talent Community!",
+   "Principal UX Designer",
+   "Senior UX Researcher & Strategist"
+  ]
+ },
+ {
+  "name": "Wing VC",
+  "ats": "greenhouse",
+  "slug": "wing",
+  "domain": "wing.vc",
+  "verdict": "collision",
+  "why": "domain wing.com != wing.vc",
+  "sample": [
+   "Accounting Senior Manager, Fixed Assets & Inventory",
+   "Aviation Safety Data Analyst",
+   "Construction Site Manager"
+  ]
+ },
+ {
+  "name": "Sequoia Capital",
+  "ats": "ashby",
+  "slug": "sequoia",
+  "domain": "sequoiacap.com",
+  "verdict": "portfolio",
+  "why": "1/13 investment titles (mostly portfolio)",
+  "sample": [
+   "Director of Web and Digital Experience ",
+   "Platform Success Manager",
+   "Payroll Specialist"
+  ]
+ },
+ {
+  "name": "First Round Capital",
+  "ats": "ashby",
+  "slug": "firstround",
+  "domain": "firstround.com",
+  "verdict": "portfolio",
+  "why": "0/1 investment titles",
+  "sample": [
+   "Founding GTM"
+  ]
+ },
+ {
+  "name": "8VC",
+  "ats": "ashby",
+  "slug": "8vc",
+  "domain": "8vc.com",
+  "verdict": "portfolio",
+  "why": "0/6 investment titles",
+  "sample": [
+   "Systems Administrator, IT & TechOps",
+   "Software Engineer - MeritFirst",
+   "Software Engineer - MeritFirst"
+  ]
+ },
+ {
+  "name": "M13",
+  "ats": "ashby",
+  "slug": "m13",
+  "domain": "m13.co",
+  "verdict": "portfolio",
+  "why": "0/2 investment titles",
+  "sample": [
+   "Join M13's Talent Community",
+   "Vice President/Head of Finance at Source"
+  ]
+ },
+ {
+  "name": "Lightspeed",
+  "ats": "ashby",
+  "slug": "lightspeed",
+  "domain": "lsvp.com",
+  "verdict": "portfolio",
+  "why": "0/4 investment titles",
+  "sample": [
+   "Senior Robotics Engineer",
+   "AI & Machine Learning Engineer",
+   "Robotics Integration/Controls Engineer (Full-Stack Capable)"
+  ]
+ },
+ {
+  "name": "Forerunner",
+  "ats": "ashby",
+  "slug": "forerunner",
+  "domain": "forerunnerventures.com",
+  "verdict": "portfolio",
+  "why": "0/8 investment titles",
+  "sample": [
+   "Business Development Representative ",
+   "Account Executive",
+   "Senior Software Engineer, Mobile (React Native)"
+  ]
+ },
+ {
+  "name": "Emergence Capital",
+  "ats": "ashby",
+  "slug": "emergence",
+  "domain": "emcap.com",
+  "verdict": "portfolio",
+  "why": "2/17 investment titles (mostly portfolio)",
+  "sample": [
+   "Principal Engineer | Remote | Full-Time",
+   "Director",
+   "Associate & Senior Associate, Mergers & Acquisitions"
+  ]
+ },
+ {
+  "name": "Amplify Partners",
+  "ats": "ashby",
+  "slug": "amplify",
+  "domain": "amplifypartners.com",
+  "verdict": "portfolio",
+  "why": "2/35 investment titles (mostly portfolio)",
+  "sample": [
+   "Virtual Math Tutor",
+   "Data Scientist",
+   "Director, Business Systems Technology"
+  ]
+ },
+ {
+  "name": "Menlo Ventures",
+  "ats": "lever",
+  "slug": "menlovc",
+  "domain": "menlovc.com",
+  "verdict": "portfolio",
+  "why": "0/3 investment titles",
+  "sample": [
+   "Account Executive",
+   "Founding Engineer - Full Stack, Backend Leaning",
+   "Founding Engineer - Full Stack, Product Leaning"
+  ]
+ },
+ {
+  "name": "Unusual Ventures",
+  "ats": "lever",
+  "slug": "unusual",
+  "domain": "unusual.vc",
+  "verdict": "portfolio",
+  "why": "1/10 investment titles (mostly portfolio)",
+  "sample": [
+   "Account Executive - GovSignals",
+   "Chief Executive Officer - Stealth Startup",
+   "Founding Account Executive - Roboto AI"
+  ]
+ },
+ {
+  "name": "Matrix Partners",
+  "ats": "lever",
+  "slug": "matrixpartners",
+  "domain": "matrixpartners.com",
+  "verdict": "vc_firm",
+  "why": "1/1 investment titles",
+  "sample": [
+   "Investment Partner"
+  ]
+ }
+]

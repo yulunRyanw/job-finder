@@ -1,0 +1,101 @@
+[
+ {
+  "name": "Lightspeed",
+  "ats": "ashby",
+  "slug": "lightspeed",
+  "tags": [
+   "vc"
+  ],
+  "_n": 4
+ },
+ {
+  "name": "Sequoia Capital",
+  "ats": "ashby",
+  "slug": "sequoia",
+  "tags": [
+   "vc"
+  ],
+  "_n": 13
+ },
+ {
+  "name": "Thrive Capital",
+  "ats": "greenhouse",
+  "slug": "thrive",
+  "tags": [
+   "vc"
+  ],
+  "_n": 3
+ },
+ {
+  "name": "General Catalyst",
+  "ats": "greenhouse",
+  "slug": "generalcatalyst",
+  "tags": [
+   "vc"
+  ],
+  "_n": 1
+ },
+ {
+  "name": "Menlo Ventures",
+  "ats": "lever",
+  "slug": "menlovc",
+  "tags": [
+   "vc"
+  ],
+  "_n": 3
+ },
+ {
+  "name": "Forerunner",
+  "ats": "ashby",
+  "slug": "forerunner",
+  "tags": [
+   "vc"
+  ],
+  "_n": 8
+ },
+ {
+  "name": "Emergence",
+  "ats": "ashby",
+  "slug": "emergence",
+  "tags": [
+   "vc"
+  ],
+  "_n": 17
+ },
+ {
+  "name": "8VC",
+  "ats": "ashby",
+  "slug": "8vc",
+  "tags": [
+   "vc"
+  ],
+  "_n": 6
+ },
+ {
+  "name": "Amplify Partners",
+  "ats": "ashby",
+  "slug": "amplify",
+  "tags": [
+   "vc"
+  ],
+  "_n": 35
+ },
+ {
+  "name": "Unusual Ventures",
+  "ats": "lever",
+  "slug": "unusual",
+  "tags": [
+   "vc"
+  ],
+  "_n": 10
+ },
+ {
+  "name": "Matrix",
+  "ats": "lever",
+  "slug": "matrixpartners",
+  "tags": [
+   "vc"
+  ],
+  "_n": 1
+ }
+]

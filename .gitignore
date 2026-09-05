@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.cache/
+.gstack/
+
+# scratch from source probing
+data/_raw_cache.json
+data/_vcc.html
+.gstack/

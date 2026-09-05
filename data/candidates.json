@@ -1,0 +1,1206 @@
+[
+ {
+  "name": "a16z",
+  "slug": "a16z",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "andreessen-horowitz",
+  "slug": "andreessen-horowitz",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "sequoia",
+  "slug": "sequoia",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "generalcatalyst",
+  "slug": "generalcatalyst",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "insightpartners",
+  "slug": "insightpartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "bessemerventurepartners",
+  "slug": "bessemerventurepartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "accel",
+  "slug": "accel",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "indexventures",
+  "slug": "indexventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "lightspeedventurepartners",
+  "slug": "lightspeedventurepartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "firstround",
+  "slug": "firstround",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "foundersfund",
+  "slug": "foundersfund",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "kleinerperkins",
+  "slug": "kleinerperkins",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "nea",
+  "slug": "nea",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "battery",
+  "slug": "battery",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "baincapitalventures",
+  "slug": "baincapitalventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "ggvcapital",
+  "slug": "ggvcapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "menloventures",
+  "slug": "menloventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "redpoint",
+  "slug": "redpoint",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "craftventures",
+  "slug": "craftventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "emergencecapital",
+  "slug": "emergencecapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "forerunnerventures",
+  "slug": "forerunnerventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "greylock",
+  "slug": "greylock",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "ivp",
+  "slug": "ivp",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "khoslaventures",
+  "slug": "khoslaventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "mayfieldfund",
+  "slug": "mayfieldfund",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "norwestventurepartners",
+  "slug": "norwestventurepartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "sapphireventures",
+  "slug": "sapphireventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "scalevp",
+  "slug": "scalevp",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "signalfire",
+  "slug": "signalfire",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "thrivecapital",
+  "slug": "thrivecapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "unionsquareventures",
+  "slug": "unionsquareventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "upfrontventures",
+  "slug": "upfrontventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "wing",
+  "slug": "wing",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "8vc",
+  "slug": "8vc",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "benchmark",
+  "slug": "benchmark",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "coatue",
+  "slug": "coatue",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "tigerglobal",
+  "slug": "tigerglobal",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "iconiqcapital",
+  "slug": "iconiqcapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "dragoneer",
+  "slug": "dragoneer",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "altimetercapital",
+  "slug": "altimetercapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "felicis",
+  "slug": "felicis",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "initialized",
+  "slug": "initialized",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "unusualventures",
+  "slug": "unusualventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "amplifypartners",
+  "slug": "amplifypartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "boldstartventures",
+  "slug": "boldstartventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "uncorkcapital",
+  "slug": "uncorkcapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "freestylecapital",
+  "slug": "freestylecapital",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "homebrew",
+  "slug": "homebrew",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "precursorvc",
+  "slug": "precursorvc",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "hustlefund",
+  "slug": "hustlefund",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "susaventures",
+  "slug": "susaventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "contrary",
+  "slug": "contrary",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "lux",
+  "slug": "lux",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "m13",
+  "slug": "m13",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "matrixpartners",
+  "slug": "matrixpartners",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "canaan",
+  "slug": "canaan",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "cowboyventures",
+  "slug": "cowboyventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "defyvc",
+  "slug": "defyvc",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "frontlineventures",
+  "slug": "frontlineventures",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "pearvc",
+  "slug": "pearvc",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "sozovc",
+  "slug": "sozovc",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "costanoa",
+  "slug": "costanoa",
+  "tags": [
+   "vc"
+  ]
+ },
+ {
+  "name": "figma",
+  "slug": "figma",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "notion",
+  "slug": "notion",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "ramp",
+  "slug": "ramp",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "linear",
+  "slug": "linear",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "vanta",
+  "slug": "vanta",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "retool",
+  "slug": "retool",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "scaleai",
+  "slug": "scaleai",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "databricks",
+  "slug": "databricks",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "anthropic",
+  "slug": "anthropic",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "openai",
+  "slug": "openai",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "stripe",
+  "slug": "stripe",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "plaid",
+  "slug": "plaid",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "brex",
+  "slug": "brex",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "rippling",
+  "slug": "rippling",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "deel",
+  "slug": "deel",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "gusto",
+  "slug": "gusto",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "airtable",
+  "slug": "airtable",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "webflow",
+  "slug": "webflow",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "amplitude",
+  "slug": "amplitude",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "mixpanel",
+  "slug": "mixpanel",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "checkr",
+  "slug": "checkr",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "benchling",
+  "slug": "benchling",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "carta",
+  "slug": "carta",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "mercury",
+  "slug": "mercury",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "modernhealth",
+  "slug": "modernhealth",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "discord",
+  "slug": "discord",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "reddit",
+  "slug": "reddit",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "coinbase",
+  "slug": "coinbase",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "robinhood",
+  "slug": "robinhood",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "doordash",
+  "slug": "doordash",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "instacart",
+  "slug": "instacart",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "airbnb",
+  "slug": "airbnb",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "lyft",
+  "slug": "lyft",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "pinterest",
+  "slug": "pinterest",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "duolingo",
+  "slug": "duolingo",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "chime",
+  "slug": "chime",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "affirm",
+  "slug": "affirm",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "sofi",
+  "slug": "sofi",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "faire",
+  "slug": "faire",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "whatnot",
+  "slug": "whatnot",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "gopuff",
+  "slug": "gopuff",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "anduril",
+  "slug": "anduril",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "rippling4",
+  "slug": "rippling4",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "sierra",
+  "slug": "sierra",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "cursor",
+  "slug": "cursor",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "perplexity",
+  "slug": "perplexity",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "harvey",
+  "slug": "harvey",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "glean",
+  "slug": "glean",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "sardine",
+  "slug": "sardine",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "persona",
+  "slug": "persona",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "mistral",
+  "slug": "mistral",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "cohere",
+  "slug": "cohere",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "replit",
+  "slug": "replit",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "vercel",
+  "slug": "vercel",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "supabase",
+  "slug": "supabase",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "render",
+  "slug": "render",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "fly",
+  "slug": "fly",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "clickhouse",
+  "slug": "clickhouse",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "temporal",
+  "slug": "temporal",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "dbt",
+  "slug": "dbt",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "hex",
+  "slug": "hex",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "census",
+  "slug": "census",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "fivetran",
+  "slug": "fivetran",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "airbyte",
+  "slug": "airbyte",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "astronomer",
+  "slug": "astronomer",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "weightsandbiases",
+  "slug": "weightsandbiases",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "huggingface",
+  "slug": "huggingface",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "runway",
+  "slug": "runway",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "elevenlabs",
+  "slug": "elevenlabs",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "synthesia",
+  "slug": "synthesia",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "descript",
+  "slug": "descript",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "loom",
+  "slug": "loom",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "miro",
+  "slug": "miro",
+  "tags": [
+   "startup"
+  ]
+ },
+ {
+  "name": "google",
+  "slug": "google",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "meta",
+  "slug": "meta",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "microsoft",
+  "slug": "microsoft",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "salesforce",
+  "slug": "salesforce",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "adobe",
+  "slug": "adobe",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "intuit",
+  "slug": "intuit",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "atlassian",
+  "slug": "atlassian",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "linkedin",
+  "slug": "linkedin",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "ebay",
+  "slug": "ebay",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "paypal",
+  "slug": "paypal",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "block",
+  "slug": "block",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "twilio",
+  "slug": "twilio",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "zoom",
+  "slug": "zoom",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "docusign",
+  "slug": "docusign",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "dropbox",
+  "slug": "dropbox",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "box",
+  "slug": "box",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "servicenow",
+  "slug": "servicenow",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "datadog",
+  "slug": "datadog",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "snowflake",
+  "slug": "snowflake",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "mongodb",
+  "slug": "mongodb",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "elastic",
+  "slug": "elastic",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "hashicorp",
+  "slug": "hashicorp",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "gitlab",
+  "slug": "gitlab",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "github",
+  "slug": "github",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "cloudflare",
+  "slug": "cloudflare",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "fastly",
+  "slug": "fastly",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "okta",
+  "slug": "okta",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "crowdstrike",
+  "slug": "crowdstrike",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "palantir",
+  "slug": "palantir",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "nvidia",
+  "slug": "nvidia",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "spotify",
+  "slug": "spotify",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "uber",
+  "slug": "uber",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "snap",
+  "slug": "snap",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "yelp",
+  "slug": "yelp",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "squarespace",
+  "slug": "squarespace",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "wix",
+  "slug": "wix",
+  "tags": [
+   "bigco"
+  ]
+ },
+ {
+  "name": "shopify",
+  "slug": "shopify",
+  "tags": [
+   "bigco"
+  ]
+ }
+]

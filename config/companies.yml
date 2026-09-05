@@ -1,0 +1,91 @@
+# Verified live job boards. Rebuild with: python scripts/probe_slugs.py
+# tags: vc = firm-operated board | startup | bigco
+# Collisions removed after manual verification: wing (Alphabet drones),
+#   sequoia (Sequoia Consulting payroll), amplify (Amplify Education).
+companies:
+  - {name: "8VC", ats: ashby, slug: "8vc", tags: [vc, startup]}
+  - {name: "Andreessen Horowitz", ats: greenhouse, slug: "a16z", tags: [vc]}
+  - {name: "Bessemer Venture Partners", ats: greenhouse, slug: "bessemerventurepartners", tags: [vc, startup]}
+  - {name: "Emergence Capital", ats: ashby, slug: "emergence", tags: [vc, startup]}
+  - {name: "First Round Capital", ats: ashby, slug: "firstround", tags: [vc, startup]}
+  - {name: "Forerunner", ats: ashby, slug: "forerunner", tags: [vc, startup]}
+  - {name: "General Catalyst", ats: greenhouse, slug: "generalcatalyst", tags: [vc, startup]}
+  - {name: "Lightspeed", ats: ashby, slug: "lightspeed", tags: [vc, startup]}
+  - {name: "M13", ats: ashby, slug: "m13", tags: [vc, startup]}
+  - {name: "Matrix Partners", ats: lever, slug: "matrixpartners", tags: [vc]}
+  - {name: "Menlo Ventures", ats: lever, slug: "menlovc", tags: [vc, startup]}
+  - {name: "Thrive Capital", ats: greenhouse, slug: "thrive", tags: [vc, startup]}
+  - {name: "Unusual Ventures", ats: lever, slug: "unusual", tags: [vc, startup]}
+  - {name: "Affirm", ats: greenhouse, slug: "affirm", tags: [startup]}
+  - {name: "Airbnb", ats: greenhouse, slug: "airbnb", tags: [startup]}
+  - {name: "Airbyte", ats: ashby, slug: "airbyte", tags: [startup]}
+  - {name: "Airtable", ats: greenhouse, slug: "airtable", tags: [startup]}
+  - {name: "Amplitude", ats: greenhouse, slug: "amplitude", tags: [startup]}
+  - {name: "Anthropic", ats: greenhouse, slug: "anthropic", tags: [startup]}
+  - {name: "Astronomer", ats: ashby, slug: "astronomer", tags: [startup]}
+  - {name: "Benchling", ats: ashby, slug: "benchling", tags: [startup]}
+  - {name: "Brex", ats: greenhouse, slug: "brex", tags: [startup]}
+  - {name: "Carta", ats: greenhouse, slug: "carta", tags: [startup]}
+  - {name: "Checkr", ats: greenhouse, slug: "checkr", tags: [startup]}
+  - {name: "Chime", ats: greenhouse, slug: "chime", tags: [startup]}
+  - {name: "ClickHouse", ats: ashby, slug: "clickhouse", tags: [startup]}
+  - {name: "Cohere", ats: ashby, slug: "cohere", tags: [startup]}
+  - {name: "Coinbase", ats: greenhouse, slug: "coinbase", tags: [startup]}
+  - {name: "Cursor", ats: ashby, slug: "cursor", tags: [startup]}
+  - {name: "Databricks", ats: greenhouse, slug: "databricks", tags: [startup]}
+  - {name: "Descript", ats: greenhouse, slug: "descript", tags: [startup]}
+  - {name: "Discord", ats: greenhouse, slug: "discord", tags: [startup]}
+  - {name: "Duolingo", ats: greenhouse, slug: "duolingo", tags: [startup]}
+  - {name: "ElevenLabs", ats: ashby, slug: "elevenlabs", tags: [startup]}
+  - {name: "Faire", ats: greenhouse, slug: "faire", tags: [startup]}
+  - {name: "Figma", ats: greenhouse, slug: "figma", tags: [startup]}
+  - {name: "Fivetran", ats: greenhouse, slug: "fivetran", tags: [startup]}
+  - {name: "Gopuff", ats: lever, slug: "gopuff", tags: [startup]}
+  - {name: "Gusto", ats: greenhouse, slug: "gusto", tags: [startup]}
+  - {name: "Harvey", ats: ashby, slug: "harvey", tags: [startup]}
+  - {name: "Hex", ats: ashby, slug: "hex", tags: [startup]}
+  - {name: "Instacart", ats: greenhouse, slug: "instacart", tags: [startup]}
+  - {name: "Linear", ats: ashby, slug: "linear", tags: [startup]}
+  - {name: "Lyft", ats: greenhouse, slug: "lyft", tags: [startup]}
+  - {name: "Mercury", ats: greenhouse, slug: "mercury", tags: [startup]}
+  - {name: "Miro", ats: ashby, slug: "miro", tags: [startup]}
+  - {name: "Mixpanel", ats: greenhouse, slug: "mixpanel", tags: [startup]}
+  - {name: "Modernhealth", ats: greenhouse, slug: "modernhealth", tags: [startup]}
+  - {name: "Notion", ats: ashby, slug: "notion", tags: [startup]}
+  - {name: "OpenAI", ats: ashby, slug: "openai", tags: [startup]}
+  - {name: "Perplexity", ats: ashby, slug: "perplexity", tags: [startup]}
+  - {name: "Persona", ats: ashby, slug: "persona", tags: [startup]}
+  - {name: "Pinterest", ats: greenhouse, slug: "pinterest", tags: [startup]}
+  - {name: "Plaid", ats: ashby, slug: "plaid", tags: [startup]}
+  - {name: "Ramp", ats: ashby, slug: "ramp", tags: [startup]}
+  - {name: "Reddit", ats: greenhouse, slug: "reddit", tags: [startup]}
+  - {name: "Render", ats: ashby, slug: "render", tags: [startup]}
+  - {name: "Replit", ats: ashby, slug: "replit", tags: [startup]}
+  - {name: "Robinhood", ats: greenhouse, slug: "robinhood", tags: [startup]}
+  - {name: "Runway", ats: ashby, slug: "runway", tags: [startup]}
+  - {name: "Sardine", ats: ashby, slug: "sardine", tags: [startup]}
+  - {name: "Scale AI", ats: greenhouse, slug: "scaleai", tags: [startup]}
+  - {name: "Sierra", ats: ashby, slug: "sierra", tags: [startup]}
+  - {name: "SoFi", ats: greenhouse, slug: "sofi", tags: [startup]}
+  - {name: "Stripe", ats: greenhouse, slug: "stripe", tags: [startup]}
+  - {name: "Supabase", ats: ashby, slug: "supabase", tags: [startup]}
+  - {name: "Synthesia", ats: ashby, slug: "synthesia", tags: [startup]}
+  - {name: "Temporal", ats: ashby, slug: "temporal", tags: [startup]}
+  - {name: "Vanta", ats: ashby, slug: "vanta", tags: [startup]}
+  - {name: "Vercel", ats: greenhouse, slug: "vercel", tags: [startup]}
+  - {name: "Webflow", ats: greenhouse, slug: "webflow", tags: [startup]}
+  - {name: "Block", ats: greenhouse, slug: "block", tags: [bigco]}
+  - {name: "Cloudflare", ats: greenhouse, slug: "cloudflare", tags: [bigco]}
+  - {name: "Datadog", ats: greenhouse, slug: "datadog", tags: [bigco]}
+  - {name: "Dropbox", ats: greenhouse, slug: "dropbox", tags: [bigco]}
+  - {name: "Elastic", ats: greenhouse, slug: "elastic", tags: [bigco]}
+  - {name: "Fastly", ats: greenhouse, slug: "fastly", tags: [bigco]}
+  - {name: "GitLab", ats: greenhouse, slug: "gitlab", tags: [bigco]}
+  - {name: "Linkedin", ats: greenhouse, slug: "linkedin", tags: [bigco]}
+  - {name: "MongoDB", ats: greenhouse, slug: "mongodb", tags: [bigco]}
+  - {name: "Okta", ats: greenhouse, slug: "okta", tags: [bigco]}
+  - {name: "Palantir", ats: lever, slug: "palantir", tags: [bigco]}
+  - {name: "Snowflake", ats: ashby, slug: "snowflake", tags: [bigco]}
+  - {name: "Spotify", ats: lever, slug: "spotify", tags: [bigco]}
+  - {name: "Squarespace", ats: greenhouse, slug: "squarespace", tags: [bigco]}
+  - {name: "Twilio", ats: greenhouse, slug: "twilio", tags: [bigco]}

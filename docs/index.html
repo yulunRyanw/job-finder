@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Finder — PM · Design · VC · Startups</title>
+<style>
+:root{
+  --bg:#fbfbfa; --card:#fff; --ink:#1a1a19; --muted:#6b6b66; --line:#e6e5e1;
+  --accent:#2f6f4e; --accent-soft:#e8f2ec; --new:#b4501e; --new-soft:#fdeee5;
+  --warn:#8a1c1c; --warn-soft:#fbeaea; --radius:10px;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#14150f; --card:#1c1d18; --ink:#eceada; --muted:#9a9a8f; --line:#2e2f28;
+  --accent:#7fbf9a; --accent-soft:#1e2a23; --new:#e59b6a; --new-soft:#2d2118;
+  --warn:#e58a8a; --warn-soft:#2d1a1a;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.55 ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif;
+  -webkit-text-size-adjust:100%}
+.wrap{max-width:920px;margin:0 auto;padding:20px 16px 80px}
+header h1{font-size:20px;margin:0 0 4px;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px;margin-bottom:14px}
+.banner{background:var(--warn-soft);color:var(--warn);border:1px solid var(--warn);
+  border-radius:var(--radius);padding:9px 12px;font-size:13px;margin-bottom:12px}
+.controls{position:sticky;top:0;background:var(--bg);padding:8px 0 10px;z-index:5;
+  border-bottom:1px solid var(--line);margin-bottom:12px}
+input[type=search]{width:100%;padding:10px 12px;border:1px solid var(--line);
+  border-radius:var(--radius);background:var(--card);color:var(--ink);font-size:15px}
+input[type=search]:focus{outline:2px solid var(--accent);outline-offset:-1px}
+.rowlab{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);
+  margin:10px 0 5px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:99px;padding:5px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{opacity:.6;font-size:11px;margin-left:4px}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:10px;
+  font-size:13px;color:var(--muted);margin:12px 0 8px;flex-wrap:wrap}
+.linkbtn{background:none;border:none;color:var(--accent);cursor:pointer;font-size:13px;
+  padding:0;text-decoration:underline}
+.job{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:12px 14px;margin-bottom:8px}
+.job.isnew{border-color:var(--new)}
+.jt{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.title{font-weight:600;font-size:15px;margin:0;letter-spacing:-.005em}
+.co{color:var(--muted);font-size:13px;margin-top:2px}
+.badges{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.b{font-size:11px;padding:2px 8px;border-radius:99px;background:var(--accent-soft);
+  color:var(--accent);white-space:nowrap}
+.b.new{background:var(--new-soft);color:var(--new);font-weight:600}
+.b.plain{background:transparent;color:var(--muted);border:1px solid var(--line)}
+.snip{color:var(--muted);font-size:13px;margin-top:8px}
+.acts{display:flex;gap:8px;margin-top:10px;align-items:center}
+.apply{background:var(--accent);color:#fff;text-decoration:none;padding:6px 14px;
+  border-radius:var(--radius);font-size:13px;font-weight:500}
+.more{background:none;border:1px solid var(--line);color:var(--ink);border-radius:var(--radius);
+  padding:6px 12px;font-size:13px;cursor:pointer}
+.desc{margin-top:10px;padding-top:10px;border-top:1px solid var(--line);
+  font-size:13.5px;white-space:pre-wrap;max-height:460px;overflow:auto;color:var(--ink)}
+.empty{text-align:center;color:var(--muted);padding:44px 12px}
+footer{margin-top:26px;font-size:12px;color:var(--muted);text-align:center;line-height:1.7}
+footer a{color:var(--accent)}
+.tabs{display:flex;gap:6px;margin:12px 0 4px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;
+  padding:6px 15px;font-size:13.5px;cursor:pointer;font-weight:500}
+.tab[aria-selected=true]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.pnote{color:var(--muted);font-size:13px;margin:10px 0 14px;padding:10px 12px;
+  background:var(--accent-soft);border-radius:var(--radius)}
+.prog{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:12px 14px;margin-bottom:8px}
+.prog .org{color:var(--muted);font-size:13px;margin-top:2px}
+.prog .win{font-size:13px;margin-top:8px}
+.prog .win b{color:var(--accent)}
+@media(max-width:520px){.wrap{padding:14px 11px 70px}.jt{flex-direction:column}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Job Finder</h1>
+  <div class="sub" id="sub">Loading…</div>
+</header>
+<div id="banner"></div>
+<div class="tabs">
+  <button class="tab" id="tabJobs" role="tab" aria-selected="true">Jobs</button>
+  <button class="tab" id="tabProg" role="tab" aria-selected="false">Programs &amp; fellowships</button>
+</div>
+
+<div id="viewJobs"><div class="controls">
+  <input type="search" id="q" placeholder="Search title, company, location, description…" autocomplete="off">
+  <div class="rowlab">Role</div><div class="chips" id="fcat"></div>
+  <div class="rowlab">Level</div><div class="chips" id="flvl"></div>
+  <div class="rowlab">Location</div><div class="chips" id="freg"></div>
+</div>
+
+<div class="meta">
+  <span id="count"></span>
+  <span>
+    <button class="linkbtn" id="newonly">Show new only</button> ·
+    <button class="linkbtn" id="markseen">Mark all seen</button>
+  </span>
+</div>
+
+<div id="list"></div>
+</div>
+
+<div id="viewProg" hidden>
+  <div class="pnote">Recurring student programmes that almost never appear on job boards.
+    Application windows are approximate &mdash; always confirm on the programme page.</div>
+  <div id="proglist"></div>
+</div>
+
+<footer>
+  Updated automatically every 6 hours ·
+  <a href="feed.xml">RSS</a> · <a href="jobs.json">raw JSON</a><br>
+  <span id="src"></span>
+</footer>
+</div>
+
+<script>
+const CAT = {pm:"Product Mgmt", design:"Product Design", vc:"Venture Capital", generalist:"Startup Generalist"};
+const LVL = {intern:"Internship", fellowship:"Fellowship", part_time:"Part-time", entry:"New grad / entry", open:"Open / unspecified"};
+const REG = {sf_bay:"SF Bay", nyc:"NYC", remote:"Remote", other_us:"Other US", unknown:"Unlisted"};
+const LS_KEY = "jobfinder.lastSeen";
+
+let JOBS = [], DESC = {}, SHARDS = {};
+const sel = {cat:new Set(), lvl:new Set(), reg:new Set()};
+let newOnly = false;
+let lastSeen = localStorage.getItem(LS_KEY) || "";
+
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const isNew = j => lastSeen ? (j.f > lastSeen) : daysAgo(j.f) <= 7;
+function daysAgo(d){ if(!d) return 999; return (Date.now() - new Date(d+"T00:00:00Z")) / 864e5; }
+function ago(d){
+  const n = Math.floor(daysAgo(d));
+  if (n <= 0) return "today"; if (n === 1) return "yesterday";
+  if (n < 30) return n + "d ago";
+  return Math.floor(n/30) + "mo ago";
+}
+
+function chips(host, map, key){
+  const el = document.getElementById(host);
+  el.innerHTML = "";
+  const counts = {};
+  JOBS.forEach(j => { const v = j[key]; counts[v] = (counts[v]||0)+1; });
+  Object.entries(map).forEach(([val,label]) => {
+    if (!counts[val]) return;
+    const b = document.createElement("button");
+    b.className = "chip"; b.type = "button";
+    b.setAttribute("aria-pressed", sel[key === "cat" ? "cat" : key === "lvl" ? "lvl" : "reg"].has(val));
+    b.innerHTML = esc(label) + '<span class="n">' + counts[val] + '</span>';
+    b.onclick = () => {
+      const s = sel[key === "cat" ? "cat" : key === "lvl" ? "lvl" : "reg"];
+      s.has(val) ? s.delete(val) : s.add(val);
+      b.setAttribute("aria-pressed", s.has(val));
+      render();
+    };
+    el.appendChild(b);
+  });
+}
+
+function matches(j, q){
+  if (sel.cat.size && !sel.cat.has(j.cat)) return false;
+  if (sel.lvl.size && !sel.lvl.has(j.lvl)) return false;
+  if (sel.reg.size && !sel.reg.has(j.r)) return false;
+  if (newOnly && !isNew(j)) return false;
+  if (!q) return true;
+  return (j.t+" "+j.c+" "+j.l+" "+j.sn).toLowerCase().includes(q);
+}
+
+async function loadDesc(id){
+  if (DESC[id] !== undefined) return DESC[id];
+  const sh = id.slice(0,2);
+  if (!SHARDS[sh]) {
+    SHARDS[sh] = fetch("desc/"+sh+".json").then(r => r.ok ? r.json() : {}).catch(() => ({}));
+  }
+  const data = await SHARDS[sh];
+  Object.assign(DESC, data);
+  return DESC[id];
+}
+
+function card(j){
+  const d = document.createElement("div");
+  d.className = "job" + (isNew(j) ? " isnew" : "");
+  const badges = [
+    isNew(j) ? '<span class="b new">NEW</span>' : "",
+    '<span class="b">'+esc(CAT[j.cat]||j.cat)+'</span>',
+    '<span class="b">'+esc(LVL[j.lvl]||j.lvl)+'</span>',
+    j.l ? '<span class="b plain">'+esc(j.l)+'</span>' : "",
+    '<span class="b plain">'+esc(j.s)+'</span>',
+    '<span class="b plain">seen '+esc(ago(j.f))+'</span>'
+  ].join("");
+  d.innerHTML =
+    '<div class="jt"><div><p class="title">'+esc(j.t)+'</p>'+
+    '<div class="co">'+esc(j.c)+'</div></div></div>'+
+    '<div class="badges">'+badges+'</div>'+
+    (j.sn ? '<div class="snip">'+esc(j.sn)+'…</div>' : "")+
+    '<div class="acts"><a class="apply" target="_blank" rel="noopener noreferrer" href="'+esc(j.u)+'">Apply →</a>'+
+    '<button class="more">Description</button></div>';
+  const btn = d.querySelector(".more");
+  btn.onclick = async () => {
+    let box = d.querySelector(".desc");
+    if (box) { box.remove(); btn.textContent = "Description"; return; }
+    btn.textContent = "Loading…";
+    const text = await loadDesc(j.id);
+    box = document.createElement("div");
+    box.className = "desc";
+    box.textContent = text || "No description captured for this posting — open the apply link for the full text.";
+    d.appendChild(box);
+    btn.textContent = "Hide";
+  };
+  return d;
+}
+
+function render(){
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const rows = JOBS.filter(j => matches(j,q));
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  document.getElementById("count").textContent =
+    rows.length + " of " + JOBS.length + " roles" + (newOnly ? " (new only)" : "");
+  if (!rows.length){
+    list.innerHTML = '<div class="empty">Nothing matches those filters.</div>';
+    return;
+  }
+  const frag = document.createDocumentFragment();
+  rows.slice(0,400).forEach(j => frag.appendChild(card(j)));
+  list.appendChild(frag);
+  if (rows.length > 400){
+    const m = document.createElement("div");
+    m.className = "empty";
+    m.textContent = "Showing the 400 most recent of " + rows.length + " — narrow with search or filters.";
+    list.appendChild(m);
+  }
+}
+
+fetch("jobs.json").then(r => r.json()).then(data => {
+  JOBS = data.jobs || [];
+  const when = (data.generated_at||"").replace("T"," ").replace("Z"," UTC");
+  const fresh = JOBS.filter(isNew).length;
+  document.getElementById("sub").textContent =
+    JOBS.length + " open roles · " + fresh + " new · updated " + when;
+  const bad = (data.health||[]).filter(h => !h.ok);
+  if (bad.length){
+    document.getElementById("banner").innerHTML = '<div class="banner"><b>Source problem:</b> ' +
+      bad.map(h => esc(h.source)+" ("+esc(h.error||"failed")+")").join(", ") +
+      ' — those listings may be missing from this run.</div>';
+  }
+  document.getElementById("src").textContent =
+    (data.health||[]).map(h => h.source+": "+h.raw).join(" · ");
+  chips("fcat", CAT, "cat"); chips("flvl", LVL, "lvl"); chips("freg", REG, "r");
+  render();
+}).catch(e => {
+  document.getElementById("sub").textContent = "Could not load jobs.json — has the pipeline run yet?";
+  console.error(e);
+});
+
+const KIND = {fellowship:"Fellowship", student_investor:"Student investor",
+  accelerator:"Accelerator", scout:"Scout", training:"Training (paid)"};
+let progLoaded = false;
+function loadPrograms(){
+  if (progLoaded) return;
+  progLoaded = true;
+  fetch("programs.json").then(r => r.json()).then(d => {
+    const host = document.getElementById("proglist");
+    host.innerHTML = "";
+    (d.programs||[]).forEach(p => {
+      const el = document.createElement("div");
+      el.className = "prog";
+      const tracks = (p.tracks||[]).map(t => '<span class="b">'+esc(t)+'</span>').join("");
+      el.innerHTML = '<p class="title">'+esc(p.name)+'</p>'+
+        '<div class="org">'+esc(p.org||"")+'</div>'+
+        '<div class="badges"><span class="b plain">'+esc(KIND[p.kind]||p.kind)+'</span>'+tracks+'</div>'+
+        (p.window ? '<div class="win"><b>When:</b> '+esc(p.window)+'</div>' : "")+
+        (p.note ? '<div class="snip">'+esc(p.note)+'</div>' : "")+
+        '<div class="acts"><a class="apply" target="_blank" rel="noopener noreferrer" href="'+esc(p.url)+'">Open →</a></div>';
+      host.appendChild(el);
+    });
+  }).catch(() => {
+    document.getElementById("proglist").innerHTML = '<div class="empty">Could not load programs.json</div>';
+  });
+}
+function showTab(which){
+  const jobs = which === "jobs";
+  document.getElementById("viewJobs").hidden = !jobs;
+  document.getElementById("viewProg").hidden = jobs;
+  document.getElementById("tabJobs").setAttribute("aria-selected", jobs);
+  document.getElementById("tabProg").setAttribute("aria-selected", !jobs);
+  if (!jobs) loadPrograms();
+}
+document.getElementById("tabJobs").onclick = () => showTab("jobs");
+document.getElementById("tabProg").onclick = () => showTab("prog");
+
+document.getElementById("q").addEventListener("input", render);
+document.getElementById("newonly").onclick = e => {
+  newOnly = !newOnly;
+  e.target.textContent = newOnly ? "Show all" : "Show new only";
+  render();
+};
+document.getElementById("markseen").onclick = () => {
+  lastSeen = new Date().toISOString().slice(0,10);
+  localStorage.setItem(LS_KEY, lastSeen);
+  render();
+};
+</script>
+</body>
+</html>
