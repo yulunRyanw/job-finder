@@ -1,0 +1,51 @@
+46 new early-career posting(s).
+
+### Venture Capital
+- [Venture Fellow](https://venturecapitalcareers.com/companies/1752vc/jobs/venture-fellow-4) · **1752Vc** · _fellowship_
+- [Venture Capital Analyst Fellowship](https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-analyst-fellowship) · **1752Vc** · _fellowship_
+- [VC Fellowship (AI)](https://venturecapitalcareers.com/companies/1752vc/jobs/vc-fellowship-ai) · **1752Vc** · _fellowship_
+- [Venture Capital Fellow (Tech & AI)](https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-tech-ai) · **1752Vc** · _fellowship_
+- [VC Fellow, Fall 2026](https://venturecapitalcareers.com/companies/2048-ventures/jobs/vc-fellow-fall-2026) · **2048 Ventures** · _fellowship_
+- [Venture Fellow](https://venturecapitalcareers.com/companies/aegis-ventures/jobs/venture-fellow-6) · **Aegis Ventures** · _fellowship_
+- [Visiting VC Analyst - Intern Venture Capital (m/f/d)](https://venturecapitalcareers.com/companies/alstin-capital-gmbh/jobs/visiting-vc-analyst---intern-venture-capital-mfd-2) · **Alstin Capital Gmbh** · _intern_
+- [Fintech venture capital analyst (internship)](https://venturecapitalcareers.com/companies/blackfin-tech/jobs/fintech-venture-capital-analyst-internship) · **Blackfin Tech** · _intern_
+- [Visiting Analyst / Internship](https://venturecapitalcareers.com/companies/calm-storm/jobs/visiting-analyst-internship) · **Calm Storm** · _intern_
+- [Investment Analyst Intern/Freelance - Secondary Market](https://venturecapitalcareers.com/companies/clifton/jobs/investment-analyst-internfreelance---secondary-market) · **Clifton** · _intern_
+- [Investment Intern](https://venturecapitalcareers.com/companies/cvx-ventures/jobs/investment-intern-4) · **Cvx Ventures** · _intern_
+- [Visiting Analyst (Investment Team Intern)](https://venturecapitalcareers.com/companies/dn-capital/jobs/visiting-analyst-investment-team-intern) · **Dn Capital** · _intern_
+- [Investment Intern (m/f/d)](https://venturecapitalcareers.com/companies/earlybird/jobs/investment-intern-mfd) · **Earlybird** · _intern_
+- [Investment Intern](https://venturecapitalcareers.com/companies/edenred-ventures/jobs/investment-intern-5) · **Edenred Ventures** · _intern_
+- [VC Intern](https://venturecapitalcareers.com/companies/entourage/jobs/11ca1d8f7f1b4f048fc17961b9908a29-vc-intern) · **Entourage** · _intern_
+- [VC Investment Intern (Munich or Remote) - 4-6 months from Oct 2026](https://venturecapitalcareers.com/companies/first-momentum-ventures/jobs/vc-investment-intern-munich-or-remote---4-6-months-from-oct-2026) · **First Momentum Ventures** · _intern_
+- [VC Investment Intern (Munich or Remote) - 4-6 months from Jan 2027](https://venturecapitalcareers.com/companies/first-momentum-ventures/jobs/vc-investment-intern-munich-or-remote---4-6-months-from-jan-2027) · **First Momentum Ventures** · _intern_
+- [Working Student - Venture Capital](https://venturecapitalcareers.com/companies/greencode-ventures/jobs/working-student---venture-capital) · **Greencode Ventures** · _part_time_
+- [2026–2027 MBA Fellowship](https://venturecapitalcareers.com/companies/halogen-ventures/jobs/20262027-mba-fellowship) · **Halogen Ventures** · _fellowship_
+- [Venture Fellow](https://venturecapitalcareers.com/companies/inflect-capital/jobs/venture-fellow-5) · **Inflect Capital** · _fellowship_
+- [VC Intern 风险投资实习生](https://venturecapitalcareers.com/companies/kirin/jobs/vc-intern) · **Kirin** · _intern_
+- [VC Analyst Intern (Jan–Jun 2027/Jul to Dec 2027)](https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/vc-analyst-intern-janjun-2027jul-to-dec-2027-2) · **Motion Ventures 2** · _intern_
+- [Portfolio and Ecosystem Analyst Intern (Jul to Dec 2026)](https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/portfolio-and-ecosystem-analyst-intern-jul-to-dec-2026-2) · **Motion Ventures 2** · _intern_
+- [Investment Analyst Intern (Oct to Dec 2026)](https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/investment-analyst-intern-oct-to-dec-2026-2) · **Motion Ventures 2** · _intern_
+- [Investment Intern with Novo Holdings Asia (Jan - Jun 2027)](https://venturecapitalcareers.com/companies/novo-ventures/jobs/investment-intern-with-novo-holdings-asia-jan---jun-2027) · **Novo Ventures** · _intern_
+- [Content Creator Intern — VC / Startup Accelerator (6 months, Paris)](https://venturecapitalcareers.com/companies/pioneers/jobs/content-creator-intern-vc-startup-accelerator-6-months-paris) · **Pioneers** · _intern_
+- [【Intern/インターン】シリコンバレー発VCのCapitalist（理系学生歓迎）](https://venturecapitalcareers.com/companies/plug-and-play-japan/jobs/internvccapitalist) · **Plug And Play Japan** · _intern_
+- [Working Student Venture Capital (w/m/d)](https://venturecapitalcareers.com/companies/reimann-investors/jobs/working-student-venture-capital-wmd-2) · **Reimann Investors** · _part_time_
+- [Private Equity Investment Intern, Technology](https://venturecapitalcareers.com/companies/revaia/jobs/private-equity-investment-intern-technology) · **Revaia** · _intern_
+- [Venture Capital Intern @ Global Founders Capital](https://venturecapitalcareers.com/companies/rocket-internet/jobs/venture-capital-intern-global-founders-capital) · **Rocket Internet** · _intern_
+- [Full-Time 6 months Internship @ Global Founders Capital VC](https://venturecapitalcareers.com/companies/rocket-internet/jobs/full-time-6-months-internship-global-founders-capital-vc) · **Rocket Internet** · _intern_
+- [Analyst Intern](https://venturecapitalcareers.com/companies/she-capital/jobs/analyst-intern-2) · **She Capital** · _intern_
+- [Venture Capital Internship](https://venturecapitalcareers.com/companies/simon-capital/jobs/venture-capital-internship-3) · **Simon Capital** · _intern_
+- [2027 Business Development Operations Summer Analyst](https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-business-development-operations-summer-analyst) · **Stepstone Group** · _intern_
+- [2027 Venture Capital Summer Associate](https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-associate) · **Stepstone Group** · _intern_
+- [2027 Venture Capital Summer Analyst](https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-analyst) · **Stepstone Group** · _intern_
+- [2027 Venture Capital Business Development Summer Associate](https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-business-development-summer-associate) · **Stepstone Group** · _intern_
+- [2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst](https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-growth-equity-investor-relations-summer-analyst) · **Stepstone Group** · _intern_
+- [Fellowship - Gaming, SportsTech & MediaTech (GSM)- 2026 cohort SucSEED](https://venturecapitalcareers.com/companies/sucseed-ventures/jobs/fellowship---gaming-sportstech-mediatech-gsm--2026-cohort-sucseed) · **Sucseed Ventures** · _fellowship_
+- [Temasek Investment Internship Programme 2027 (China) (Beijing, BJ, CN, 100020)](https://venturecapitalcareers.com/companies/temasek/jobs/temasek-investment-internship-programme-2027-china-beijing-bj-cn-100020) · **Temasek** · _intern_
+- [Investment Internship](https://venturecapitalcareers.com/companies/the-hive-southeast-asia/jobs/investment-internship) · **The Hive Southeast Asia** · _intern_
+- [Unsolicited Application: Intern or Working Student for our Investment Team at UVC](https://venturecapitalcareers.com/companies/uvc-partners/jobs/unsolicited-application-intern-or-working-student-for-our-investment-team-at-uvc) · **Uvc Partners** · _intern_
+- [Venture Capital Intern](https://venturecapitalcareers.com/companies/v11/jobs/venture-capital-intern-4) · **V11** · _intern_
+- [Portfolio Management Internship](https://venturecapitalcareers.com/companies/wavemaker-partners-2/jobs/portfolio-management-internship) · **Wavemaker Partners 2** · _intern_
+- [VC Analyst Intern - January 2027](https://venturecapitalcareers.com/companies/wind/jobs/vc-analyst-intern---january-2027) · **Wind** · _intern_
+
+### Startup Generalist
+- [Growth Associate Intern (m/f/d)](https://venturecapitalcareers.com/companies/project-a/jobs/growth-associate-intern-mfd) · **Project A** · _intern_

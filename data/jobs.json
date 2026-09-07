@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:13:54Z",
+ "generated_at": "2026-09-07T03:57:24Z",
  "health": [
   {
    "source": "greenhouse",
@@ -11,7 +11,7 @@
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3613,
+   "raw": 3618,
    "error": "",
    "detail": "36/36 boards live"
   },
@@ -32,9 +32,9 @@
   {
    "source": "vc_careers",
    "ok": true,
-   "raw": 541,
+   "raw": 536,
    "error": "",
-   "detail": "29 page(s)"
+   "detail": "28 page(s)"
   },
   {
    "source": "signals",
@@ -45,6 +45,926 @@
   }
  ],
  "jobs": [
+  {
+   "title": "VC Analyst Intern - January 2027",
+   "company": "Wind",
+   "url": "https://venturecapitalcareers.com/companies/wind/jobs/vc-analyst-intern---january-2027",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "3561bf3d506f7f25",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Portfolio Management Internship",
+   "company": "Wavemaker Partners 2",
+   "url": "https://venturecapitalcareers.com/companies/wavemaker-partners-2/jobs/portfolio-management-internship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "90d7e676ea98cece",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Intern",
+   "company": "V11",
+   "url": "https://venturecapitalcareers.com/companies/v11/jobs/venture-capital-intern-4",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "bcfa8469ef256706",
+   "category": "vc",
+   "level": "intern",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Unsolicited Application: Intern or Working Student for our Investment Team at UVC",
+   "company": "Uvc Partners",
+   "url": "https://venturecapitalcareers.com/companies/uvc-partners/jobs/unsolicited-application-intern-or-working-student-for-our-investment-team-at-uvc",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "985bc33152bf972c",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Internship",
+   "company": "The Hive Southeast Asia",
+   "url": "https://venturecapitalcareers.com/companies/the-hive-southeast-asia/jobs/investment-internship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "fabb1489a3cd6bf5",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Temasek Investment Internship Programme 2027 (China) (Beijing, BJ, CN, 100020)",
+   "company": "Temasek",
+   "url": "https://venturecapitalcareers.com/companies/temasek/jobs/temasek-investment-internship-programme-2027-china-beijing-bj-cn-100020",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "006f85b1a227773b",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Fellowship - Gaming, SportsTech & MediaTech (GSM)- 2026 cohort SucSEED",
+   "company": "Sucseed Ventures",
+   "url": "https://venturecapitalcareers.com/companies/sucseed-ventures/jobs/fellowship---gaming-sportstech-mediatech-gsm--2026-cohort-sucseed",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "f508a613cc51bfba",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2027 Business Development Operations Summer Analyst",
+   "company": "Stepstone Group",
+   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-business-development-operations-summer-analyst",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "b6f594341ff5cc4a",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2027 Venture Capital Summer Associate",
+   "company": "Stepstone Group",
+   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-associate",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "b19af1f5baa3161a",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2027 Venture Capital Summer Analyst",
+   "company": "Stepstone Group",
+   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-analyst",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "26ddb708c7b1b314",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2027 Venture Capital Business Development Summer Associate",
+   "company": "Stepstone Group",
+   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-business-development-summer-associate",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "6bf54ebbdad0486e",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst",
+   "company": "Stepstone Group",
+   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-growth-equity-investor-relations-summer-analyst",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "e37d5df38bf9e587",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Internship",
+   "company": "Simon Capital",
+   "url": "https://venturecapitalcareers.com/companies/simon-capital/jobs/venture-capital-internship-3",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "2ac7e06b8073e5ea",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Analyst Intern",
+   "company": "She Capital",
+   "url": "https://venturecapitalcareers.com/companies/she-capital/jobs/analyst-intern-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "e47459913dadf2a9",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Intern @ Global Founders Capital",
+   "company": "Rocket Internet",
+   "url": "https://venturecapitalcareers.com/companies/rocket-internet/jobs/venture-capital-intern-global-founders-capital",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "61ecc1b579ca0a0d",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Full-Time 6 months Internship @ Global Founders Capital VC",
+   "company": "Rocket Internet",
+   "url": "https://venturecapitalcareers.com/companies/rocket-internet/jobs/full-time-6-months-internship-global-founders-capital-vc",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "cdf91e22b55ac138",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Private Equity Investment Intern, Technology",
+   "company": "Revaia",
+   "url": "https://venturecapitalcareers.com/companies/revaia/jobs/private-equity-investment-intern-technology",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "d938a1e30c855698",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Working Student Venture Capital (w/m/d)",
+   "company": "Reimann Investors",
+   "url": "https://venturecapitalcareers.com/companies/reimann-investors/jobs/working-student-venture-capital-wmd-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "8c43c61ae07c20e1",
+   "category": "vc",
+   "level": "part_time",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Growth Associate Intern (m/f/d)",
+   "company": "Project A",
+   "url": "https://venturecapitalcareers.com/companies/project-a/jobs/growth-associate-intern-mfd",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "526b4eb3cee908d2",
+   "category": "generalist",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "【Intern/インターン】シリコンバレー発VCのCapitalist（理系学生歓迎）",
+   "company": "Plug And Play Japan",
+   "url": "https://venturecapitalcareers.com/companies/plug-and-play-japan/jobs/internvccapitalist",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "0f7e5bac0db5a550",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Content Creator Intern — VC / Startup Accelerator (6 months, Paris)",
+   "company": "Pioneers",
+   "url": "https://venturecapitalcareers.com/companies/pioneers/jobs/content-creator-intern-vc-startup-accelerator-6-months-paris",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "190cf49aa554e335",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Intern with Novo Holdings Asia (Jan - Jun 2027)",
+   "company": "Novo Ventures",
+   "url": "https://venturecapitalcareers.com/companies/novo-ventures/jobs/investment-intern-with-novo-holdings-asia-jan---jun-2027",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "c2dd4f0e15d532fd",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Analyst Intern (Jan–Jun 2027/Jul to Dec 2027)",
+   "company": "Motion Ventures 2",
+   "url": "https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/vc-analyst-intern-janjun-2027jul-to-dec-2027-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "b89f4311d4270fbb",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Portfolio and Ecosystem Analyst Intern (Jul to Dec 2026)",
+   "company": "Motion Ventures 2",
+   "url": "https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/portfolio-and-ecosystem-analyst-intern-jul-to-dec-2026-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "408ac4789760bcdf",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Analyst Intern (Oct to Dec 2026)",
+   "company": "Motion Ventures 2",
+   "url": "https://venturecapitalcareers.com/companies/motion-ventures-2/jobs/investment-analyst-intern-oct-to-dec-2026-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "565e1c2ef6d7ec9f",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Intern 风险投资实习生",
+   "company": "Kirin",
+   "url": "https://venturecapitalcareers.com/companies/kirin/jobs/vc-intern",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "02ada7d27e85d28a",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Fellow",
+   "company": "Inflect Capital",
+   "url": "https://venturecapitalcareers.com/companies/inflect-capital/jobs/venture-fellow-5",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "69effb983ff7f0fd",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "2026–2027 MBA Fellowship",
+   "company": "Halogen Ventures",
+   "url": "https://venturecapitalcareers.com/companies/halogen-ventures/jobs/20262027-mba-fellowship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "3ce4d974e3338bae",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Working Student - Venture Capital",
+   "company": "Greencode Ventures",
+   "url": "https://venturecapitalcareers.com/companies/greencode-ventures/jobs/working-student---venture-capital",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "5742de04b71587a8",
+   "category": "vc",
+   "level": "part_time",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Investment Intern (Munich or Remote) - 4-6 months from Oct 2026",
+   "company": "First Momentum Ventures",
+   "url": "https://venturecapitalcareers.com/companies/first-momentum-ventures/jobs/vc-investment-intern-munich-or-remote---4-6-months-from-oct-2026",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "2d721c45ecaaf884",
+   "category": "vc",
+   "level": "intern",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Investment Intern (Munich or Remote) - 4-6 months from Jan 2027",
+   "company": "First Momentum Ventures",
+   "url": "https://venturecapitalcareers.com/companies/first-momentum-ventures/jobs/vc-investment-intern-munich-or-remote---4-6-months-from-jan-2027",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "bc6a9b50c194642d",
+   "category": "vc",
+   "level": "intern",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Intern",
+   "company": "Entourage",
+   "url": "https://venturecapitalcareers.com/companies/entourage/jobs/11ca1d8f7f1b4f048fc17961b9908a29-vc-intern",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "ca54c28e6c365bde",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Intern",
+   "company": "Edenred Ventures",
+   "url": "https://venturecapitalcareers.com/companies/edenred-ventures/jobs/investment-intern-5",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "429609dedb06ae16",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Intern (m/f/d)",
+   "company": "Earlybird",
+   "url": "https://venturecapitalcareers.com/companies/earlybird/jobs/investment-intern-mfd",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "c2cb4f6764c2f0a0",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Visiting Analyst (Investment Team Intern)",
+   "company": "Dn Capital",
+   "url": "https://venturecapitalcareers.com/companies/dn-capital/jobs/visiting-analyst-investment-team-intern",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "f87553a2d44a494e",
+   "category": "vc",
+   "level": "intern",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Intern",
+   "company": "Cvx Ventures",
+   "url": "https://venturecapitalcareers.com/companies/cvx-ventures/jobs/investment-intern-4",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "ba9db1f09ae646f2",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Investment Analyst Intern/Freelance - Secondary Market",
+   "company": "Clifton",
+   "url": "https://venturecapitalcareers.com/companies/clifton/jobs/investment-analyst-internfreelance---secondary-market",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "8c77fbd84fc4f548",
+   "category": "vc",
+   "level": "intern",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Visiting Analyst / Internship",
+   "company": "Calm Storm",
+   "url": "https://venturecapitalcareers.com/companies/calm-storm/jobs/visiting-analyst-internship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "48d684ded7868eac",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Fintech venture capital analyst (internship)",
+   "company": "Blackfin Tech",
+   "url": "https://venturecapitalcareers.com/companies/blackfin-tech/jobs/fintech-venture-capital-analyst-internship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "fe415857e6d83595",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Visiting VC Analyst - Intern Venture Capital (m/f/d)",
+   "company": "Alstin Capital Gmbh",
+   "url": "https://venturecapitalcareers.com/companies/alstin-capital-gmbh/jobs/visiting-vc-analyst---intern-venture-capital-mfd-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "3cb362376f2e9710",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Fellow",
+   "company": "Aegis Ventures",
+   "url": "https://venturecapitalcareers.com/companies/aegis-ventures/jobs/venture-fellow-6",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "e64b8801a86355a5",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Fellow, Fall 2026",
+   "company": "2048 Ventures",
+   "url": "https://venturecapitalcareers.com/companies/2048-ventures/jobs/vc-fellow-fall-2026",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "4ece6423b48ee33d",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "unknown",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Fellow",
+   "company": "1752Vc",
+   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-fellow-4",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "a9f4f8dc7ddb3c02",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Analyst Fellowship",
+   "company": "1752Vc",
+   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-analyst-fellowship",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "e851c670d2357a56",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "VC Fellowship (AI)",
+   "company": "1752Vc",
+   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/vc-fellowship-ai",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "eb86d5f47dd4e386",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
+  {
+   "title": "Venture Capital Fellow (Tech & AI)",
+   "company": "1752Vc",
+   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-tech-ai",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "61330f51029a4335",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-07T03:57:24Z",
+   "last_seen": "2026-09-07T03:57:24Z",
+   "active": true
+  },
   {
    "title": "VC Fellowship Program",
    "company": "Vencapital",
@@ -62,7 +982,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -102,7 +1022,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -123,7 +1043,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T08:15:24Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "VC Fellow, Fall 2026",
@@ -143,7 +1063,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T08:15:24Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "VC Fellowship (AI)",
@@ -163,7 +1083,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "AI Product Manager Intern - 2027 Summer",
@@ -182,7 +1102,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -202,7 +1122,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -222,7 +1142,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -242,7 +1162,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -262,7 +1182,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -282,7 +1202,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -302,7 +1222,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -322,7 +1242,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -343,7 +1263,7 @@
    "region": "unknown",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Venture Creation (Fintech)",
@@ -503,7 +1423,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:30:07Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Investment Associate & Product Engineer",
@@ -743,7 +1663,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -762,7 +1682,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -1043,7 +1963,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "2027 Venture Capital Summer Analyst",
@@ -1063,7 +1983,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "2027 Venture Capital Business Development Summer Associate",
@@ -1083,7 +2003,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "2027 Business Development Operations Summer Analyst",
@@ -1103,7 +2023,7 @@
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Associate, Client Onboarding - Investor Services",
@@ -1143,7 +2063,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -1942,7 +2862,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -1962,7 +2882,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -1982,7 +2902,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -2002,7 +2922,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -2683,7 +3603,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Innovation Product Manager",
@@ -3205,7 +4125,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -3226,7 +4146,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -3406,7 +4326,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -3466,7 +4386,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
+   "last_seen": "2026-09-07T03:57:24Z",
    "active": true
   },
   {
@@ -3647,7 +4567,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Designer",
@@ -4367,7 +5287,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Product Manager",
@@ -4447,7 +5367,7 @@
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Analyst Fellowship",
@@ -4467,7 +5387,7 @@
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
    "last_seen": "2026-09-06T20:13:54Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Venture Capital Fellow (Tech & AI)",
