@@ -95,3 +95,4 @@ companies:
   - {name: "Artificialanalysis", ats: ashby, slug: "artificialanalysis", tags: [startup]}  # auto-discovered
   - {name: "Checkly", ats: ashby, slug: "checkly", tags: [startup]}  # auto-discovered
   - {name: "Rai", ats: lever, slug: "rai", tags: [startup]}  # auto-discovered
+  - {name: "Langfuse", ats: ashby, slug: "langfuse", tags: [startup]}  # auto-discovered
