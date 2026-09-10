@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-09-10T03:59:46Z",
+ "generated_at": "2026-09-10T11:01:37Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7810,
+   "raw": 7811,
    "error": "",
    "detail": "49/49 boards live"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3609,
+   "raw": 3610,
    "error": "",
    "detail": "37/37 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1185,
+   "raw": 1183,
    "error": "",
    "detail": "7/7 boards live"
   },
@@ -32,9 +32,9 @@
   {
    "source": "vc_careers",
    "ok": true,
-   "raw": 120,
+   "raw": 560,
    "error": "",
-   "detail": "stopped early at page 6: HTTPError 6 page(s)"
+   "detail": "29 page(s)"
   },
   {
    "source": "signals",
@@ -62,7 +62,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -82,7 +82,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -102,7 +102,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -122,7 +122,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -142,7 +142,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -162,7 +162,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -202,7 +202,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -222,7 +222,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -242,8 +242,8 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Unsolicited Application: Intern or Working Student for our Investment Team at UVC",
@@ -262,8 +262,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Investment Internship",
@@ -282,8 +282,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Temasek Investment Internship Programme 2027 (China) (Beijing, BJ, CN, 100020)",
@@ -302,8 +302,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Fellowship - Gaming, SportsTech & MediaTech (GSM)- 2026 cohort SucSEED",
@@ -322,8 +322,8 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2027 Business Development Operations Summer Analyst",
@@ -342,8 +342,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2027 Venture Capital Summer Associate",
@@ -362,8 +362,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2027 Venture Capital Summer Analyst",
@@ -382,8 +382,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2027 Venture Capital Business Development Summer Associate",
@@ -402,8 +402,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst",
@@ -422,8 +422,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Capital Internship",
@@ -442,8 +442,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Analyst Intern",
@@ -462,8 +462,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Capital Intern @ Global Founders Capital",
@@ -482,8 +482,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Full-Time 6 months Internship @ Global Founders Capital VC",
@@ -502,8 +502,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Private Equity Investment Intern, Technology",
@@ -522,7 +522,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -542,8 +542,8 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Growth Associate Intern (m/f/d)",
@@ -562,8 +562,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "【Intern/インターン】シリコンバレー発VCのCapitalist（理系学生歓迎）",
@@ -582,8 +582,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Content Creator Intern — VC / Startup Accelerator (6 months, Paris)",
@@ -602,7 +602,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -622,8 +622,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Analyst Intern (Jan–Jun 2027/Jul to Dec 2027)",
@@ -642,8 +642,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Portfolio and Ecosystem Analyst Intern (Jul to Dec 2026)",
@@ -662,8 +662,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Investment Analyst Intern (Oct to Dec 2026)",
@@ -682,8 +682,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Intern 风险投资实习生",
@@ -702,8 +702,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Fellow",
@@ -722,8 +722,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "2026–2027 MBA Fellowship",
@@ -742,8 +742,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Working Student - Venture Capital",
@@ -762,7 +762,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -782,8 +782,8 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Investment Intern (Munich or Remote) - 4-6 months from Jan 2027",
@@ -802,8 +802,8 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Intern",
@@ -822,8 +822,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Investment Intern",
@@ -842,8 +842,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Investment Intern (m/f/d)",
@@ -862,8 +862,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Visiting Analyst (Investment Team Intern)",
@@ -882,8 +882,8 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Investment Intern",
@@ -922,8 +922,8 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Visiting Analyst / Internship",
@@ -942,8 +942,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Fintech venture capital analyst (internship)",
@@ -962,7 +962,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -982,8 +982,8 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Fellow",
@@ -1002,8 +1002,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Fellow, Fall 2026",
@@ -1022,8 +1022,8 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Fellow",
@@ -1042,8 +1042,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Capital Analyst Fellowship",
@@ -1062,8 +1062,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Fellowship (AI)",
@@ -1082,8 +1082,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "Venture Capital Fellow (Tech & AI)",
@@ -1102,8 +1102,8 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-09T20:48:13Z",
-   "active": false
+   "last_seen": "2026-09-10T11:01:37Z",
+   "active": true
   },
   {
    "title": "VC Fellowship Program",
@@ -1122,7 +1122,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1162,7 +1162,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1242,7 +1242,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1262,7 +1262,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1282,7 +1282,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1302,7 +1302,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1322,7 +1322,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1342,7 +1342,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1362,7 +1362,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1382,7 +1382,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -1822,7 +1822,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -3002,7 +3002,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -3022,7 +3022,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -3042,7 +3042,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -3062,7 +3062,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -4265,7 +4265,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -4286,7 +4286,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -4466,7 +4466,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
@@ -4526,7 +4526,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-10T03:59:46Z",
+   "last_seen": "2026-09-10T11:01:37Z",
    "active": true
   },
   {
