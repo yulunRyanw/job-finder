@@ -1,5 +1,5 @@
 2 new early-career posting(s).
 
 ### Venture Capital
-- [Investment Intern – Early Stage](https://venturecapitalcareers.com/companies/hv-capital/jobs/investment-intern-early-stage) · **Hv Capital** · _intern_
-- [Investment Intern - Growth Stage](https://venturecapitalcareers.com/companies/hv-capital/jobs/investment-intern---growth-stage) · **Hv Capital** · _intern_
+- [Venture Capital Fellow (AI) — Boston](https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-ai-boston) · **1752Vc** · _fellowship_
+- [Venture Capital Fellow (AI)](https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-ai) · **1752Vc** · _fellowship_
