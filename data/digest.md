@@ -1,7 +1,5 @@
 2 new early-career posting(s).
 
-### Venture Capital
-- [Investment Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) · **Robinhood** — Menlo Park, CA · _intern_
-
-### Startup Generalist
-- [Special Projects Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262) · **Robinhood** — Menlo Park, CA · _intern_
+### Product Design
+- [Brand Design Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004) · **Figma** — San Francisco, CA · _intern_
+- [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) · **Figma** — San Francisco, CA • New York, NY · _intern_

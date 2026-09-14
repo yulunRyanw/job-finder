@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-09-14T12:22:24Z",
+ "generated_at": "2026-09-14T21:44:50Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7923,
+   "raw": 7924,
    "error": "",
    "detail": "49/49 boards live"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3626,
+   "raw": 3613,
    "error": "",
    "detail": "37/37 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1181,
+   "raw": 1183,
    "error": "",
    "detail": "7/7 boards live"
   },
@@ -32,7 +32,7 @@
   {
    "source": "vc_careers",
    "ok": true,
-   "raw": 589,
+   "raw": 590,
    "error": "",
    "detail": "30 page(s)"
   },
@@ -46,11 +46,51 @@
  ],
  "jobs": [
   {
+   "title": "Brand Design Intern (Summer 2027)",
+   "company": "Figma",
+   "url": "https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004",
+   "location": "San Francisco, CA",
+   "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n\n Figma’s Brand Studio owns and drives creative initiatives across the company—from campaigns and launches to brand storytelling and visual identity. As a Brand Design Intern, you’ll get hands-on experience inside that team, contributing real work to real brand moments while learning how craft, systems, and storytelling come together at scale. You’ll partner closely with the Brand Studio team, and get exposure to cross-functional partners along the way. This is a chance to build foundational skills in a professional creative environment, grow your point of view, and leave with a stronger portfolio and a clearer sense of what a career in brand design looks like.\n\n This internship will be based out of our San Francisco Hub with a June 1, 2027 OR June 14, 2027 start date. Applications must be submitted by Friday, October 2nd, 2026 at 5:00pm PT to be considered. \n\n What you’ll do at Figma: \n\n• Support the creation of visually engaging brand work across campaigns, launches, and storytelling moments\n\n• Assist in exploring visual directions for the Figma brand through image-making, typography, and composition, with guidance from senior designers\n\n• Contribute concepts and drafts that are refined through feedback and mentorship from the team\n\n• Help execute scalable visual systems and toolkits under the direction of the team\n\n• Collaborate with Brand Studio partners and gain exposure to cross-functional partners\n\n• Research and share new creative references, tools, and techniques, including AI-powered workflows\n\n• Practice bringing craft and intentionality to work, from early explorations through to final files\n\n• Present work-in-progress and finished work to the team, and incorporate feedback into revisions\n\n We’d love to hear from you if you have: \n\n• A portfolio (school projects, personal work, or previous internships) that shows visual curiosity and a developing sense of craft across image-making, composition, typography, and color\n\n• Working proficiency in Figma\n\n• Strong visual communication skills and comfort sharing early, unpolished work for feedback\n\n• Comfort navigating ambiguity and asking questions to gain context\n\n While it’s not required, it’s an added plus if you also have: \n\n• Exposure to motion or animation tools (e.g., Figma Motion, After Effects)\n\n• Early experimentation with AI-powered image or content generation tools\n\n• Familiarity with brand systems or design systems, even at a coursework level\n\n See some of the work our team has helped bring to life: \n\n• Digital tools, human expression: The visual identity behind Config 2026 \n\n• Just our type: The story of creating Figma Sans \n\n• Publish your designs on the web with Figma Sites \n\n• Updating our web system for a new era \n\n At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\n\n Pay Transparency Disclosure \n\n This internship role is based in Figma’s San Francisco hub office and has the hourly base pay rate stated below. Figma also offers interns a housing stipend and travel reimbursement. Figma’s compensation and benefits are subject to change and may be modified in the future.\n\n Internship\n $29 — $29 USD \n\n At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. \n\n Examples of accommodations include but are not limited to: \n\n• Holding interviews in an accessible location\n\n• Enabling closed captioning on video conferencing\n\n• Ensuring all written communication be compatible with screen readers\n\n• Changing the mode or format of interviews \n\n To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.\n\n By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
+   "source": "greenhouse",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-09-14",
+   "remote": false,
+   "id": "8b57ed5df1c4de14",
+   "category": "design",
+   "level": "intern",
+   "region": "sf_bay",
+   "first_seen": "2026-09-14T21:44:50Z",
+   "last_seen": "2026-09-14T21:44:50Z",
+   "active": true
+  },
+  {
+   "title": "Product Design Intern (2027)",
+   "company": "Figma",
+   "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+   "location": "San Francisco, CA • New York, NY",
+   "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n\n As a Product Design intern at Figma, you will own real impactful projects and take them from ideation to execution. You will work fluidly and collaboratively with your mentor, the rest of the design team, as well as other functions. Because of this, you should have a broad set of design skills and be motivated to learn. Over the course of the summer, you’ll have the opportunity to ship meaningful contributions to both the company and the product.\n\n This internship will be based out of our San Francisco or New York hub. \n\n What you'll do at Figma: \n\n• Own the design from start to finish for impactful features that ship quickly\n\n• Collaborate with product, research, marketing, and other functions to identify user and business needs\n\n• Work closely with Engineering to ensure a high-quality implementation\n\n• Create flows, prototypes, and high-fidelity visuals for your features\n\n• Participate in weekly design critiques \n\n Launches from early career designers on our team: \n\n• Figma Grid \n\n• Billing Experience \n\n• Figma Draw \n\n We’d love to hear from you if you have: \n\n• A demonstrated baseline in visual design and/or interaction design skills\n\n• Experience shipping projects with good product strategy and visual design\n\n• An ability to express ideas through prototyping and code\n\n• An eagerness to learn and a demonstrated self-starting initiative \n\n While it’s not required, it’s an added plus if you also have: \n\n• An interest in design tools and design systems\n\n• An aptitude or interest in systems thinking and information architecture\n\n• Knowledge of the building blocks of a design tool or similar aspects of other creative tools\n\n A few resources to help you get ready and learn more about the Figma design team: \n\n• Breaking In: A guide to landing your first product design role \n\n• Build a portfolio that tells your story | Figma for Edu Early Career Week \n\n• Portfolios 101 | Figma for Edu Early Career Week \n\n• Craft and beauty: The ROI of marrying form and function \n\n At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\n\n #LI-HYBRI #LI-SH \n\n Pay Transparency Disclosure \n\n This internship role is based in either Figma’s San Francisco or New York hub offices, and has the hourly base pay rate stated below.  Figma also offers interns a housing stipend and travel reimbursement. Figma’s compensation and benefits are subject to change and may be modified in the future.\n\n Internship\n $46 — $46 USD \n\n At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. \n\n Examples of accommodations include but are not limited to: \n\n• Holding interviews in an accessible location\n\n• Enabling closed captioning on video conferencing\n\n• Ensuring all written communication be compatible with screen readers\n\n• Changing the mode or format of interviews \n\n To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.\n\n By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
+   "source": "greenhouse",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-09-14",
+   "remote": false,
+   "id": "a1f5f2a3a7f03c1e",
+   "category": "design",
+   "level": "intern",
+   "region": "sf_bay",
+   "first_seen": "2026-09-14T21:44:50Z",
+   "last_seen": "2026-09-14T21:44:50Z",
+   "active": true
+  },
+  {
    "title": "Investment Analyst Intern (Summer 2027)",
    "company": "Robinhood",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
    "location": "Menlo Park, CA",
-   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n Robinhood Ventures’ mission is to build one of the best venture capital platforms in the world and make it accessible to investors everywhere. Through our publicly-traded funds in Robinhood Ventures Fund I and Robinhood Ventures Fund II  we’ve already invested in some of the best private companies in the world like OpenAI, Databricks, Ramp, and more - and we’re just getting started. \n\n As an Investment Intern in Robinhood Ventures you will be a core part of our lean team. You will research, evaluate, and support investments across the Robinhood Ventures platform, with a focus on late-stage investments.  \n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Research and sourcing - You’ll research markets and sectors that you believe we should be paying attention to, and then identify the key companies in them that Robinhood Ventures needs to meet.   \n\n• Investment evaluation - You’ll be a key part of the deal team for investments we evaluate. You’ll own core diligence workstreams like the financial model, competitive analysis, and help shape investment theses. \n\n• Platform building - You’ll work with teams across Product, Operations, Marketing, Legal, and more to help build experiences in the Robinhood app to further differentiate Robinhood Ventures for both retail investors and portfolio companies. \n\n What you bring \n\n• Currently enrolled in a full-time MBA program \n\n• Prior experience in investment banking, private equity, or finance at a high-growth company, with fluency in financial modeling, valuation analysis, and market research; late-stage investing or venture capital experience is a plus\n\n• Intellectual curiosity and a demonstrated interest in emerging technologies and the private companies driving them — you proactively form opinions on key trends and companies\n\n• An existing network in the startup ecosystem, or the drive to build one, that can help Robinhood Ventures identify and connect with promising companies\n\n• Proven ability to work independently in lean, high-output environments, with experience collaborating across cross-functional teams\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $43 — $43 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
+   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n Robinhood Ventures’ mission is to build one of the best venture capital platforms in the world and make it accessible to investors everywhere. Through our publicly-traded funds in Robinhood Ventures Fund I and Robinhood Ventures Fund II  we’ve already invested in some of the best private companies in the world like OpenAI, Databricks, Ramp, and more - and we’re just getting started. \n\n As an Investment Intern in Robinhood Ventures you will be a core part of our lean team. You will research, evaluate, and support investments across the Robinhood Ventures platform, with a focus on late-stage investments.  \n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Research and sourcing - You’ll research markets and sectors that you believe we should be paying attention to, and then identify the key companies in them that Robinhood Ventures needs to meet.   \n\n• Investment evaluation - You’ll be a key part of the deal team for investments we evaluate. You’ll own core diligence workstreams like the financial model, competitive analysis, and help shape investment theses. \n\n• Platform building - You’ll work with teams across Product, Operations, Marketing, Legal, and more to help build experiences in the Robinhood app to further differentiate Robinhood Ventures for both retail investors and portfolio companies. \n\n What you bring \n\n• Currently enrolled in a full-time MBA program \n\n• Prior experience in investment banking, private equity, or finance at a high-growth company, with fluency in financial modeling, valuation analysis, and market research; late-stage investing or venture capital experience is a plus\n\n• Intellectual curiosity and a demonstrated interest in emerging technologies and the private companies driving them — you proactively form opinions on key trends and companies\n\n• An existing network in the startup ecosystem, or the drive to build one, that can help Robinhood Ventures identify and connect with promising companies\n\n• Proven ability to work independently in lean, high-output environments, with experience collaborating across cross-functional teams\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $38 — $38 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
    "source": "greenhouse",
    "company_tags": [
     "startup"
@@ -62,7 +102,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T12:22:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -70,7 +110,7 @@
    "company": "Robinhood",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
    "location": "Menlo Park, CA",
-   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n The Special Projects team sits at the intersection of strategy and execution. We work across some of Robinhood's most consequential initiatives — from new product development to supporting the growth of emerging businesses. Our work spans the full breadth of the company, partnering closely with Product, Engineering, Research, Finance, and senior leadership to move high-priority projects forward. This is a team that gets things done and isn't afraid to tackle problems that don't come with a playbook!\n\n As a Special Projects Intern, you'll be embedded in a fast-paced, high-visibility environment where no two days look the same. You'll contribute directly to strategic initiatives across the company, working alongside PM leaders, researchers, engineers, and finance partners. You'll be expected to bring your full skill set to every project — whether that means synthesizing data, coordinating across stakeholders, or building something from scratch. This role rewards people who are adaptable, curious, and ready to make a real contribution from day one.\n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Contribute to high-priority special projects spanning new product development, business strategy, and emerging business support across the organization\n\n• Partner with PM leaders, researchers, engineers, and finance teams to move initiatives forward and deliver against project goals\n\n• Synthesize information, build frameworks, and present findings to stakeholders in a clear and structured way\n\n• Navigate ambiguity with confidence — managing shifting priorities and adapting your approach as project needs evolve\n\n• Use AI tools and relevant financial software to accelerate your work and improve the quality of your outputs\n\n What you bring \n\n• Currently pursuing a Bachelor's degree in Economics, Business Administration, Finance, Strategy, Operations, or a related field with an expected graduation date of Winter 2027/Summer 2028; strong candidates from other majors with relevant skills are encouraged to apply\n\n• Familiarity with financial tools and software such as Bloomberg or FactSet, and comfort leveraging AI tools in day-to-day work\n\n• Clear, confident communicator — written and verbal — with the ability to engage credibly with senior stakeholders\n\n• A track record of getting things done: someone who takes ownership, figures out the path forward, and delivers without needing hand-holding\n\n• Comfortable operating in a fast-moving environment where priorities can shift and structure isn't always given\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $37 — $37 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
+   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n The Special Projects team sits at the intersection of strategy and execution. We work across some of Robinhood's most consequential initiatives — from new product development to supporting the growth of emerging businesses. Our work spans the full breadth of the company, partnering closely with Product, Engineering, Research, Finance, and senior leadership to move high-priority projects forward. This is a team that gets things done and isn't afraid to tackle problems that don't come with a playbook!\n\n As a Special Projects Intern, you'll be embedded in a fast-paced, high-visibility environment where no two days look the same. You'll contribute directly to strategic initiatives across the company, working alongside PM leaders, researchers, engineers, and finance partners. You'll be expected to bring your full skill set to every project — whether that means synthesizing data, coordinating across stakeholders, or building something from scratch. This role rewards people who are adaptable, curious, and ready to make a real contribution from day one.\n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Contribute to high-priority special projects spanning new product development, business strategy, and emerging business support across the organization\n\n• Partner with PM leaders, researchers, engineers, and finance teams to move initiatives forward and deliver against project goals\n\n• Synthesize information, build frameworks, and present findings to stakeholders in a clear and structured way\n\n• Navigate ambiguity with confidence — managing shifting priorities and adapting your approach as project needs evolve\n\n• Use AI tools and relevant financial software to accelerate your work and improve the quality of your outputs\n\n What you bring \n\n• Currently pursuing a Bachelor's degree in Economics, Business Administration, Finance, Strategy, Operations, or a related field with an expected graduation date of Winter 2027/Summer 2028; strong candidates from other majors with relevant skills are encouraged to apply\n\n• Familiarity with financial tools and software such as Bloomberg or FactSet, and comfort leveraging AI tools in day-to-day work\n\n• Clear, confident communicator — written and verbal — with the ability to engage credibly with senior stakeholders\n\n• A track record of getting things done: someone who takes ownership, figures out the path forward, and delivers without needing hand-holding\n\n• Comfortable operating in a fast-moving environment where priorities can shift and structure isn't always given\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $33 — $33 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
    "source": "greenhouse",
    "company_tags": [
     "startup"
@@ -82,7 +122,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T12:22:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -102,7 +142,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -122,7 +162,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -142,7 +182,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -162,7 +202,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -182,7 +222,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -202,7 +242,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -222,7 +262,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -242,7 +282,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -262,7 +302,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -282,7 +322,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -302,7 +342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T21:24:43Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -322,7 +362,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -342,7 +382,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -362,7 +402,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -382,7 +422,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -402,7 +442,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -422,7 +462,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -442,7 +482,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -462,7 +502,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -482,7 +522,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -502,7 +542,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -522,7 +562,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -542,7 +582,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -582,7 +622,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -602,7 +642,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -622,7 +662,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -642,7 +682,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -682,7 +722,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -702,7 +742,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -722,7 +762,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -742,7 +782,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -762,7 +802,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -782,7 +822,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -802,7 +842,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -822,7 +862,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -842,7 +882,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -862,7 +902,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -882,7 +922,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -902,7 +942,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -922,7 +962,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -942,7 +982,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -962,7 +1002,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -982,7 +1022,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1002,7 +1042,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1022,7 +1062,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1062,7 +1102,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1082,7 +1122,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1102,7 +1142,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1122,7 +1162,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1142,7 +1182,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1162,7 +1202,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1182,7 +1222,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1202,7 +1242,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1222,7 +1262,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1242,7 +1282,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1282,7 +1322,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1362,7 +1402,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1382,7 +1422,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1402,7 +1442,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1422,7 +1462,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1442,7 +1482,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1462,7 +1502,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1482,7 +1522,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1502,7 +1542,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -1942,7 +1982,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -3122,7 +3162,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -3142,7 +3182,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -3162,7 +3202,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -3182,7 +3222,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -4385,7 +4425,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -4406,7 +4446,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -4586,7 +4626,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
@@ -4646,7 +4686,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T21:44:50Z",
    "active": true
   },
   {
