@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-09-14T04:19:00Z",
+ "generated_at": "2026-09-14T12:22:24Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7903,
+   "raw": 7923,
    "error": "",
    "detail": "49/49 boards live"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3629,
+   "raw": 3626,
    "error": "",
    "detail": "37/37 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1182,
+   "raw": 1181,
    "error": "",
    "detail": "7/7 boards live"
   },
@@ -32,7 +32,7 @@
   {
    "source": "vc_careers",
    "ok": true,
-   "raw": 590,
+   "raw": 589,
    "error": "",
    "detail": "30 page(s)"
   },
@@ -45,6 +45,46 @@
   }
  ],
  "jobs": [
+  {
+   "title": "Investment Analyst Intern (Summer 2027)",
+   "company": "Robinhood",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
+   "location": "Menlo Park, CA",
+   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n Robinhood Ventures’ mission is to build one of the best venture capital platforms in the world and make it accessible to investors everywhere. Through our publicly-traded funds in Robinhood Ventures Fund I and Robinhood Ventures Fund II  we’ve already invested in some of the best private companies in the world like OpenAI, Databricks, Ramp, and more - and we’re just getting started. \n\n As an Investment Intern in Robinhood Ventures you will be a core part of our lean team. You will research, evaluate, and support investments across the Robinhood Ventures platform, with a focus on late-stage investments.  \n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Research and sourcing - You’ll research markets and sectors that you believe we should be paying attention to, and then identify the key companies in them that Robinhood Ventures needs to meet.   \n\n• Investment evaluation - You’ll be a key part of the deal team for investments we evaluate. You’ll own core diligence workstreams like the financial model, competitive analysis, and help shape investment theses. \n\n• Platform building - You’ll work with teams across Product, Operations, Marketing, Legal, and more to help build experiences in the Robinhood app to further differentiate Robinhood Ventures for both retail investors and portfolio companies. \n\n What you bring \n\n• Currently enrolled in a full-time MBA program \n\n• Prior experience in investment banking, private equity, or finance at a high-growth company, with fluency in financial modeling, valuation analysis, and market research; late-stage investing or venture capital experience is a plus\n\n• Intellectual curiosity and a demonstrated interest in emerging technologies and the private companies driving them — you proactively form opinions on key trends and companies\n\n• An existing network in the startup ecosystem, or the drive to build one, that can help Robinhood Ventures identify and connect with promising companies\n\n• Proven ability to work independently in lean, high-output environments, with experience collaborating across cross-functional teams\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $43 — $43 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
+   "source": "greenhouse",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-09-14",
+   "remote": false,
+   "id": "7a18797fd6a90012",
+   "category": "vc",
+   "level": "intern",
+   "region": "sf_bay",
+   "first_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T12:22:24Z",
+   "active": true
+  },
+  {
+   "title": "Special Projects Intern (Summer 2027)",
+   "company": "Robinhood",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
+   "location": "Menlo Park, CA",
+   "description": "Join us in building the future of finance.\n\n Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n About the team + role \n\n We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. \n\n The Special Projects team sits at the intersection of strategy and execution. We work across some of Robinhood's most consequential initiatives — from new product development to supporting the growth of emerging businesses. Our work spans the full breadth of the company, partnering closely with Product, Engineering, Research, Finance, and senior leadership to move high-priority projects forward. This is a team that gets things done and isn't afraid to tackle problems that don't come with a playbook!\n\n As a Special Projects Intern, you'll be embedded in a fast-paced, high-visibility environment where no two days look the same. You'll contribute directly to strategic initiatives across the company, working alongside PM leaders, researchers, engineers, and finance partners. You'll be expected to bring your full skill set to every project — whether that means synthesizing data, coordinating across stakeholders, or building something from scratch. This role rewards people who are adaptable, curious, and ready to make a real contribution from day one.\n\n This role is based in our Menlo Park, CA office with in-person attendance expected at least 3 days per week.  \n\n At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. \n\n What you’ll do \n\n• Contribute to high-priority special projects spanning new product development, business strategy, and emerging business support across the organization\n\n• Partner with PM leaders, researchers, engineers, and finance teams to move initiatives forward and deliver against project goals\n\n• Synthesize information, build frameworks, and present findings to stakeholders in a clear and structured way\n\n• Navigate ambiguity with confidence — managing shifting priorities and adapting your approach as project needs evolve\n\n• Use AI tools and relevant financial software to accelerate your work and improve the quality of your outputs\n\n What you bring \n\n• Currently pursuing a Bachelor's degree in Economics, Business Administration, Finance, Strategy, Operations, or a related field with an expected graduation date of Winter 2027/Summer 2028; strong candidates from other majors with relevant skills are encouraged to apply\n\n• Familiarity with financial tools and software such as Bloomberg or FactSet, and comfort leveraging AI tools in day-to-day work\n\n• Clear, confident communicator — written and verbal — with the ability to engage credibly with senior stakeholders\n\n• A track record of getting things done: someone who takes ownership, figures out the path forward, and delivers without needing hand-holding\n\n• Comfortable operating in a fast-moving environment where priorities can shift and structure isn't always given\n\n What we offer\n\n• Market competitive compensation structure\n\n• Quarterly lifestyle wallet for personal wellness, learning and development, and more\n\n• Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not\n\n• Time away including company holidays, paid time off, and sick time\n\n• Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits\n\n Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. \n\n Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n $37 — $37 USD \n\n Click here to learn more about our Total Rewards, which vary by region and entity.\n\n If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\n Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the  Privacy Policy for your country of application.",
+   "source": "greenhouse",
+   "company_tags": [
+    "startup"
+   ],
+   "posted_at": "2026-09-14",
+   "remote": false,
+   "id": "d7e16446917e7af1",
+   "category": "generalist",
+   "level": "intern",
+   "region": "sf_bay",
+   "first_seen": "2026-09-14T12:22:24Z",
+   "last_seen": "2026-09-14T12:22:24Z",
+   "active": true
+  },
   {
    "title": "Venture Capital Fellow (AI) — Boston",
    "company": "1752Vc",
@@ -62,7 +102,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -82,7 +122,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -102,7 +142,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -122,7 +162,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -142,7 +182,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -162,7 +202,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -182,7 +222,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -202,7 +242,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -222,7 +262,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -242,7 +282,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -262,7 +302,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T21:24:43Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -282,7 +322,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -302,7 +342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -322,7 +362,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -342,7 +382,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -362,7 +402,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -382,7 +422,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -402,7 +442,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -422,7 +462,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -442,7 +482,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -462,7 +502,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -482,7 +522,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -502,7 +542,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -542,7 +582,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -562,7 +602,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -582,7 +622,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -602,7 +642,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -642,7 +682,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -662,7 +702,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -682,7 +722,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -702,7 +742,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -722,7 +762,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -742,7 +782,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -762,7 +802,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -782,7 +822,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -802,7 +842,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -822,7 +862,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -842,7 +882,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -862,7 +902,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -882,7 +922,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -902,7 +942,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -922,7 +962,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -942,7 +982,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -962,7 +1002,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -982,7 +1022,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1003,7 +1043,7 @@
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
    "last_seen": "2026-09-14T04:19:00Z",
-   "active": true
+   "active": false
   },
   {
    "title": "Visiting Analyst / Internship",
@@ -1022,7 +1062,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1042,7 +1082,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1062,7 +1102,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1082,7 +1122,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1102,7 +1142,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1122,7 +1162,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1142,7 +1182,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1162,7 +1202,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1182,7 +1222,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1202,7 +1242,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1242,7 +1282,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1322,7 +1362,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1342,7 +1382,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1362,7 +1402,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1382,7 +1422,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1402,7 +1442,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1422,7 +1462,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1442,7 +1482,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1462,7 +1502,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -1902,7 +1942,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -3082,7 +3122,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -3102,7 +3142,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -3122,7 +3162,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -3142,7 +3182,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -4345,7 +4385,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -4366,7 +4406,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -4546,7 +4586,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
@@ -4606,7 +4646,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-14T04:19:00Z",
+   "last_seen": "2026-09-14T12:22:24Z",
    "active": true
   },
   {
