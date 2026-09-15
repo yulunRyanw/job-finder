@@ -1,5 +1,6 @@
-2 new early-career posting(s).
+3 new early-career posting(s).
 
-### Product Design
-- [Brand Design Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004) · **Figma** — San Francisco, CA · _intern_
-- [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) · **Figma** — San Francisco, CA • New York, NY · _intern_
+### Venture Capital
+- [Investment Intern](https://venturecapitalcareers.com/companies/falak-startups/jobs/investment-intern-6) · **Falak Startups** · _intern_
+- [Venture Analyst Intern](https://venturecapitalcareers.com/companies/forty-5-ventures/jobs/venture-analyst-intern) · **Forty 5 Ventures** · _intern_
+- [Lynx Venture Fellowship](https://venturecapitalcareers.com/companies/lynx-collective/jobs/lynx-venture-fellowship) · **Lynx Collective** · _fellowship_
