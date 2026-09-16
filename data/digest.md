@@ -1,4 +1,5 @@
-1 new early-career posting(s).
+2 new early-career posting(s).
 
-### Product Management
-- [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) · **Duolingo** — Pittsburgh, PA · _intern_
+### Venture Capital
+- [Digital Marketing Fellow](https://venturecapitalcareers.com/companies/renew-capital/jobs/digital-marketing-fellow-2) · **Renew Capital** · _fellowship_
+- [Investment Intern](https://venturecapitalcareers.com/companies/supercell/jobs/investment-intern-7) · **Supercell** · _intern_

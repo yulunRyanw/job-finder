@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-09-15T21:07:44Z",
+ "generated_at": "2026-09-16T04:14:45Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7947,
+   "raw": 7946,
    "error": "",
    "detail": "49/49 boards live"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3594,
+   "raw": 3597,
    "error": "",
    "detail": "37/37 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1185,
+   "raw": 1187,
    "error": "",
    "detail": "7/7 boards live"
   },
@@ -46,6 +46,46 @@
  ],
  "jobs": [
   {
+   "title": "Investment Intern",
+   "company": "Supercell",
+   "url": "https://venturecapitalcareers.com/companies/supercell/jobs/investment-intern-7",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": false,
+   "id": "8f384362a6f095d2",
+   "category": "vc",
+   "level": "intern",
+   "region": "unknown",
+   "first_seen": "2026-09-16T04:14:45Z",
+   "last_seen": "2026-09-16T04:14:45Z",
+   "active": true
+  },
+  {
+   "title": "Digital Marketing Fellow",
+   "company": "Renew Capital",
+   "url": "https://venturecapitalcareers.com/companies/renew-capital/jobs/digital-marketing-fellow-2",
+   "location": "",
+   "description": "",
+   "source": "vc_careers",
+   "company_tags": [
+    "vc"
+   ],
+   "posted_at": "",
+   "remote": true,
+   "id": "c0fb53ddd0f0c133",
+   "category": "vc",
+   "level": "fellowship",
+   "region": "remote",
+   "first_seen": "2026-09-16T04:14:45Z",
+   "last_seen": "2026-09-16T04:14:45Z",
+   "active": true
+  },
+  {
    "title": "Associate Product Manager, Intern",
    "company": "Duolingo",
    "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
@@ -62,7 +102,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-15T21:07:44Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -82,7 +122,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -102,7 +142,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -122,7 +162,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -142,7 +182,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T21:44:50Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -162,7 +202,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T21:44:50Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -182,7 +222,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T12:22:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -202,7 +242,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T12:22:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -222,7 +262,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -242,7 +282,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -262,7 +302,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -282,7 +322,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-11T20:48:44Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -302,7 +342,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -322,7 +362,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -342,7 +382,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -362,7 +402,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -382,7 +422,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -402,7 +442,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -422,7 +462,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T21:24:43Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -442,7 +482,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -462,7 +502,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -482,7 +522,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -502,7 +542,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -522,7 +562,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -542,7 +582,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -562,7 +602,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -582,7 +622,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -602,7 +642,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -622,7 +662,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -642,7 +682,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -662,7 +702,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -702,7 +742,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -762,7 +802,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -802,7 +842,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -822,7 +862,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -842,7 +882,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -882,7 +922,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -902,7 +942,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -922,7 +962,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -942,7 +982,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -962,7 +1002,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -982,7 +1022,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1002,7 +1042,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1022,7 +1062,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1042,7 +1082,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1062,7 +1102,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1082,7 +1122,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1102,7 +1142,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1122,7 +1162,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1142,7 +1182,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1182,7 +1222,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1202,7 +1242,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1222,7 +1262,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1242,7 +1282,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1262,7 +1302,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1282,7 +1322,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1302,7 +1342,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1322,7 +1362,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1342,7 +1382,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1362,7 +1402,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1402,7 +1442,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1482,7 +1522,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1502,7 +1542,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1522,7 +1562,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1542,7 +1582,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1562,7 +1602,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1582,7 +1622,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1602,7 +1642,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -1622,7 +1662,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -2062,7 +2102,7 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -3242,7 +3282,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -3262,7 +3302,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -3282,7 +3322,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -3302,7 +3342,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -4505,7 +4545,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -4526,7 +4566,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -4706,7 +4746,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
@@ -4766,7 +4806,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-15T21:07:44Z",
+   "last_seen": "2026-09-16T04:14:45Z",
    "active": true
   },
   {
