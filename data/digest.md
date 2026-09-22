@@ -1,5 +1,5 @@
 2 new early-career posting(s).
 
 ### Venture Capital
-- [Investment Summer Associate](https://venturecapitalcareers.com/companies/in-q-tel/jobs/investment-summer-associate) · **In Q Tel** · _intern_
-- [International Summer Associate](https://venturecapitalcareers.com/companies/in-q-tel/jobs/international-summer-associate) · **In Q Tel** · _intern_
+- [Leaps Health Summer Associate/Intern](https://venturecapitalcareers.com/companies/bayer/jobs/leaps-health-summer-associateintern) · **Bayer** · _intern_
+- [Investment Analyst Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) · **Robinhood** — Menlo Park, CA · _intern_
