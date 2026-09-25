@@ -1,4 +1,4 @@
 1 new early-career posting(s).
 
 ### Venture Capital
-- [Venture Capital - Graduate Internship Summer 2027](https://venturecapitalcareers.com/companies/aramco-americas-company/jobs/venture-capital---graduate-internship-summer-2027) · **Aramco Americas Company** · _intern_
+- [Investor Relations Intern (f/m/d)](https://venturecapitalcareers.com/companies/earlybird/jobs/investor-relations-intern-fmd) · **Earlybird** · _intern_
