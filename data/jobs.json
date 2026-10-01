@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-10-01T12:52:32Z",
+ "generated_at": "2026-10-01T22:34:45Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 7964,
+   "raw": 7989,
    "error": "",
    "detail": "47/49 boards live, 2 dead slug(s): amplitude, linkedin"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3488,
+   "raw": 3482,
    "error": "",
    "detail": "37/37 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1199,
+   "raw": 1202,
    "error": "",
    "detail": "6/7 boards live, 1 dead slug(s): menlovc"
   },
   {
    "source": "hn_hiring",
    "ok": true,
-   "raw": 33,
+   "raw": 12,
    "error": "",
-   "detail": "Ask HN: Who is hiring? (September 2026): 254 comments -> 33 role rows"
+   "detail": "Ask HN: Who is hiring? (October 2026): 98 comments -> 12 role rows"
   },
   {
    "source": "vc_careers",
    "ok": true,
-   "raw": 596,
+   "raw": 600,
    "error": "",
    "detail": "30 page(s)"
   },
@@ -62,7 +62,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-10-01T05:11:13Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -82,7 +82,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-30T04:58:00Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -102,7 +102,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-25T16:59:23Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -122,7 +122,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-25T11:35:33Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -142,7 +142,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-24T04:07:22Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -162,7 +162,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-23T04:12:12Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -182,7 +182,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-23T04:12:12Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -202,7 +202,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-22T16:42:45Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -222,7 +222,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T16:42:45Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -242,7 +242,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T11:20:11Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -262,7 +262,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T11:20:11Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -282,7 +282,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -302,7 +302,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -322,7 +322,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -342,7 +342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-19T10:40:59Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -362,7 +362,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-18T04:05:26Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -382,7 +382,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-18T04:05:26Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -402,7 +402,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-17T04:21:43Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -422,7 +422,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-16T16:35:38Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -462,7 +462,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-16T04:14:45Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -482,7 +482,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-15T21:07:44Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -502,7 +502,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -522,7 +522,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -542,7 +542,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-15T04:18:13Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -562,7 +562,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T21:44:50Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -582,7 +582,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T21:44:50Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -622,7 +622,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T12:22:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -642,7 +642,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -662,7 +662,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-12T04:01:48Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -722,7 +722,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -762,7 +762,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -782,7 +782,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -802,7 +802,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -822,7 +822,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -842,7 +842,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T21:24:43Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -882,7 +882,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -922,7 +922,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -942,7 +942,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1022,7 +1022,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1042,7 +1042,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1062,7 +1062,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1142,7 +1142,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1162,7 +1162,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1182,7 +1182,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1222,7 +1222,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1262,7 +1262,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1302,7 +1302,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1322,7 +1322,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1342,7 +1342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1362,7 +1362,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1422,7 +1422,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1442,7 +1442,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1462,7 +1462,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1482,7 +1482,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1522,7 +1522,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1542,7 +1542,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1562,7 +1562,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1622,7 +1622,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1662,7 +1662,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1782,7 +1782,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1822,7 +1822,7 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1902,7 +1902,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1922,7 +1922,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1942,7 +1942,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1962,7 +1962,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -1982,7 +1982,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -2002,7 +2002,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -2022,7 +2022,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -2042,7 +2042,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -2470,19 +2470,19 @@
    "company": "Trustworthy Technology",
    "url": "https://trustworthy.technology/",
    "location": "Remote",
-   "description": "Trustworthy Technology | Earth | Part Time | REMOTE | Vision, Marketing, and/or Design Hi, we are a small group trying to bring the \"trustworthy\" feature back to tech. Curating and building a FOSS+ toolset, storefront, and eventually online service—all to support freedom, privacy, and informed consent—on device and on the net. We've written our thoughts and research down at: \n https://trustworthy.technology/ \nand we have a few geeks starting projects at:\n https://codeberg.org/aol First off, you'll notice that you've not heard about this project before. Next, the message is a bit scattered, and the \"programmer art,\" while arguably not horrible isn't winning any awards either, haha. That's where you come in. You are one of the few folks who really cares about this stuff, and also a graphic/product designer, or perhaps a digital marketer, communicator or \"people whisperer.\" (Being in the EU would be helpful as well, to work from the digital sovereignty angle, though not required.) Some of us are unemployed and currently donating our time. Maybe you are too, or retired/cashed-out and bored. Consider this another FOSS-like project. We hope the store/service will make money, but we're not there yet. Interested?\nLet's chat at: \n https://trustytech.zulipchat.com/join/h5usqnt2bet7exz747cbf3... BTW, if/when you join please say hi let us know what kind of projects you're interested in.",
+   "description": "Trustworthy Technology | Earth | Part Time | REMOTE | Anything Hi, we are a small group trying to bring the \"trustworthy\" feature back to tech. Curating and building a FOSS+ toolset, storefront, and eventually online service—all to support freedom, privacy, and informed consent—on device and on the net. We've written our thoughts and research down at: https://trustworthy.technology/ and we have a few geeks starting projects at: https://codeberg.org/aol First off, you'll notice that you've probably not heard about this project before. Next, the message is a bit scattered, and the \"programmer art,\" while arguably not horrible isn't winning any awards either, haha. That's where you come in. You are one of the few folks who really cares about this stuff, and also a graphic/product designer, or perhaps a digital marketer, communicator or \"people whisperer.\" (Being in the EU would be helpful as well, to work from the digital sovereignty angle, though not required.) Geeks are welcome too. Some of us are unemployed and currently donating our time. Maybe you are too, or retired/cashed-out and bored. Consider this another FOSS-like project. We hope the store/service will make money, but we're not there yet. Interested? Let's chat at: https://trustytech.zulipchat.com/join/ivui3uglp2at3tyltau7jj... BTW, if/when you join please say hi and let us know what kind of projects you're interested in.",
    "source": "hn_hiring",
    "company_tags": [
     "startup"
    ],
-   "posted_at": "2026-09-01",
+   "posted_at": "2026-10-01",
    "remote": true,
    "id": "4bf93d402a49d1b2",
    "category": "design",
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -3662,7 +3662,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -3682,7 +3682,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -3702,7 +3702,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -3722,7 +3722,7 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -4925,7 +4925,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -4946,7 +4946,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -5126,7 +5126,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {
@@ -5186,7 +5186,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-01T12:52:32Z",
+   "last_seen": "2026-10-01T22:34:45Z",
    "active": true
   },
   {

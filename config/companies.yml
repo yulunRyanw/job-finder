@@ -96,3 +96,5 @@ companies:
   - {name: "Checkly", ats: ashby, slug: "checkly", tags: [startup]}  # auto-discovered
   - {name: "Rai", ats: lever, slug: "rai", tags: [startup]}  # auto-discovered
   - {name: "Langfuse", ats: ashby, slug: "langfuse", tags: [startup]}  # auto-discovered
+  - {name: "Baton", ats: greenhouse, slug: "baton", tags: [startup]}  # auto-discovered
+  - {name: "Thundercompute", ats: ashby, slug: "thundercompute", tags: [startup]}  # auto-discovered
