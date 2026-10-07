@@ -100,3 +100,4 @@ companies:
   - {name: "Thundercompute", ats: ashby, slug: "thundercompute", tags: [startup]}  # auto-discovered
   - {name: "Prior Labs", ats: ashby, slug: "prior-labs", tags: [startup]}  # auto-discovered
   - {name: "Oscilar", ats: ashby, slug: "oscilar", tags: [startup]}  # auto-discovered
+  - {name: "Coast", ats: greenhouse, slug: "coast", tags: [startup]}  # auto-discovered
