@@ -1,4 +1,4 @@
 1 new early-career posting(s).
 
-### Venture Capital
-- [Research & Investment Intern](https://venturecapitalcareers.com/companies/cedar-group/jobs/research-investment-intern) · **Cedar Group** · _intern_
+### Product Management
+- [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) · **Duolingo** — Pittsburgh, PA · _intern_
