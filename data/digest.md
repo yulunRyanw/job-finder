@@ -1,4 +1,7 @@
-1 new early-career posting(s).
+2 new early-career posting(s).
 
-### Product Management
-- [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) · **Duolingo** — Pittsburgh, PA · _intern_
+### Venture Capital
+- [Venture Capital Intern - Investment Operations & Strategic Partnerships](https://venturecapitalcareers.com/companies/lvlup-ventures/jobs/venture-capital-intern---investment-operations-strategic-partnerships) · **Lvlup Ventures** · _intern_
+
+### Startup Generalist
+- [Venture Operations Intern](https://venturecapitalcareers.com/companies/lvlup-ventures/jobs/venture-operations-intern) · **Lvlup Ventures** · _intern_
