@@ -1,4 +1,4 @@
 1 new early-career posting(s).
 
 ### Venture Capital
-- [Leaps Crop Science Summer Associate/Intern](https://venturecapitalcareers.com/companies/bayer/jobs/leaps-crop-science-summer-associateintern) · **Bayer** · _intern_
+- [Marketing & Investor Relations Intern, AI Venture Fund](https://venturecapitalcareers.com/companies/1mx-ai/jobs/marketing-investor-relations-intern-ai-venture-fund) · **1Mx Ai** · _intern_
