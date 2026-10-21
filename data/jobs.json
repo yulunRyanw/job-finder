@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-10-21T16:59:35Z",
+ "generated_at": "2026-10-21T21:31:06Z",
  "health": [
   {
    "source": "greenhouse",
    "ok": true,
-   "raw": 8074,
+   "raw": 8083,
    "error": "",
    "detail": "49/51 boards live, 2 dead slug(s): amplitude, linkedin"
   },
   {
    "source": "ashby",
    "ok": true,
-   "raw": 3563,
+   "raw": 3562,
    "error": "",
    "detail": "40/40 boards live"
   },
   {
    "source": "lever",
    "ok": true,
-   "raw": 1190,
+   "raw": 1189,
    "error": "",
    "detail": "6/7 boards live, 1 dead slug(s): menlovc"
   },
@@ -62,7 +62,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-21T04:06:49Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -82,7 +82,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-20T21:29:33Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -102,7 +102,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-10-20T04:18:43Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -122,7 +122,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-20T04:18:43Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -142,7 +142,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-19T04:05:45Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -162,7 +162,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-19T04:05:45Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -182,7 +182,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-10-18T15:42:33Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -222,7 +222,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-10-16T04:00:04Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -242,7 +242,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-10-16T04:00:04Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -250,19 +250,19 @@
    "company": "Duolingo",
    "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
    "location": "Pittsburgh, PA",
-   "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!\n\n At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.\n\n Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world. \n\n Read our blog to learn more.\n\n 🧠  You will... \n\n• Lead a specific feature of the app, seeing it through the entire product development cycle: ideation, specification, development, release, analysis, and iteration\n\n• Conduct research, analyze market trends and data and develop a product roadmap for a key component of Duolingo’s business (past projects include: teaching Asian languages better, exploring strategy for emerging markets, and product improvements to attract more offline learners) \n\n• Work closely with UI/UX designers to ensure an excellent user experience\n\n• Work with engineers to help guide feature development\n\n• Perform quantitative analysis on features’ performance and find opportunities for optimization\n\n ✅  You have... \n\n• Currently pursuing an MBA or related Master’s degree graduating December 2027 or Spring 2028\n\n• Bachelor’s degree in Engineering, Business, Psychology, Design, Computer Science, or related field\n\n• 3+ years of professional experience as a PM or in highly related areas, such as software engineering, design, data analysis, language learning, or brand management. \n\n• Ability to utilize knowledge of user insights, data, and statistical analyses to inform decisions\n\n• An instinct for creating simple and intuitive user experiences\n\n• Proven ability to learn fast\n\n• Demonstrated ability to be resourceful and innovative\n\n• Experience leading projects and teams\n\n• A desire to make the world a better place through technology and education\n\n• 12 weeks of consecutive availability\n\n 👀 What you can expect… \n\n• Dedicated mentorship and coaching from experienced PMs.\nA chance to own a real project that impacts millions of learners worldwide.\n\n• Intern-specific events, programming, and opportunities to connect with senior leaders.\n\n• Exposure to the full product development lifecycle from idea to launch.\n\n• A fun, mission-driven environment, where you’ll have lots of opportunities to grow as a product manager and make meaningful connections with your colleagues\n\n ❤️ Why you’ll love working here… \n\n• Relocation assistance\n\n• Language learning opportunities\n\n• Daily catered in-house lunches and breakfast\n\n• Company-wide Hackathon\n\n• PTO and company holidays\n\n• Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!\n\n Connect with your recruiter on the benefits for interns at Duolingo! \n\n Hourly Range for this internship is:\n $63 — $65 USD \n\n Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here .\n\n Job Alerts: Sign up for job alerts here .\n\n Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com .\n\n Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.\n\n Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information.\n\nBy applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice .",
+   "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!\n\n At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.\n\n Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world. \n\n Read our blog to learn more.\n\n 🧠  You will... \n\n• Lead a specific feature of the app, seeing it through the entire product development cycle: ideation, specification, development, release, analysis, and iteration\n\n• Conduct research, analyze market trends and data and develop a product roadmap for a key component of Duolingo’s business (past projects include: teaching Asian languages better, exploring strategy for emerging markets, and product improvements to attract more offline learners) \n\n• Work closely with UI/UX designers to ensure an excellent user experience\n\n• Work with engineers to help guide feature development\n\n• Perform quantitative analysis on features’ performance and find opportunities for optimization\n\n ✅  You have... \n\n• Currently pursuing an MBA graduating December 2027 or Spring 2028\n\n• Bachelor’s degree in Engineering, Business, Psychology, Design, Computer Science, or related field\n\n• 3+ years of professional experience as a PM or in highly related areas, such as software engineering, design, data analysis, language learning, or brand management. \n\n• Ability to utilize knowledge of user insights, data, and statistical analyses to inform decisions\n\n• An instinct for creating simple and intuitive user experiences\n\n• Proven ability to learn fast\n\n• Demonstrated ability to be resourceful and innovative\n\n• Experience leading projects and teams\n\n• A desire to make the world a better place through technology and education\n\n• 12 weeks of consecutive availability\n\n 👀 What you can expect… \n\n• Dedicated mentorship and coaching from experienced PMs.\nA chance to own a real project that impacts millions of learners worldwide.\n\n• Intern-specific events, programming, and opportunities to connect with senior leaders.\n\n• Exposure to the full product development lifecycle from idea to launch.\n\n• A fun, mission-driven environment, where you’ll have lots of opportunities to grow as a product manager and make meaningful connections with your colleagues\n\n ❤️ Why you’ll love working here… \n\n• Relocation assistance\n\n• Language learning opportunities\n\n• Daily catered in-house lunches and breakfast\n\n• Company-wide Hackathon\n\n• PTO and company holidays\n\n• Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!\n\n Connect with your recruiter on the benefits for interns at Duolingo! \n\n Hourly Range for this internship is:\n $63 — $65 USD \n\n Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here .\n\n Job Alerts: Sign up for job alerts here .\n\n Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com .\n\n Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.\n\n Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information.\n\nBy applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice .",
    "source": "greenhouse",
    "company_tags": [
     "startup"
    ],
-   "posted_at": "2026-10-15",
+   "posted_at": "2026-10-21",
    "remote": false,
    "id": "23667ee8ab7ad95d",
    "category": "pm",
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-10-15T21:12:17Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -282,7 +282,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-15T16:43:10Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -302,7 +302,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-10-13T00:27:57Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -322,7 +322,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-10-10T05:15:47Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -342,7 +342,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-10-09T22:31:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -362,7 +362,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-09T22:31:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -382,7 +382,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-07T22:59:40Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -402,7 +402,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-07T22:59:40Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -422,7 +422,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-07T22:59:40Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -442,7 +442,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-07T22:59:40Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -462,7 +462,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-10-07T13:03:12Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -482,7 +482,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-10-06T05:46:53Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -502,7 +502,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-05T14:10:51Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -522,7 +522,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-10-05T14:10:51Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -562,7 +562,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-10-02T05:00:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -582,7 +582,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-10-01T05:11:13Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -602,7 +602,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-30T04:58:00Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -622,7 +622,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-25T16:59:23Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -642,7 +642,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-25T11:35:33Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -662,7 +662,7 @@
    "level": "part_time",
    "region": "unknown",
    "first_seen": "2026-09-24T04:07:22Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -682,7 +682,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-23T04:12:12Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -702,7 +702,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-23T04:12:12Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -742,7 +742,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T16:42:45Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -762,7 +762,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T11:20:11Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -782,7 +782,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T11:20:11Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -802,7 +802,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -822,7 +822,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -842,7 +842,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-22T04:14:30Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -882,7 +882,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-18T04:05:26Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -902,7 +902,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-18T04:05:26Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -942,7 +942,7 @@
    "level": "fellowship",
    "region": "unknown",
    "first_seen": "2026-09-16T16:35:38Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -982,7 +982,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-16T04:14:45Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1102,7 +1102,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-14T21:44:50Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1282,7 +1282,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1302,7 +1302,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-09T04:03:07Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1342,7 +1342,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-08T03:58:02Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1362,7 +1362,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T21:24:43Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1442,7 +1442,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1542,7 +1542,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1562,7 +1562,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1582,7 +1582,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1662,7 +1662,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1682,7 +1682,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1742,7 +1742,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1822,7 +1822,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1842,7 +1842,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1862,7 +1862,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1882,7 +1882,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1962,7 +1962,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -1982,7 +1982,7 @@
    "level": "intern",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2002,7 +2002,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2062,7 +2062,7 @@
    "level": "intern",
    "region": "unknown",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2182,7 +2182,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-07T03:57:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2302,7 +2302,7 @@
    "level": "fellowship",
    "region": "remote",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2322,68 +2322,8 @@
    "level": "fellowship",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
-  },
-  {
-   "title": "2026–2027 MBA Fellowship",
-   "company": "Halogen Ventures",
-   "url": "https://venturecapitalcareers.com/companies/halogen-ventures/jobs/20262027-mba-fellowship",
-   "location": "United States (Remote)",
-   "description": "2026–2027 Halogen MBA Fellowship Applications Now Open!\n Halogen Ventures\n 2 min read\n ·\n Aug 17, 2026\n • -\n • -\n Press enter or click to view image in full size\n Halogen Ventures is now accepting applications for its 2026–2027 In-Semester MBA Fellowship! This in-semester fellowship is for students currently enrolled in an MBA program interested in gaining hands-on experience in venture capital. This fellowship is virtual and will run from October 27, 2026 to April 30, 2027. Throughout this fellowship, MBA students will be an extension of the Halogen team and work on projects such as portfolio company support, prospective deal investment evaluation, industry analysis reports, Halogen Operators Program (HOP), and more. The goal of this fellowship is to provide an opportunity for MBAs interested in venture capital to gain real work experience for an extended period of time throughout the school year. Halogen is proud to share that to date the firm has helped over 100 students gain venture capital experience through its fellowship programs, and past Halogen fellows have gone on to work at firms such as Unshackled Ventures, General Atlantic, FJ Labs, CRV, and Qualcomm Ventures.\n If you are passionate about venture capital and the startup ecosystem, we encourage you to apply!\n >>APPLICATION LINK HERE Get Halogen Ventures’s stories in your inbox\n Join Medium for free to get updates from this writer.\n Subscribe\n Remember me for faster sign in\n **Please note: Candidates must currently be enrolled in an MBA program and must be based in the U.S. to be eligible for this fellowship.**\n **Applications close at 11:59pm PT on September 13, 2026.**\n To learn more about the program, please visit the Halogen Ventures Fellowship webpage here.\n ABOUT HALOGEN VENTURES\n Founded by GP Jesse Draper, Halogen Ventures is a Los Angeles based venture capital firm focused on investing in early stage consumer technology and strategic B2B software with a female in the founding team. Click here to learn more about Halogen Ventures.\n • -\n • -",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "8e1bc01a09db73c1",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "VC Fellow, Fall 2026",
-   "company": "2048 Ventures",
-   "url": "https://venturecapitalcareers.com/companies/2048-ventures/jobs/vc-fellow-fall-2026",
-   "location": "Boston, Massachusetts, United States (On-site)",
-   "description": "2048 Ventures is a thesis-driven, early-stage venture capital firm leading pre-seed and seed rounds in Vertical AI, Deep Tech, Health, and Bio. We are based in Boston and NYC, and partner with visionary founders at the earliest moments in their journeys.\n Introducing 2048 Ventures VC Fellows Fall '26\n Some of our best companies and partnerships first emerged on campus, inside labs, and within student founder communities. We're excited to launch the 2048 Ventures VC Fellowship Fall '26, a program for the next generation of investors and builders.\n We're all in on Boston. We believe exceptional companies are built by exceptional people. We're looking for Fellows who naturally gravitate toward ambitious builders.\n Who We’re Looking For\n We’re building a small, highly curated cohort of Fellows across Boston. You should consider this program if:\n • You are a full-time student at a university in Boston and expect to graduate in 2028 or later.\n• Undergraduate students in their sophomore or junior year\n• MBA and master's students in their first year\n• PhD students in their second or third years\n• You have a passion for startups and venture capital.\n• You're resourceful, love meeting ambitious people, and naturally build relationships across campus.\n• You have a strong network within your campus startup ecosystem.\n• You meet founders regularly, love learning about their businesses, and love helping them.\n• You’re naturally curious about emerging trends in AI, Deep Tech, Health, or Bio.\n What You’ll Do\n • Identify and source exceptional talent across your campus. You’ll act as our eyes and ears on campus.\n• Present and discuss startups you find with other Fellows and the 2048 Ventures team.\n• Embed yourself in the campus startup ecosystem. Meet founders early: in dorm rooms, labs, hackathons, accelerators, and coffee chats.\n• Build relationships and new networks.\n What You’ll Get\n • Real exposure to venture capital and a front-row seat to pre-seed investing.\n• Direct access to the 2048 Ventures investment team.\n• Learning sessions, workshops, and AMA sessions with our network.\n• Pathway into venture: references, introductions, and ongoing support.\n• Swag and access to community events in Boston.\n How to Apply\n To apply, visit 2048.vc/fellowship-apply. Applications close on September 18.\n • A startup you recently saw on campus and why you’re excited about them.\n• A glimpse into your network.\n• A short 2–5 minute video introducing yourself, why you're excited about the fellowship, and an example of how you hustled.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "3b4c25090962a878",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "VC Fellowship (AI)",
-   "company": "1752Vc",
-   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/vc-fellowship-ai",
-   "location": "Worldwide (Remote)",
-   "description": "About the Fellowship\n Join 1752vc's Venture Capital Fellowship and gain hands-on experience sourcing, evaluating, and supporting investments in early-stage startups across AI, Enterprise Software, Fintech, Frontier Technology, Healthcare, and PropTech.\n This fellowship provides direct exposure to how venture capital funds operate while contributing to live deal flow, investment diligence, and portfolio support. 1752vc invests up to $100,000 per company through a structured three-month program focused on identifying and supporting exceptional founders.\n What You'll Do\n As a Venture Capital Fellow, you will:\n • Source and evaluate venture-backed startup opportunities\n• Learn how to do market research and investment diligence\n• Develop founder outreach and relationship skills\n• Analyze companies, markets, and emerging technology trends\n• Contribute to investment discussions and deal evaluation\n• Learn venture capital frameworks used in real-world investing\n Who This Fellowship Is For \n This program is designed for:\n • Professionals seeking to build or advance a career in venture capital or private equity\n• Startup operators interested in transitioning into investing\n• Emerging fund managers establishing or scaling their first funds\n• Angels and family offices seeking to strengthen their investment processes\n• Individuals interested in joining or launching venture funds, accelerators, or startup studios\n• Founders who want to learn how to position themselves to investors\n What You'll Gain\n • Hands-on venture capital experience\n• Exposure to live investment opportunities and diligence processes\n• Direct interaction with investors\n• Practical training in sourcing, evaluation, and investment decision-making\n• Access to a growing network within the startup ecosystem\n Location\n The program operates remotely, with select optional in-person opportunities in Los Angeles and other ecosystem events when available.\n Compensation\n This is not a traditional salaried role. Compensation is performance-based and tied to contributions and outcomes, with opportunities for participants to share in the fund's upside.\n Equal Opportunity \n 1752vc is committed to fostering diversity, equity, and inclusion across all programs.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "8c4d76207719b5bf",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "remote",
-   "first_seen": "2026-09-05T08:15:24Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
   },
   {
    "title": "AI Product Manager Intern - 2027 Summer",
@@ -2402,7 +2342,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2422,7 +2362,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2442,7 +2382,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2462,7 +2402,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2482,7 +2422,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2502,7 +2442,7 @@
    "level": "fellowship",
    "region": "other_us",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2522,7 +2462,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2542,68 +2482,8 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T08:13:41Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
-  },
-  {
-   "title": "Portfolio Management Internship",
-   "company": "Wavemaker Partners 2",
-   "url": "https://venturecapitalcareers.com/companies/wavemaker-partners-2/jobs/portfolio-management-internship",
-   "location": "On-site",
-   "description": "Wavemaker is Southeast Asia's leading VC firm investing in Enterprise, Deep Tech, and\n\n Sustainability startups. Since 2012, we have backed over 200 companies across multiple funds, guided by our thesis:\n\n • ﻿We invest in trustworthy & curious founders who have built conviction through experience and industry insights, and identified large opportunities because they see the world diﬀerently.\n• We invest in scalable, capital-eﬃcient, defensible businesses that solve meaningful problems 10x better than existing options.\n \n With a large portfolio of early-stage companies, we are building our Portfolio Management team to put our founders at the center of our universe and ensure our startups are optimally supported in their early-stage journey as they build their business\n\n How you make an impact \n\n You play an important role in supporting the database management requirements and data needs of Wavemaker internal teams, while getting a front-row seat to how a VC firm operates – from portfolio tracking to how investment teams use data to make decisions.\n\n • You will diligently support the Portfolio Management Team in auditing our core relational databases across portfolio companies, entities, and ecosystem contacts – mapping where data points are sourced, surfacing redundancies, and coordinating with other teams to establish the process, platform, and timing behind their data.\n• You will help build end-to-end systems for internal teams and external partners, from populating and structuring Airtable bases to designing user interfaces, setting up automations, and preparing databases for AI-powered use.\n• You will also help clean, organize, and enrich existing CRM data so it can be used reliably downstream.\n• You are numerically strong and have a knack for numbers.\n• You're comfortable working with large data sets and drawing insights from analysis of data.\n• You are curious about new tools and pick them up quickly.\n• You consistently work in a meticulous manner and with a high degree of attention to detail.\n \n What we look for \n\n You put people first!\n\n Motivation \n\n You love early-stage tech startups, innovation and venture capital. You want to make a move to immerse yourself into this world.\n\n Background \n\n • You're currently studying towards a Bachelor's or Master's degree. We're open to diﬀerent fields of study!\n• You have had at least 1-2 other internships\n \n Skillset \n\n • ﻿﻿ You are highly process-oriented and methodical in your approach.\n• You can switch easily between working meticulously with a high degree of attention to detail, and looking at the big picture and thinking strategically while being laser-focused on your task at hand, you have no problems juggling multiple balls at the same time.\n• You are thoughtful, possessing strong analytical skills and critical thinking skills.\n• You are extremely service-oriented and have the ability to build trust and forge long-term relationships with people of all backgrounds\n• You are articulate and eloquent both in written and verbal communication\n \n Mindset \n\n • You are intellectually curious and have an unquenchable thirst for knowledge.\n• You're not afraid to say, \"I don't know\", but you pick things up quickly and roll up your sleeves.\n• While remaining flexible and adaptable, you are able to uphold your integrity and conduct yourself in an ethical manner.\n• You are a self-starter with tons of initiative. You don't need to wait around for instructions and you proactively propose solutions.\n• You are independent and self-managed, with a bias for continuous contribution to the team.\n \n Why work with us? \n\n We put people first!\n\n Founders \n\n We know how much you admire entrepreneurs - their innovation, their grit, and their courage. So do we! Our motivations are aligned to invest in and support these entrepreneurs who have the courage to solve meaningful problems.\n\n Community \n\n We build and nurture a trusted community of successful and inspiring entrepreneurs, advisors and industry experts, visionary and progressive investors, and supportive vendor partners.\n\n You \n\n This opportunity will immerse you deep into the world of startups, innovation and venture capital! You will gain valuable experience and skills in the investment process as well as value creation for startups to help them scale.\n\n We view wellbeing holistically so for us, it includes physical and mental wellbeing, environmental and social wellbeing, and intellectual and spiritual wellbeing. We run initiatives that ensure all aspects of wellbeing are considered.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "248914612790e0a5",
-   "category": "vc",
-   "level": "intern",
-   "region": "unknown",
-   "first_seen": "2026-09-05T07:30:07Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "Venture Capital Fellow (Tech & AI)",
-   "company": "1752Vc",
-   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-fellow-tech-ai",
-   "location": "Boston, Massachusetts, United States or Remote (United States)",
-   "description": "About the Fellowship \n Join 1752vc's Venture Capital Fellowship and gain hands-on experience sourcing, evaluating, and supporting investments in early-stage startups across AI, Enterprise Software, Fintech, Frontier Technology, Healthcare, and PropTech.\n This fellowship provides direct exposure to how venture capital funds operate while contributing to live deal flow, investment diligence, and portfolio support. 1752vc invests up to $100,000 per company through a structured three-month program focused on identifying and supporting exceptional founders.\n What You'll Do \n As a Venture Capital Fellow, you will:\n • Source and evaluate venture-backed startup opportunities\n• Learn how to do market research and investment diligence\n• Develop founder outreach and relationship skills\n• Analyze companies, markets, and emerging technology trends\n• Contribute to investment discussions and deal evaluation\n• Learn venture capital frameworks used in real-world investing\n Who This Fellowship Is For \n This program is designed for:\n • Professionals seeking to build or advance a career in venture capital or private equity\n• Startup operators interested in transitioning into investing\n• Emerging fund managers establishing or scaling their first funds\n• Angels and family offices seeking to strengthen their investment processes\n• Individuals interested in joining or launching venture funds, accelerators, or startup studios\n• Founders who want to learn how to position themselves to investors\n What You'll Gain \n • Hands-on venture capital experience\n• Exposure to live investment opportunities and diligence processes\n• Direct interaction with investors\n• Practical training in sourcing, evaluation, and investment decision-making\n• Access to a growing network within the startup ecosystem\n Location \n The program operates remotely, with select optional in-person opportunities in Los Angeles and other ecosystem events when available.\n Compensation \n This is not a traditional salaried role. Compensation is performance-based and tied to contributions and outcomes, with opportunities for participants to share in the fund's upside.\n Equal Opportunity \n 1752vc is committed to fostering diversity, equity, and inclusion across all programs.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "12674ec0128c8c02",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:30:07Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "Venture Capital Intern",
-   "company": "V11",
-   "url": "https://venturecapitalcareers.com/companies/v11/jobs/venture-capital-intern-4",
-   "location": "Worldwide (Remote)",
-   "description": "About the job\n About V11\n V11 is an investment firm focused on growth-stage, venture-backed technology companies, investing on a deal-by-deal basis through dedicated investment vehicles (SPVs). We partner with family offices and qualified investors to provide access to select private market opportunities, with a focus on disciplined underwriting and selective deployment. \n Role Overview\n We are seeking highly motivated individuals to support V11's research, ecosystem development, and relationship-building efforts.\n This is an opportunity for students and professionals interested in venture capital, private markets, startups, entrepreneurship, and emerging technologies to gain hands-on exposure to the investment ecosystem.\n Responsibilities\n • Conduct market and industry research.\n• Map venture capital firms, family offices, and industry stakeholders.\n• Support CRM management and relationship tracking.\n• Assist with investor outreach initiatives.\n• Monitor private market, venture capital, and technology trends.\n• Support ecosystem-building efforts and strategic partnerships Preferred Qualifications.\n Preferred Qualifications\n • Strong interest in venture capital, private equity, startups, or technology.\n• Excellent written and verbal communication skills.\n• Self-starter with strong attention to detail.\n• Ability to work independently in a remote environment.\n• Experience with research, business development, finance, or startups is a plus.\n What You Will Gain\n • Direct exposure to venture capital and private markets.\n• Access to founders, investors, and industry professionals.\n• Training on startup evaluation and market research.\n• Experience working alongside an active investment platform.\n• Opportunity to build a network within the venture ecosystem.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "c23f7f6458368fb3",
-   "category": "vc",
-   "level": "intern",
-   "region": "remote",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
   },
   {
    "title": "Product Designer",
@@ -2622,108 +2502,8 @@
    "level": "part_time",
    "region": "remote",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
-  },
-  {
-   "title": "2027 Venture Capital Summer Associate",
-   "company": "Stepstone Group",
-   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-associate",
-   "location": "Baltimore, Maryland, United States",
-   "description": "We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and the answers our clients need to succeed. \n\n The team you’ll join \n\n StepStone Venture Capital is one of the largest venture capital investment firms in the world, currently managing over $20 billion in assets across fund, direct and secondary investment strategies. The team has over 80+ employees* with offices in Baltimore, London, La Jolla and New York.  We actively invest in venture capital partnerships, expansion stage venture/growth equity direct investments and secondary market positions through our fund products. \n\n About the role \n\n Summer Associates will be responsible for supporting the activities of the investment team in analyzing, monitoring, and researching both potential and existing fund and direct investments. Education is also a significant component of the program, as Summer Associates will gain insight into the broader venture capital ecosystem through data-driven research projects and hands-on analysis of prospective investments.\n\n Key responsibilities \n\n As a core member of our tight-knit investment team, you will take part in the full spectrum of venture capital investing, including but not limited to:\n\n• Assisting with the sourcing and evaluation of potential venture funds, expansion stage start-up and secondary investment opportunities, for consideration by the Investment Committee\n\n• Monitoring a sub-set of the existing StepStone Group fund and company portfolio, reporting to the investment team on progress and projections, and preparing quarterly reports for our investors\n\n• Performing broad scale industry research and analysis to learn about and understand industry landscapes within our focus areas, and advising the broader investment team accordingly\n\n• Leading a team of analysts, maintaining responsibility for their workflow\n\n• Completing a Capstone project at the end of the internship, related to educating the firm on a specific sector or industry topic relevant to the Venture Capital market\n\n• Ad hoc projects as assigned\n\n What we’re looking for \n\n We are looking for individuals who have a passion for venture capital.  Most importantly, ideal candidates should display strong attention to detail, a high degree of professionalism, and a dedication to building and maintaining the firm’s existing relationships within the venture capital community.\n\n Specific qualifications for the Associate position include:\n\n• Must be able to work legally in the U.S. without requiring visa sponsorship now or in the future\n\n• Enrolled in a full-time MBA program\n\n• Graduate in December 2027 or Spring 2028\n\n• 3-5 years working in venture capital, private equity, finance, engineering, start-up operations, consulting or similar industry preferred, but not necessary\n\n• An appreciation for our platform approach and the benefits it can provide our investors\n\n• A willingness to support all areas of our business, including our fund and direct investment strategies, both on a primary and secondary basis\n\n• Hard working self-starter with an entrepreneurial mindset who excels with little direction\n\n• People-first, with a personable and humble demeanor interested in supporting others\n\n• An executive presence with the confidence to state your opinion and advocate for it\n\n• Growth mindset and ability to project into the future to consider new technologies and how they may or may not be adopted by consumers and businesses\n\n *As of 3/31/26\n\n Click here to learn more about the intern experience.\n\n Salary: $100,000\n\n The salary is an estimate of pay for this position.  Actual pay may vary depending on job-related factors that can include location, education, skill, and experience.  The salary does not include any benefits or other forms of possible compensation that may be available to employees. \n\n #LI-Hybrid \n \n At StepStone, we believe that our people are our most important asset and crucial to our success.  We are an Equal Opportunity Employer that strives to create an environment that empowers our employees and allows them to be heard, regardless of title or tenure.  Our organizational community features multiple Employment Resource Groups as well as mentorship programs to enhance the employee experience for all.   \n\n As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age, disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law. \n\n Candidates must be at least 18 years old to apply. \n\n Developing People at StepStone",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "611ede9a9fb69888",
-   "category": "vc",
-   "level": "intern",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "2027 Venture Capital Summer Analyst",
-   "company": "Stepstone Group",
-   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-summer-analyst",
-   "location": "Baltimore, Maryland, United States",
-   "description": "We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and the answers our clients need to succeed. \n\n The Team \n\n StepStone Venture Capital is one of the largest venture capital investment firms in the world, currently managing over #30 billion in assets across fund, direct and secondary investment strategies. The team has over 80+ employees* with offices in Baltimore, London, La Jolla, and New York.   We actively invest in venture capital partnerships, expansion stage venture/growth equity direct investments and secondary market positions through our fund products.  \n\n Role Profile \n\n Summer Analysts will be responsible for supporting the activities of the investment team in analyzing, monitoring and researching both potential and existing fund and direct investments. Education is also a significant component of the program, as Summer Analysts will gain insight into the broader venture capital ecosystem through data-driven research projects, hands-on learning with the investment team and participation in weekly calls with the broader partnership. \n\n Responsibilities  \n\n• Performing quantitative analysis, including company, manager and performance modeling and valuation\n\n• Conducting company, manager and industry research\n\n• Participating in due diligence calls with company management teams and General Partners\n\n• Assisting in all aspects of the transaction, whether fund, direct or secondary\n\n• Communicating investment recommendations through written work, including one-page summaries and investment memorandums\n\n• Developing and maintaining proprietary transaction and market intelligence\n\n• Performing investment monitoring analysis in support of the investment team\n\n• Performing other ad hoc projects that reflect the broader needs of the Firm\n\n Qualifications \n\n• Graduate in December 2027 or Spring 2028\n\n• Must be able to work legally in the U.S. without requiring visa sponsorship now or in the future\n\n• GPA of 3.2 or above\n\n• A desire to join our Global Private Markets investments platform after graduation\n\n• High proficiency in MS Word, Power Point and Excel\n\n• Demonstrated track record of academic success\n\n• Excellent written and verbal communication skills\n\n• Strong, demonstrable analytical capabilities, including strong quantitative/modeling skills\n\n• Team player and strong work ethic\n\n *As of 3/31/26\n\n Applications will be reviewed on an ongoing basis. \n\n Click here to learn more about the intern experience.\n\n Salary: $70,000 / year\n\n The salary is an estimate of pay for this position.  Actual pay may vary depending on job-related factors that can include location, education, skill, and experience.  The salary does not include any benefits or other forms of possible compensation that may be available to employees. \n\n #LI-Hybrid \n \n At StepStone, we believe that our people are our most important asset and crucial to our success.  We are an Equal Opportunity Employer that strives to create an environment that empowers our employees and allows them to be heard, regardless of title or tenure.  Our organizational community features multiple Employment Resource Groups as well as mentorship programs to enhance the employee experience for all.   \n\n As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age, disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law. \n\n Candidates must be at least 18 years old to apply. \n\n Developing People at StepStone",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "1b44e1a79d278848",
-   "category": "vc",
-   "level": "intern",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "2027 Venture Capital Business Development Summer Associate",
-   "company": "Stepstone Group",
-   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-business-development-summer-associate",
-   "location": "Baltimore, Maryland, United States",
-   "description": "We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and the answers our clients need to succeed. \n\n The team you’ll join \n\n The Portfolio Impact team helps StepStone stand out by supporting both the investors we work with and the startups we invest in. We help our portfolio companies grow by connecting them with potential customers, partners, and potential acquirers.\n\n To do this, we introduce the startups we back to leaders at major companies — like Fortune 500 and Global 2000 firms — and help them find ways to work together. Because of our unique investment model, we have insight into about 70,000 startups. This means that when a big company wants to find new ideas or partners in a certain area, we can quickly share the best options and explain how they compare, giving us an advantage over others.\n\n About the role \n\n The Portfolio Impact Summer Associate will work alongside the Portfolio Impact team to support our portfolio companies through strategic business and corporate development. Specifically, you will build relationships with technologists at global companies and provide thoughtful, curated recommendations of StepStone portfolio companies that are relevant to their interests and priorities.  Those recommendations are based informed by research and insights we gather via fund and portfolio company relationships.\n\n This unique role provides meaningful exposure to some of the top investors and operators within venture capital. Further, the Summer Associate position is an excellent opportunity to gather perspective on the venture industry, hone your business development skills, and develop an understanding of the technology trends shaping our future. \n\n What you’ll do  \n\n• Conduct Market Research: Identify potential customers or partners for portfolio companies by researching industry trends, key players, and target markets.\n\n• Support Relationship Building: Assist in nurturing relationships with key contacts by organizing meetings, sharing relevant materials, and ensuring a professional follow-up process.\n\n• Collaborate with Portfolio Companies: Work closely with portfolio company teams to understand their product offerings, target customer profiles, and sales strategies.\n\n• Facilitate Warm Introductions: Coordinate and execute outreach to potential customers, using email, phone, or events, to introduce portfolio companies and their solutions.\n\n• Develop Target Lists: Maintain the firm’s database of corporate relationships and identify new prospective partners, leveraging tools like LinkedIn, CRM platforms, and industry directories.\n\n• Track and Report Progress: Monitor the status of introductions, follow-ups, and outcomes; provide regular updates to the firm and our portfolio companies.\n\n• Optimize Introduction Processes: Propose and implement improvements to the introduction workflow to enhance efficiency and effectiveness.\n\n What we’re looking for \n\n• Graduating from an MBA program in Winter 2027 or Spring 2028\n\n• Prior experience in sales and/or business development roles\n\n• Demonstrated track record of academic and professional success\n\n• Willingness to go above and beyond to generate exceptional results for the team\n\n• Compelling and charismatic communicator who is comfortable interfacing with senior executives\n\n• Strong understanding of and interest in technology and venture ecosystem; pays close attention to technology trends and can articulate prospective long-term implications for the industry\n\n Why join us? \n\n At StepStone, we foster a supportive and inclusive team culture where collaboration and learning are the core of what we do. Our collegial atmosphere encourages teamwork, mentorship, and professional development. This summer internship is a great opportunity to gain practical experience and develop critical skills that will help you launch a successful career in venture capital.   \n\n Click here to learn more about the intern experience.\n\n Salary: $105,000 / year\n\n The salary is an estimate of pay for this position.  Actual pay may vary depending on job-related factors that can include location, education, skill, and experience.  The salary does not include any benefits or other forms of possible compensation that may be available to employees. \n\n #LI-Hybrid \n \n At StepStone, we believe that our people are our most important asset and crucial to our success.  We are an Equal Opportunity Employer that strives to create an environment that empowers our employees and allows them to be heard, regardless of title or tenure.  Our organizational community features multiple Employment Resource Groups as well as mentorship programs to enhance the employee experience for all.   \n\n As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age, disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law. \n\n Candidates must be at least 18 years old to apply. \n\n Developing People at StepStone",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "5af8cacc39704431",
-   "category": "vc",
-   "level": "intern",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "2027 Business Development Operations Summer Analyst",
-   "company": "Stepstone Group",
-   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-business-development-operations-summer-analyst",
-   "location": "New York, United States",
-   "description": "We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and the answers our clients need to succeed. \n\n The team you’ll join \n\n The Business Development (“BD”) team helps grow StepStone’s business by building relationships with current and prospective investors around the world. Working closely with teams across the firm, Business Development supports fundraising efforts, prepares client presentations and marketing materials, analyzes market trends, and helps communicate StepStone’s investment strategies and capabilities. This team offers a unique opportunity to gain exposure to private markets, client engagement, sales strategy, and the business side of the investment industry.\n\n Position Overview \n\n This role supports StepStone’s local BD efforts by helping client-facing sales professionals. The BD Analyst/Intern will also support the Global BD team on an ad-hoc basis under the direction of the head of sales operations.\n\n What you’ll do \n\n• Update and maintain data in the firm’s CRM system (Salesforce) on behalf of and in conjunction with the BD team\n\n• Produce various standardized or ad-hoc business development reports\n\n• Liaise with the firm’s Marketing and Communications Team in coordinating the logistics for conferences or events\n\n• Assist the local BD with scheduling meetings and maintain calendars as needed\n\n• Provide general support for the Global BD Team\n\n• Work on ad-hoc BD related projects\n\n What we’re looking for \n\n• Undergraduate student graduating anywhere from December 2027 through June 2028\n\n• Must be able to work legally in the U.S. without requiring visa sponsorship now or in the future \n\n• GPA of 3.2 or above\n\n• Strong analytical, research, and problem-solving capabilities\n\n• Strong knowledge of the Microsoft Office suite including Outlook, Word, Excel and PowerPoint\n\n• Ability to learn new concepts and apply them \n\n• Strong organizational skills with attention to detail\n\n• Ability to be self-starter who can work independently\n\n Application deadline: September 18, 2026 \n\n Click here to learn more about the intern experience.\n\n Salary: $30 / hour\n\n The salary is an estimate of pay for this position.  Actual pay may vary depending on job-related factors that can include location, education, skill, and experience.  The salary does not include any benefits or other forms of possible compensation that may be available to employees. \n\n #LI-Hybrid \n \n At StepStone, we believe that our people are our most important asset and crucial to our success.  We are an Equal Opportunity Employer that strives to create an environment that empowers our employees and allows them to be heard, regardless of title or tenure.  Our organizational community features multiple Employment Resource Groups as well as mentorship programs to enhance the employee experience for all.   \n\n As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age, disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law. \n\n Candidates must be at least 18 years old to apply. \n\n Developing People at StepStone",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "cc68f32cffd5d74c",
-   "category": "vc",
-   "level": "intern",
-   "region": "nyc",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst",
-   "company": "Stepstone Group",
-   "url": "https://venturecapitalcareers.com/companies/stepstone-group/jobs/2027-venture-capital-growth-equity-investor-relations-summer-analyst",
-   "location": "Baltimore, Maryland, United States",
-   "description": "We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and the answers our clients need to succeed. \n\n The team you’ll join \n\n StepStone's Venture Capital Investor Relations team is responsible for supporting the firm's fundraising, client relationship management, and investor communications efforts across its venture capital and growth equity investment strategies. Acting as a key link between investors and investment teams, the group works closely with professionals across business development, investor services, compliance, and marketing to provide timely insights, respond to investor inquiries, and deliver a best-in-class client experience.\n\n About the role \n\n The Investor Relations Summer Analyst will work alongside the Venture Capital and Growth Equity Investor Relations team to support fundraising and client service efforts for the Venture Capital and Growth Equity funds in market. The Investor Relations team spends considerable time engaging with the VC and GE fundraising, investment, investor services, and business intelligence teams to deliver on prospect and existing Limited Partner needs.\n\n This unique role provides meaningful exposure to investor relations in the Venture Capital industry.  Further, the Summer Analyst position is an excellent opportunity to gather asset management industry perspective and learn about different facets of the alternatives investment business. Throughout the internship, participants will build skills that will be valuable in a product management, communications & marketing, and business development context.\n\n Key Responsibilities \n\n• Support due diligence requests for Limited Partners and prospects, including coordination of compliance submissions and various data requests.\n\n• Assist in content creation for various strategy specific and fund marketing initiatives for both internal and external consumption.\n\n• Assist in CRM management and data input for fundraising updates to ensure accurate and timely pipeline updates are available for business management purposes.\n\n• Support data room and subscription document needs for funds in market; organize and maintain sub-doc database, assist with client questions related to the use of various third-party platforms and completion of documents, and partake in various other data requests related to fundraising management.\n\n What we’re looking for \n\n• Graduate in December 2027 to summer 2028\n\n• Must be able to work legally in the U.S. without requiring visa sponsorship now or in the future\n\n• GPA of 3.2 or above\n\n• Pursuing a bachelor’s degree in marketing/communications, English, finance, or a business-related field\n\n• Exposure to technology and/or venture capital strongly preferred\n\n• Demonstrated track record of academic and professional success\n\n• Willingness to go above and beyond to generate exceptional results for the team\n\n• Compelling and charismatic communicator who is comfortable interfacing with senior team members\n\n• Strong understanding of and interest in venture ecosystem; pays close attention to industry trends and evolving client needs\n\n Application deadline: September 18, 2026 \n\n Click  here to learn more about the intern experience.\n\n Salary: $25 / hour\n\n The salary is an estimate of pay for this position.  Actual pay may vary depending on job-related factors that can include location, education, skill, and experience.  The salary does not include any benefits or other forms of possible compensation that may be available to employees. \n\n #LI-Hybrid \n \n At StepStone, we believe that our people are our most important asset and crucial to our success.  We are an Equal Opportunity Employer that strives to create an environment that empowers our employees and allows them to be heard, regardless of title or tenure.  Our organizational community features multiple Employment Resource Groups as well as mentorship programs to enhance the employee experience for all.   \n\n As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age, disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law. \n\n Candidates must be at least 18 years old to apply. \n\n Developing People at StepStone",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": false,
-   "id": "7c3e9a013db948e0",
-   "category": "vc",
-   "level": "intern",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
   },
   {
    "title": "Product Designer, Internship",
@@ -2742,7 +2522,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2762,7 +2542,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2782,7 +2562,7 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2802,28 +2582,8 @@
    "level": "intern",
    "region": "other_us",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
-  },
-  {
-   "title": "Venture Fellow",
-   "company": "Inflect Capital",
-   "url": "https://venturecapitalcareers.com/companies/inflect-capital/jobs/venture-fellow-5",
-   "location": "United States (Remote)",
-   "description": "Inflect Capital is an early-stage healthcare fund backed by Vituity, a nationwide physician group.\n Spend 10 weeks inside an early-stage health tech venture fund. Work on live investments, collaborate with founders, and see how healthcare innovation actually gets built.\n Investment Experience\n Source real investment opportunities, break down markets, and evaluate the companies shaping the future of healthcare. You’ll learn how early-stage decisions really get made.\n Portfolio Support\n Work directly with portfolio companies on growth, hiring, and fundraising strategy. Get hands-on experience helping ambitious founders turn big healthcare ideas into real companies.\n Venture Ecosystem\n Build relationships with entrepreneurs, clinicians, and industry leaders to uncover new opportunities. Work inside the engine – learn more about operations, test tools, improve workflows.\n Who should apply\n We’re looking for curious, ambitious graduate students interested in startups, venture capital, and the future of healthcare. No prior venture experience is required — just initiative and a willingness to learn.\n Fellows come from diverse backgrounds including business, engineering, medicine, research, design, and policy. What matters most is curiosity about innovation in healthcare and willingness to hustle and roll up your sleeves.\n Time commitment and location\n The fellowship runs for 10 weeks and is designed to fit alongside academic or internship schedules. Exact weekly expectations will be shared with accepted fellows.\n The program is primarily remote, with opportunities for in person events, or meetings.\n How to apply\n • Complete our short Airtable application. Deadline is rolling, but apply ASAP.\n• R1 interviews will begin the week of September 8th, 2026. Complete one 30-minute interview.\n• R2 interviews will begin the week of September 14th, 2026. Complete final round of interviews.\n Applications are reviewed on a rolling basis but interviews will begin September 8th. We encourage applying early as possible.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "a2cc982240d48e8d",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
   },
   {
    "title": "Investment Analyst",
@@ -2843,7 +2603,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2864,7 +2624,7 @@
    "level": "part_time",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2884,7 +2644,7 @@
    "level": "intern",
    "region": "nyc",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
   },
   {
@@ -2904,88 +2664,8 @@
    "level": "intern",
    "region": "sf_bay",
    "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-10-21T16:59:35Z",
+   "last_seen": "2026-10-21T21:31:06Z",
    "active": true
-  },
-  {
-   "title": "Investment Analyst Intern/Freelance - Secondary Market",
-   "company": "Clifton",
-   "url": "https://venturecapitalcareers.com/companies/clifton/jobs/investment-analyst-internfreelance---secondary-market",
-   "location": "Worldwide",
-   "description": "Join the Firm Redefining Private Market Access\n\n Clifton Partners is where institutional discipline meets entrepreneurial edge.\n\n We operate at both ends of private markets: as a family office deploying our own capital, and as an advisory boutique. That order matters—we build conviction by investing our own money first, then share our best opportunities with the world's leading families, funds and founders.\n\n We don't operate like an investment bank. We source, structure and distribute access to the companies shaping tomorrow—the entrepreneur's way: faster, sharper, closer to the people who build—and we've already moved billions doing it, for companies like OpenAI, SpaceX, Revolut, Mistral, and Anthropic.\n\n Our founding partners bring an unmatched combination: one built the secondary market playbook at UBS, the other built and sold tech companies worth $150M+.\n\n Together, they're creating the platform that connects the world's best private companies with the capital that understands them.\n\n The Partners You'll Learn From\n\n Diane-Rose Dupré\n\n Diane-Rose Dupré didn't just work at UBS—she became their youngest team head ever in France, leading the Venture & Growth Solutions team.\n\n She personally structured secondary deals for Revolut's and Klarna's expansion rounds, and OpenAI and Anthropic transactions. Her network reads like a who's who of global institutional investors and the largest family offices.\n\n When institutions need complex secondary solutions, they call Diane.\n\n Guillaume Moubeche\n\n Guillaume Moubeche built lemlist from $1,000 to a $150M valuation, then reached $45M ARR while staying 70% owner.\n\n He sold 20% for $30M to focus on what he does best: spotting and accessing tomorrow's winners.\n\n His portfolio includes positions in Groq, Ledger, BackMarket, Revolut, Anthropic and more. His content reaches 250,000+ tech founders and investors weekly.\n\n When founders need liquidity advice from someone who's been there, they call Guillaume.\n\n Why This Job Is Different\n\n At Clifton Partners, you won't be a junior analyst formatting slides. Here you can earn a level of ownership almost no finance or business experience offers, alongside people operating at the top of their game. You'll be:\n\n• Structuring Real Deals: Work on live $10M–$100M transactions for companies you've read about in TechCrunch.\n\n• Accessing Exclusive Networks: Interface directly with secondary investors, family offices managing billions and founders building unicorns.\n\n• Creating Market Intelligence: Your analysis will influence how institutional capital flows into private tech.\n\n• Content Creation at the Core: Content is central to how we build our network and our edge. You'll contribute directly—from BILLIONS, Guillaume's show with unicorn founders, to the analysis and ideas we put in front of the market.\n\n What We're Looking For\n\n• Education: Tier 1 business school (HEC, ESSEC, INSEAD, LSE, LBS, Bocconi, or equivalent).\n\n• Languages: Fluent in English and in French.\n\n• Experience: 6+ months in investment banking, boutique advisory or private equity.\n\n• Bonus: Family office or VC experience, or involvement in entrepreneurial experience.\n\n• Mindset: Entrepreneurial self-starter who thrives in ambiguous, fast-paced environments.\n\n• Technical: Strong financial modeling, and fluent with AI tools to work faster and sharper.\n\n• Communication: Exceptional presentation skills and ability to distill complex information.\n\n• Passion: Genuine interest in technology, startups, and content creation.\n\n The Deal\n\n• Duration: 4–6 months with potential for full-time conversion.\n\n• Location: Fully remote with occasional Paris, Monaco, London, Geneva and Dubai meetings (expenses covered).\n\n• Compensation: Competitive monthly salary (€2,000).\n\n• Access: Direct mentorship from the partners and the full team, not associates.\n\n• Network: Introductions to our network of 500+ institutional investors.\n\n• Start date: September / October.\n\n How to Apply\n\n We don't want your standard cover letter. Send us:\n\n• Your CV—one page max.\n\n• Your take—pick a private tech company and tell us why it's overvalued or undervalued (Loom format).\n\n• Your edge—what unique insight or connection do you bring? (200 words).\n\n• Optional: Something you've created—business, article, model, podcast or newsletter.\n\n• References from previous experiences.\n\n Email gaspard@clifton.partners, simon@clifton.partners and d@clifton.partners with the subject line “Investment Analyst – [Your Name]”. Applications are reviewed on a rolling basis. Start early.\n\n Hiring Process\n\n• First screening based on profile.\n\n• Case—48 hours maximum, five slides on a specific topic.\n\n• Final stage—Q&A, final fit check and entrepreneurial mindset.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "bbcb951673d2c0ce",
-   "category": "vc",
-   "level": "intern",
-   "region": "remote",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "Venture Fellow",
-   "company": "Aegis Ventures",
-   "url": "https://venturecapitalcareers.com/companies/aegis-ventures/jobs/venture-fellow-6",
-   "location": "United States",
-   "description": "About Aegis Ventures \n\n Aegis Ventures partners with entrepreneurs and industry leaders to launch and scale transformative companies in digital health and artificial intelligence. Our platform brings together market-shaping ideas, growth capital, and ambitious individuals to solve major societal problems. With a focus on innovations in healthcare, Aegis has launched four successful portfolio companies in partnership with Northwell Health and recently announced the Digital Consortium to co-develop, invest in, and launch new companies.\n\n About the Company \n\n Aegis Ventures is a next-generation startup studio that partners with entrepreneurs and industry leaders to originate, launch, and scale transformative companies, with a focus on artificial intelligence. The Aegis platform brings together market-shaping ideas, permanent growth capital, and ambitious individuals who are driven to solve major societal problems. Our companies use technology to transform healthcare by dramatically improving quality, access, and cost. Aegis creates new companies with substantial input from our Digital Consortium of a dozen leading health systems and other ecosystem partners. We have launched 6 innovative companies to date and are just getting started.\n\n About the Job \n\n As a  Venture Fellow at Aegis Ventures, you will have a unique opportunity to apply your clinical knowledge and business acumen in a fast-paced, entrepreneurial environment. We are seeking a motivated graduate student with a strong background in consulting, finance, or business to join our team part-time.\n\n You will work closely with our leadership team to conduct due diligence on new investment opportunities, build new companies, and support the growth of our portfolio companies. Venture Fellows are expected to commit a minimum of two semesters, with a weekly time commitment of approximately 15 hours. This role can be remote within the U.S. or based in New York.\n\n What You'll Do \n\n• Evaluate new investment opportunities through due diligence.\n\n• Help develop and launch new healthcare companies, from initial concept and business model development through company formation.\n\n• Collaborate with Aegis portfolio companies on strategic priorities, including growth, partnerships, fundraising, and new market opportunities.\n\n• Support a range of strategic initiatives across the Aegis platform, including thought leadership, industry events, and ecosystem engagement.\n\n What You'll Need \n\n• Currently enrolled in a graduate program.\n\n• Previous experience in consulting, investment banking, or business.\n\n• A desire to make a positive impact on patient outcomes.\n\n• Ability to work independently with strong problem-solving and communication skills.\n\n• Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word) and with AI.\n\n What We Offer \n\n• Experience evaluating early-stage investment opportunities.\n\n• Exposure to many different business models within healthcare.\n\n• A strong network of healthcare executives and entrepreneurs.\n\n• Opportunities to participate in events and thought leadership initiatives.\n\n• Hourly compensation.\n\n Hourly Rate \n\n• $50.00 per hour.\n\n Aegis Ventures is a proud Equal Opportunity Employer — we recruit, train, compensate and promote our team members based on qualifications. We encourage you to apply regardless of your race, religion, national origin, sex, gender identity, sexual orientation, disability, age, veteran status, or any other applicable legally protected characteristics.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "e54c74911bc5f004",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "Venture Fellow",
-   "company": "1752Vc",
-   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-fellow-4",
-   "location": "United States (Remote)",
-   "description": "About the Fellowship\n The Venture Capital Fellowship provides practical venture capital experience through deal sourcing, investment diligence, market analysis, and startup evaluation.\n Participants gain exposure to real deals while learning how venture capital firms identify, assess, and support high-growth startups. 1752vc invests up to $100,000 per company through a structured three-month investment program focused on AI, Enterprise Software, Fintech, Frontier Technology, Healthcare, and PropTech.\n Responsibilities\n Fellows will participate in:\n • Deal sourcing\n• Startup research and market analysis\n• Investment diligence and evaluation\n• Founder outreach and relationship management\n• Industry trend monitoring and competitive analysis\n• VC education\n Ideal Candidates\n This fellowship is designed for:\n • Investment banking, consulting, finance, or strategy professionals\n• Venture capital and private equity career aspirants\n• MBA candidates and graduate students interested in investing\n• Startup founders and operators seeking investing experience\n• Emerging fund managers, angels, and family office professionals\n What You'll Learn\n • Venture capital investment processes\n• Startup evaluation methodologies\n• Deal sourcing and diligence frameworks\n• Market sizing and competitive analysis\n• Founder assessment and relationship management\n• Portfolio support and venture operations\n Program Structure\n • 8 week structured fellowship\n• Remote-first participation\n• Flexible schedule for qualified professionals\n• Exposure to active investment opportunities\n• Collaboration investors and operators\n Location\n The fellowship operates virtually, with select optional in-person opportunities in Los Angeles.\n Compensation\n This is not a traditional salaried role. Compensation is available and tied to performance, with the potential for participants to share in the fund's upside.\n Equal Opportunity\n 1752vc is committed to fostering diversity, equity, and inclusion across all programs.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "bb36c6834f3e78ca",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "other_us",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
-  },
-  {
-   "title": "Venture Capital Analyst Fellowship",
-   "company": "1752Vc",
-   "url": "https://venturecapitalcareers.com/companies/1752vc/jobs/venture-capital-analyst-fellowship",
-   "location": "Worldwide (Remote)",
-   "description": "About the Fellowship\n The Venture Capital Fellowship provides practical venture capital experience through deal sourcing, investment diligence, market analysis, and startup evaluation.\n Participants gain exposure to real deals while learning how venture capital firms identify, assess, and support high-growth startups. 1752vc invests up to $100,000 per company through a structured three-month investment program focused on AI, Enterprise Software, Fintech, Frontier Technology, Healthcare, and PropTech.\n Responsibilities\n Fellows will participate in:\n • Deal sourcing\n• Startup research and market analysis\n• Investment diligence and evaluation\n• Founder outreach and relationship management\n• Industry trend monitoring and competitive analysis\n• VC education\n Ideal Candidates\n This fellowship is designed for:\n • Investment banking, consulting, finance, or strategy professionals\n• Venture capital and private equity career aspirants\n• MBA candidates and graduate students interested in investing\n• Startup founders and operators seeking investing experience\n• Emerging fund managers, angels, and family office professionals\n What You'll Learn\n • Venture capital investment processes\n• Startup evaluation methodologies\n• Deal sourcing and diligence frameworks\n• Market sizing and competitive analysis\n• Founder assessment and relationship management\n• Portfolio support and venture operations\n Program Structure\n • 8 week structured fellowship\n• Remote-first participation\n• Flexible schedule for qualified professionals\n• Exposure to active investment opportunities\n• Collaboration investors and operators\n Location\n The fellowship operates virtually, with select optional in-person opportunities in Los Angeles.\n Compensation\n This is not a traditional salaried role. Compensation is available and tied to performance, with the potential for participants to share in the fund's upside.\n Equal Opportunity \n 1752vc is committed to fostering diversity, equity, and inclusion across all programs.",
-   "source": "vc_careers",
-   "company_tags": [
-    "vc"
-   ],
-   "posted_at": "",
-   "remote": true,
-   "id": "19f219ea5684389c",
-   "category": "vc",
-   "level": "fellowship",
-   "region": "remote",
-   "first_seen": "2026-09-05T07:18:21Z",
-   "last_seen": "2026-09-06T20:13:54Z",
-   "active": false
   }
  ]
 }
